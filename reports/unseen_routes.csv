@@ -1,0 +1,737 @@
+pickup,delivery,route,final_rows
+Charleston,Allentown,Charleston -> Allentown,7
+Jackson,Mobile,Jackson -> Mobile,7
+Baton Rouge,Chicago,Baton Rouge -> Chicago,6
+Charleston,Chicago,Charleston -> Chicago,6
+Charlotte,Baton Rouge,Charlotte -> Baton Rouge,6
+Kansas City,Norfolk,Kansas City -> Norfolk,6
+Lexington,Laredo,Lexington -> Laredo,6
+Phoenix,San Diego,Phoenix -> San Diego,6
+Allentown,Milwaukee,Allentown -> Milwaukee,5
+Atlanta,San Diego,Atlanta -> San Diego,5
+Chicago,Hartford,Chicago -> Hartford,5
+Fresno,Knoxville,Fresno -> Knoxville,5
+Jackson,Oklahoma City,Jackson -> Oklahoma City,5
+Jackson,San Antonio,Jackson -> San Antonio,5
+Knoxville,Milwaukee,Knoxville -> Milwaukee,5
+Norfolk,Mobile,Norfolk -> Mobile,5
+Richmond,Laredo,Richmond -> Laredo,5
+Richmond,San Diego,Richmond -> San Diego,5
+Tucson,Laredo,Tucson -> Laredo,5
+Albuquerque,Knoxville,Albuquerque -> Knoxville,4
+Allentown,Columbia,Allentown -> Columbia,4
+Allentown,Shreveport,Allentown -> Shreveport,4
+Austin,Knoxville,Austin -> Knoxville,4
+Bakersfield,Chicago,Bakersfield -> Chicago,4
+Baton Rouge,Laredo,Baton Rouge -> Laredo,4
+Charleston,Laredo,Charleston -> Laredo,4
+Charlotte,Atlanta,Charlotte -> Atlanta,4
+Charlotte,Fort Wayne,Charlotte -> Fort Wayne,4
+Charlotte,Nashville,Charlotte -> Nashville,4
+Charlotte,San Antonio,Charlotte -> San Antonio,4
+Chicago,El Paso,Chicago -> El Paso,4
+Chicago,Syracuse,Chicago -> Syracuse,4
+Cincinnati,Charlotte,Cincinnati -> Charlotte,4
+Dallas,San Diego,Dallas -> San Diego,4
+Fort Wayne,Laredo,Fort Wayne -> Laredo,4
+Fort Wayne,San Diego,Fort Wayne -> San Diego,4
+Harrisburg,San Diego,Harrisburg -> San Diego,4
+Hartford,Charlotte,Hartford -> Charlotte,4
+Hartford,Laredo,Hartford -> Laredo,4
+Jackson,Buffalo,Jackson -> Buffalo,4
+Jackson,Green Bay,Jackson -> Green Bay,4
+Jackson,Houston,Jackson -> Houston,4
+Jackson,Memphis,Jackson -> Memphis,4
+Jackson,Philadelphia,Jackson -> Philadelphia,4
+Jackson,Phoenix,Jackson -> Phoenix,4
+Knoxville,Nashville,Knoxville -> Nashville,4
+Laredo,Atlanta,Laredo -> Atlanta,4
+Laredo,Bakersfield,Laredo -> Bakersfield,4
+Laredo,San Antonio,Laredo -> San Antonio,4
+Louisville,Madison,Louisville -> Madison,4
+Lubbock,Chicago,Lubbock -> Chicago,4
+Memphis,Charlotte,Memphis -> Charlotte,4
+Mobile,Allentown,Mobile -> Allentown,4
+Montgomery,Charlotte,Montgomery -> Charlotte,4
+Norfolk,Austin,Norfolk -> Austin,4
+Norfolk,Columbia,Norfolk -> Columbia,4
+Norfolk,Corpus Christi,Norfolk -> Corpus Christi,4
+Norfolk,Phoenix,Norfolk -> Phoenix,4
+Phoenix,Chicago,Phoenix -> Chicago,4
+Phoenix,Knoxville,Phoenix -> Knoxville,4
+Phoenix,Laredo,Phoenix -> Laredo,4
+Richmond,Norfolk,Richmond -> Norfolk,4
+San Antonio,Laredo,San Antonio -> Laredo,4
+San Diego,Lexington,San Diego -> Lexington,4
+Shreveport,Charlotte,Shreveport -> Charlotte,4
+Syracuse,Charlotte,Syracuse -> Charlotte,4
+Syracuse,Laredo,Syracuse -> Laredo,4
+Toledo,Chicago,Toledo -> Chicago,4
+Tucson,Jackson,Tucson -> Jackson,4
+Tulsa,Charlotte,Tulsa -> Charlotte,4
+Albany,Allentown,Albany -> Allentown,3
+Albany,San Diego,Albany -> San Diego,3
+Allentown,Austin,Allentown -> Austin,3
+Allentown,Bakersfield,Allentown -> Bakersfield,3
+Allentown,Jacksonville,Allentown -> Jacksonville,3
+Allentown,Kansas City,Allentown -> Kansas City,3
+Allentown,Montgomery,Allentown -> Montgomery,3
+Allentown,Nashville,Allentown -> Nashville,3
+Allentown,San Antonio,Allentown -> San Antonio,3
+Amarillo,Charlotte,Amarillo -> Charlotte,3
+Amarillo,San Diego,Amarillo -> San Diego,3
+Bakersfield,Charlotte,Bakersfield -> Charlotte,3
+Bakersfield,Jackson,Bakersfield -> Jackson,3
+Bakersfield,Laredo,Bakersfield -> Laredo,3
+Bakersfield,Norfolk,Bakersfield -> Norfolk,3
+Baton Rouge,Allentown,Baton Rouge -> Allentown,3
+Baton Rouge,Norfolk,Baton Rouge -> Norfolk,3
+Boston,Laredo,Boston -> Laredo,3
+Charleston,Knoxville,Charleston -> Knoxville,3
+Charleston,San Diego,Charleston -> San Diego,3
+Charlotte,Columbia,Charlotte -> Columbia,3
+Charlotte,Grand Rapids,Charlotte -> Grand Rapids,3
+Charlotte,Hartford,Charlotte -> Hartford,3
+Charlotte,Lexington,Charlotte -> Lexington,3
+Charlotte,Los Angeles,Charlotte -> Los Angeles,3
+Charlotte,Reno,Charlotte -> Reno,3
+Charlotte,Shreveport,Charlotte -> Shreveport,3
+Charlotte,Tucson,Charlotte -> Tucson,3
+Chattanooga,Chicago,Chattanooga -> Chicago,3
+Chicago,Chattanooga,Chicago -> Chattanooga,3
+Chicago,Fort Wayne,Chicago -> Fort Wayne,3
+Chicago,Kansas City,Chicago -> Kansas City,3
+Chicago,Las Vegas,Chicago -> Las Vegas,3
+Chicago,Tulsa,Chicago -> Tulsa,3
+Cincinnati,Jackson,Cincinnati -> Jackson,3
+Cincinnati,Knoxville,Cincinnati -> Knoxville,3
+Cincinnati,San Diego,Cincinnati -> San Diego,3
+Columbia,Chicago,Columbia -> Chicago,3
+El Paso,Jackson,El Paso -> Jackson,3
+Fort Wayne,Chicago,Fort Wayne -> Chicago,3
+Fresno,San Diego,Fresno -> San Diego,3
+Grand Rapids,San Diego,Grand Rapids -> San Diego,3
+Greensboro,Norfolk,Greensboro -> Norfolk,3
+Greensboro,San Diego,Greensboro -> San Diego,3
+Hartford,Knoxville,Hartford -> Knoxville,3
+Hartford,San Diego,Hartford -> San Diego,3
+Houston,Laredo,Houston -> Laredo,3
+Jackson,Bakersfield,Jackson -> Bakersfield,3
+Jackson,Baton Rouge,Jackson -> Baton Rouge,3
+Jackson,Boston,Jackson -> Boston,3
+Jackson,Hartford,Jackson -> Hartford,3
+Jackson,Kansas City,Jackson -> Kansas City,3
+Jackson,New York,Jackson -> New York,3
+Jackson,Reno,Jackson -> Reno,3
+Jackson,Tampa,Jackson -> Tampa,3
+Kansas City,Charlotte,Kansas City -> Charlotte,3
+Kansas City,Knoxville,Kansas City -> Knoxville,3
+Kansas City,San Diego,Kansas City -> San Diego,3
+Knoxville,Amarillo,Knoxville -> Amarillo,3
+Knoxville,Bakersfield,Knoxville -> Bakersfield,3
+Knoxville,Baton Rouge,Knoxville -> Baton Rouge,3
+Knoxville,Corpus Christi,Knoxville -> Corpus Christi,3
+Knoxville,Grand Rapids,Knoxville -> Grand Rapids,3
+Knoxville,Lubbock,Knoxville -> Lubbock,3
+Knoxville,Oklahoma City,Knoxville -> Oklahoma City,3
+Knoxville,Reno,Knoxville -> Reno,3
+Laredo,Albany,Laredo -> Albany,3
+Laredo,Albuquerque,Laredo -> Albuquerque,3
+Laredo,Amarillo,Laredo -> Amarillo,3
+Laredo,Charleston,Laredo -> Charleston,3
+Laredo,Columbia,Laredo -> Columbia,3
+Laredo,Detroit,Laredo -> Detroit,3
+Laredo,Greensboro,Laredo -> Greensboro,3
+Laredo,Los Angeles,Laredo -> Los Angeles,3
+Laredo,Mobile,Laredo -> Mobile,3
+Laredo,Tampa,Laredo -> Tampa,3
+Laredo,Tucson,Laredo -> Tucson,3
+Lexington,Chicago,Lexington -> Chicago,3
+Lexington,San Diego,Lexington -> San Diego,3
+Little Rock,Allentown,Little Rock -> Allentown,3
+Louisville,Norfolk,Louisville -> Norfolk,3
+Lubbock,Knoxville,Lubbock -> Knoxville,3
+Madison,Jackson,Madison -> Jackson,3
+Memphis,Laredo,Memphis -> Laredo,3
+Milwaukee,Laredo,Milwaukee -> Laredo,3
+Milwaukee,Norfolk,Milwaukee -> Norfolk,3
+Mobile,Knoxville,Mobile -> Knoxville,3
+Montgomery,Chicago,Montgomery -> Chicago,3
+Montgomery,Laredo,Montgomery -> Laredo,3
+New York,Chicago,New York -> Chicago,3
+Norfolk,Atlanta,Norfolk -> Atlanta,3
+Norfolk,Bakersfield,Norfolk -> Bakersfield,3
+Norfolk,Grand Rapids,Norfolk -> Grand Rapids,3
+Norfolk,Los Angeles,Norfolk -> Los Angeles,3
+Norfolk,Memphis,Norfolk -> Memphis,3
+Norfolk,Montgomery,Norfolk -> Montgomery,3
+Norfolk,Nashville,Norfolk -> Nashville,3
+Norfolk,Reno,Norfolk -> Reno,3
+Norfolk,Toledo,Norfolk -> Toledo,3
+Norfolk,Tulsa,Norfolk -> Tulsa,3
+Oklahoma City,Laredo,Oklahoma City -> Laredo,3
+Philadelphia,Allentown,Philadelphia -> Allentown,3
+Philadelphia,Laredo,Philadelphia -> Laredo,3
+Phoenix,Charlotte,Phoenix -> Charlotte,3
+Phoenix,Jackson,Phoenix -> Jackson,3
+Reno,Norfolk,Reno -> Norfolk,3
+Richmond,Chicago,Richmond -> Chicago,3
+Richmond,Jackson,Richmond -> Jackson,3
+Richmond,Knoxville,Richmond -> Knoxville,3
+San Antonio,Allentown,San Antonio -> Allentown,3
+San Antonio,Chicago,San Antonio -> Chicago,3
+San Antonio,San Diego,San Antonio -> San Diego,3
+San Diego,Amarillo,San Diego -> Amarillo,3
+San Diego,Charleston,San Diego -> Charleston,3
+San Diego,Columbia,San Diego -> Columbia,3
+San Diego,Kansas City,San Diego -> Kansas City,3
+San Diego,Mobile,San Diego -> Mobile,3
+San Diego,Nashville,San Diego -> Nashville,3
+San Diego,Richmond,San Diego -> Richmond,3
+San Diego,St. Louis,San Diego -> St. Louis,3
+San Francisco,Jackson,San Francisco -> Jackson,3
+Savannah,Charlotte,Savannah -> Charlotte,3
+Savannah,Jackson,Savannah -> Jackson,3
+Shreveport,Chicago,Shreveport -> Chicago,3
+Toledo,Charlotte,Toledo -> Charlotte,3
+Toledo,San Diego,Toledo -> San Diego,3
+Tucson,Charlotte,Tucson -> Charlotte,3
+Tulsa,Jackson,Tulsa -> Jackson,3
+Tulsa,Knoxville,Tulsa -> Knoxville,3
+Tulsa,Norfolk,Tulsa -> Norfolk,3
+Albany,Laredo,Albany -> Laredo,2
+Allentown,Albuquerque,Allentown -> Albuquerque,2
+Allentown,Baltimore,Allentown -> Baltimore,2
+Allentown,Baton Rouge,Allentown -> Baton Rouge,2
+Allentown,Charleston,Allentown -> Charleston,2
+Allentown,El Paso,Allentown -> El Paso,2
+Allentown,Greensboro,Allentown -> Greensboro,2
+Allentown,Hartford,Allentown -> Hartford,2
+Allentown,Las Vegas,Allentown -> Las Vegas,2
+Allentown,Los Angeles,Allentown -> Los Angeles,2
+Allentown,Lubbock,Allentown -> Lubbock,2
+Allentown,Mobile,Allentown -> Mobile,2
+Allentown,Oklahoma City,Allentown -> Oklahoma City,2
+Allentown,Phoenix,Allentown -> Phoenix,2
+Allentown,Richmond,Allentown -> Richmond,2
+Allentown,Syracuse,Allentown -> Syracuse,2
+Allentown,Tampa,Allentown -> Tampa,2
+Allentown,Tucson,Allentown -> Tucson,2
+Allentown,Tulsa,Allentown -> Tulsa,2
+Amarillo,Chicago,Amarillo -> Chicago,2
+Amarillo,Knoxville,Amarillo -> Knoxville,2
+Amarillo,Laredo,Amarillo -> Laredo,2
+Amarillo,Norfolk,Amarillo -> Norfolk,2
+Atlanta,Allentown,Atlanta -> Allentown,2
+Atlanta,Jackson,Atlanta -> Jackson,2
+Atlanta,Laredo,Atlanta -> Laredo,2
+Atlanta,Norfolk,Atlanta -> Norfolk,2
+Austin,Charlotte,Austin -> Charlotte,2
+Bakersfield,San Diego,Bakersfield -> San Diego,2
+Baltimore,Allentown,Baltimore -> Allentown,2
+Boston,Allentown,Boston -> Allentown,2
+Boston,Chicago,Boston -> Chicago,2
+Buffalo,Chicago,Buffalo -> Chicago,2
+Charlotte,Chattanooga,Charlotte -> Chattanooga,2
+Charlotte,Cincinnati,Charlotte -> Cincinnati,2
+Charlotte,Fresno,Charlotte -> Fresno,2
+Charlotte,Jacksonville,Charlotte -> Jacksonville,2
+Charlotte,Lubbock,Charlotte -> Lubbock,2
+Charlotte,Mobile,Charlotte -> Mobile,2
+Charlotte,New Orleans,Charlotte -> New Orleans,2
+Charlotte,Oklahoma City,Charlotte -> Oklahoma City,2
+Charlotte,Philadelphia,Charlotte -> Philadelphia,2
+Charlotte,Richmond,Charlotte -> Richmond,2
+Charlotte,San Francisco,Charlotte -> San Francisco,2
+Chattanooga,Allentown,Chattanooga -> Allentown,2
+Chattanooga,San Diego,Chattanooga -> San Diego,2
+Chicago,Amarillo,Chicago -> Amarillo,2
+Chicago,Atlanta,Chicago -> Atlanta,2
+Chicago,Columbia,Chicago -> Columbia,2
+Chicago,Corpus Christi,Chicago -> Corpus Christi,2
+Chicago,Grand Rapids,Chicago -> Grand Rapids,2
+Chicago,Mobile,Chicago -> Mobile,2
+Chicago,Montgomery,Chicago -> Montgomery,2
+Chicago,Nashville,Chicago -> Nashville,2
+Chicago,New York,Chicago -> New York,2
+Chicago,Philadelphia,Chicago -> Philadelphia,2
+Chicago,Richmond,Chicago -> Richmond,2
+Chicago,Tampa,Chicago -> Tampa,2
+Chicago,Tucson,Chicago -> Tucson,2
+Cincinnati,Allentown,Cincinnati -> Allentown,2
+Cincinnati,Chicago,Cincinnati -> Chicago,2
+Columbia,Knoxville,Columbia -> Knoxville,2
+Columbia,Laredo,Columbia -> Laredo,2
+Columbia,San Diego,Columbia -> San Diego,2
+Dallas,Knoxville,Dallas -> Knoxville,2
+Dayton,Knoxville,Dayton -> Knoxville,2
+El Paso,Allentown,El Paso -> Allentown,2
+El Paso,Chicago,El Paso -> Chicago,2
+El Paso,Norfolk,El Paso -> Norfolk,2
+Fort Wayne,Allentown,Fort Wayne -> Allentown,2
+Fort Wayne,Jackson,Fort Wayne -> Jackson,2
+Fort Wayne,Norfolk,Fort Wayne -> Norfolk,2
+Fresno,Chicago,Fresno -> Chicago,2
+Fresno,Norfolk,Fresno -> Norfolk,2
+Grand Rapids,Charlotte,Grand Rapids -> Charlotte,2
+Grand Rapids,Knoxville,Grand Rapids -> Knoxville,2
+Grand Rapids,Norfolk,Grand Rapids -> Norfolk,2
+Green Bay,Allentown,Green Bay -> Allentown,2
+Green Bay,San Diego,Green Bay -> San Diego,2
+Greensboro,Charlotte,Greensboro -> Charlotte,2
+Hartford,Allentown,Hartford -> Allentown,2
+Houston,Chicago,Houston -> Chicago,2
+Houston,Jackson,Houston -> Jackson,2
+Indianapolis,Allentown,Indianapolis -> Allentown,2
+Indianapolis,Jackson,Indianapolis -> Jackson,2
+Indianapolis,Norfolk,Indianapolis -> Norfolk,2
+Jackson,Albany,Jackson -> Albany,2
+Jackson,Albuquerque,Jackson -> Albuquerque,2
+Jackson,Amarillo,Jackson -> Amarillo,2
+Jackson,Cincinnati,Jackson -> Cincinnati,2
+Jackson,Corpus Christi,Jackson -> Corpus Christi,2
+Jackson,El Paso,Jackson -> El Paso,2
+Jackson,Fort Wayne,Jackson -> Fort Wayne,2
+Jackson,Fresno,Jackson -> Fresno,2
+Jackson,Grand Rapids,Jackson -> Grand Rapids,2
+Jackson,Harrisburg,Jackson -> Harrisburg,2
+Jackson,Lexington,Jackson -> Lexington,2
+Jackson,Louisville,Jackson -> Louisville,2
+Jackson,Madison,Jackson -> Madison,2
+Jackson,Milwaukee,Jackson -> Milwaukee,2
+Jackson,Nashville,Jackson -> Nashville,2
+Jackson,Savannah,Jackson -> Savannah,2
+Jackson,Shreveport,Jackson -> Shreveport,2
+Jackson,Toledo,Jackson -> Toledo,2
+Jackson,Tucson,Jackson -> Tucson,2
+Jacksonville,Knoxville,Jacksonville -> Knoxville,2
+Jacksonville,Norfolk,Jacksonville -> Norfolk,2
+Kansas City,Chicago,Kansas City -> Chicago,2
+Knoxville,Albany,Knoxville -> Albany,2
+Knoxville,Chattanooga,Knoxville -> Chattanooga,2
+Knoxville,Cincinnati,Knoxville -> Cincinnati,2
+Knoxville,Columbia,Knoxville -> Columbia,2
+Knoxville,El Paso,Knoxville -> El Paso,2
+Knoxville,Fresno,Knoxville -> Fresno,2
+Knoxville,Hartford,Knoxville -> Hartford,2
+Knoxville,Houston,Knoxville -> Houston,2
+Knoxville,Indianapolis,Knoxville -> Indianapolis,2
+Knoxville,Kansas City,Knoxville -> Kansas City,2
+Knoxville,Little Rock,Knoxville -> Little Rock,2
+Knoxville,Los Angeles,Knoxville -> Los Angeles,2
+Knoxville,Louisville,Knoxville -> Louisville,2
+Knoxville,Memphis,Knoxville -> Memphis,2
+Knoxville,Mobile,Knoxville -> Mobile,2
+Knoxville,Montgomery,Knoxville -> Montgomery,2
+Knoxville,New Orleans,Knoxville -> New Orleans,2
+Knoxville,Raleigh,Knoxville -> Raleigh,2
+Knoxville,Richmond,Knoxville -> Richmond,2
+Knoxville,San Antonio,Knoxville -> San Antonio,2
+Knoxville,Tampa,Knoxville -> Tampa,2
+Knoxville,Toledo,Knoxville -> Toledo,2
+Knoxville,Tucson,Knoxville -> Tucson,2
+Knoxville,Tulsa,Knoxville -> Tulsa,2
+Laredo,Baltimore,Laredo -> Baltimore,2
+Laredo,Boston,Laredo -> Boston,2
+Laredo,Chattanooga,Laredo -> Chattanooga,2
+Laredo,Fort Wayne,Laredo -> Fort Wayne,2
+Laredo,Grand Rapids,Laredo -> Grand Rapids,2
+Laredo,Lubbock,Laredo -> Lubbock,2
+Laredo,Memphis,Laredo -> Memphis,2
+Laredo,Milwaukee,Laredo -> Milwaukee,2
+Laredo,New Orleans,Laredo -> New Orleans,2
+Laredo,Oklahoma City,Laredo -> Oklahoma City,2
+Laredo,San Francisco,Laredo -> San Francisco,2
+Laredo,Savannah,Laredo -> Savannah,2
+Lexington,Allentown,Lexington -> Allentown,2
+Lexington,Jackson,Lexington -> Jackson,2
+Little Rock,Charlotte,Little Rock -> Charlotte,2
+Los Angeles,Jackson,Los Angeles -> Jackson,2
+Los Angeles,Knoxville,Los Angeles -> Knoxville,2
+Los Angeles,Laredo,Los Angeles -> Laredo,2
+Lubbock,Jackson,Lubbock -> Jackson,2
+Lubbock,San Diego,Lubbock -> San Diego,2
+Madison,Laredo,Madison -> Laredo,2
+Memphis,Chicago,Memphis -> Chicago,2
+Memphis,San Diego,Memphis -> San Diego,2
+Milwaukee,Allentown,Milwaukee -> Allentown,2
+Milwaukee,Charlotte,Milwaukee -> Charlotte,2
+Milwaukee,Chicago,Milwaukee -> Chicago,2
+Milwaukee,Jackson,Milwaukee -> Jackson,2
+Mobile,Charlotte,Mobile -> Charlotte,2
+Mobile,Laredo,Mobile -> Laredo,2
+Mobile,Norfolk,Mobile -> Norfolk,2
+Montgomery,Norfolk,Montgomery -> Norfolk,2
+Nashville,Allentown,Nashville -> Allentown,2
+Nashville,Chicago,Nashville -> Chicago,2
+Nashville,Jackson,Nashville -> Jackson,2
+Nashville,San Diego,Nashville -> San Diego,2
+New Orleans,Chicago,New Orleans -> Chicago,2
+New York,Allentown,New York -> Allentown,2
+New York,Knoxville,New York -> Knoxville,2
+New York,Norfolk,New York -> Norfolk,2
+New York,San Diego,New York -> San Diego,2
+Norfolk,Albany,Norfolk -> Albany,2
+Norfolk,Amarillo,Norfolk -> Amarillo,2
+Norfolk,Cincinnati,Norfolk -> Cincinnati,2
+Norfolk,Detroit,Norfolk -> Detroit,2
+Norfolk,Fort Wayne,Norfolk -> Fort Wayne,2
+Norfolk,Madison,Norfolk -> Madison,2
+Norfolk,Oklahoma City,Norfolk -> Oklahoma City,2
+Norfolk,San Francisco,Norfolk -> San Francisco,2
+Norfolk,Syracuse,Norfolk -> Syracuse,2
+Norfolk,Tampa,Norfolk -> Tampa,2
+Oklahoma City,San Diego,Oklahoma City -> San Diego,2
+Philadelphia,Norfolk,Philadelphia -> Norfolk,2
+Providence,Norfolk,Providence -> Norfolk,2
+Providence,San Diego,Providence -> San Diego,2
+Raleigh,Laredo,Raleigh -> Laredo,2
+Salt Lake City,Chicago,Salt Lake City -> Chicago,2
+Salt Lake City,Laredo,Salt Lake City -> Laredo,2
+San Diego,Albany,San Diego -> Albany,2
+San Diego,Albuquerque,San Diego -> Albuquerque,2
+San Diego,Baltimore,San Diego -> Baltimore,2
+San Diego,Baton Rouge,San Diego -> Baton Rouge,2
+San Diego,Dallas,San Diego -> Dallas,2
+San Diego,Fort Wayne,San Diego -> Fort Wayne,2
+San Diego,Fresno,San Diego -> Fresno,2
+San Diego,Grand Rapids,San Diego -> Grand Rapids,2
+San Diego,Harrisburg,San Diego -> Harrisburg,2
+San Diego,Hartford,San Diego -> Hartford,2
+San Diego,Indianapolis,San Diego -> Indianapolis,2
+San Diego,Jacksonville,San Diego -> Jacksonville,2
+San Diego,Los Angeles,San Diego -> Los Angeles,2
+San Diego,Memphis,San Diego -> Memphis,2
+San Diego,Milwaukee,San Diego -> Milwaukee,2
+San Diego,Tampa,San Diego -> Tampa,2
+San Diego,Toledo,San Diego -> Toledo,2
+San Diego,Tucson,San Diego -> Tucson,2
+San Diego,Tulsa,San Diego -> Tulsa,2
+San Diego,Washington,San Diego -> Washington,2
+San Francisco,Charlotte,San Francisco -> Charlotte,2
+San Francisco,Laredo,San Francisco -> Laredo,2
+Savannah,Chicago,Savannah -> Chicago,2
+Savannah,Knoxville,Savannah -> Knoxville,2
+Savannah,Laredo,Savannah -> Laredo,2
+Shreveport,Allentown,Shreveport -> Allentown,2
+Shreveport,Laredo,Shreveport -> Laredo,2
+Shreveport,Norfolk,Shreveport -> Norfolk,2
+Syracuse,Jackson,Syracuse -> Jackson,2
+Syracuse,Knoxville,Syracuse -> Knoxville,2
+Syracuse,Norfolk,Syracuse -> Norfolk,2
+Toledo,Allentown,Toledo -> Allentown,2
+Toledo,Knoxville,Toledo -> Knoxville,2
+Tucson,Chicago,Tucson -> Chicago,2
+Tucson,San Diego,Tucson -> San Diego,2
+Tulsa,Chicago,Tulsa -> Chicago,2
+Tulsa,Laredo,Tulsa -> Laredo,2
+Albany,Charlotte,Albany -> Charlotte,1
+Albany,Chicago,Albany -> Chicago,1
+Albany,Jackson,Albany -> Jackson,1
+Albany,Knoxville,Albany -> Knoxville,1
+Albany,Norfolk,Albany -> Norfolk,1
+Albuquerque,Allentown,Albuquerque -> Allentown,1
+Albuquerque,Charlotte,Albuquerque -> Charlotte,1
+Albuquerque,Jackson,Albuquerque -> Jackson,1
+Albuquerque,San Diego,Albuquerque -> San Diego,1
+Allentown,Albany,Allentown -> Albany,1
+Allentown,Amarillo,Allentown -> Amarillo,1
+Allentown,Buffalo,Allentown -> Buffalo,1
+Allentown,Chattanooga,Allentown -> Chattanooga,1
+Allentown,Cincinnati,Allentown -> Cincinnati,1
+Allentown,Corpus Christi,Allentown -> Corpus Christi,1
+Allentown,Detroit,Allentown -> Detroit,1
+Allentown,Fort Wayne,Allentown -> Fort Wayne,1
+Allentown,Fresno,Allentown -> Fresno,1
+Allentown,Harrisburg,Allentown -> Harrisburg,1
+Allentown,Madison,Allentown -> Madison,1
+Allentown,Memphis,Allentown -> Memphis,1
+Allentown,New Orleans,Allentown -> New Orleans,1
+Allentown,New York,Allentown -> New York,1
+Allentown,Philadelphia,Allentown -> Philadelphia,1
+Allentown,Raleigh,Allentown -> Raleigh,1
+Allentown,San Francisco,Allentown -> San Francisco,1
+Allentown,St. Louis,Allentown -> St. Louis,1
+Allentown,Toledo,Allentown -> Toledo,1
+Allentown,Washington,Allentown -> Washington,1
+Amarillo,Allentown,Amarillo -> Allentown,1
+Atlanta,Charlotte,Atlanta -> Charlotte,1
+Austin,Chicago,Austin -> Chicago,1
+Baltimore,Charlotte,Baltimore -> Charlotte,1
+Baltimore,Jackson,Baltimore -> Jackson,1
+Baltimore,Norfolk,Baltimore -> Norfolk,1
+Baton Rouge,Jackson,Baton Rouge -> Jackson,1
+Baton Rouge,San Diego,Baton Rouge -> San Diego,1
+Buffalo,Allentown,Buffalo -> Allentown,1
+Buffalo,Charlotte,Buffalo -> Charlotte,1
+Buffalo,Jackson,Buffalo -> Jackson,1
+Buffalo,Knoxville,Buffalo -> Knoxville,1
+Buffalo,Norfolk,Buffalo -> Norfolk,1
+Buffalo,San Diego,Buffalo -> San Diego,1
+Charleston,Charlotte,Charleston -> Charlotte,1
+Charleston,Norfolk,Charleston -> Norfolk,1
+Charlotte,Albany,Charlotte -> Albany,1
+Charlotte,Albuquerque,Charlotte -> Albuquerque,1
+Charlotte,Amarillo,Charlotte -> Amarillo,1
+Charlotte,Buffalo,Charlotte -> Buffalo,1
+Charlotte,Charleston,Charlotte -> Charleston,1
+Charlotte,Corpus Christi,Charlotte -> Corpus Christi,1
+Charlotte,Dallas,Charlotte -> Dallas,1
+Charlotte,Detroit,Charlotte -> Detroit,1
+Charlotte,El Paso,Charlotte -> El Paso,1
+Charlotte,Greensboro,Charlotte -> Greensboro,1
+Charlotte,Houston,Charlotte -> Houston,1
+Charlotte,Kansas City,Charlotte -> Kansas City,1
+Charlotte,Louisville,Charlotte -> Louisville,1
+Charlotte,Memphis,Charlotte -> Memphis,1
+Charlotte,Milwaukee,Charlotte -> Milwaukee,1
+Charlotte,New York,Charlotte -> New York,1
+Charlotte,Phoenix,Charlotte -> Phoenix,1
+Charlotte,Providence,Charlotte -> Providence,1
+Charlotte,Tampa,Charlotte -> Tampa,1
+Charlotte,Toledo,Charlotte -> Toledo,1
+Chattanooga,Jackson,Chattanooga -> Jackson,1
+Chattanooga,Norfolk,Chattanooga -> Norfolk,1
+Chicago,Albuquerque,Chicago -> Albuquerque,1
+Chicago,Baton Rouge,Chicago -> Baton Rouge,1
+Chicago,Birmingham,Chicago -> Birmingham,1
+Chicago,Charleston,Chicago -> Charleston,1
+Chicago,Cincinnati,Chicago -> Cincinnati,1
+Chicago,Detroit,Chicago -> Detroit,1
+Chicago,Fresno,Chicago -> Fresno,1
+Chicago,Green Bay,Chicago -> Green Bay,1
+Chicago,Houston,Chicago -> Houston,1
+Chicago,Lexington,Chicago -> Lexington,1
+Chicago,Los Angeles,Chicago -> Los Angeles,1
+Chicago,Memphis,Chicago -> Memphis,1
+Chicago,Milwaukee,Chicago -> Milwaukee,1
+Chicago,New Orleans,Chicago -> New Orleans,1
+Chicago,Oklahoma City,Chicago -> Oklahoma City,1
+Chicago,Phoenix,Chicago -> Phoenix,1
+Chicago,Raleigh,Chicago -> Raleigh,1
+Chicago,Salt Lake City,Chicago -> Salt Lake City,1
+Chicago,San Antonio,Chicago -> San Antonio,1
+Chicago,Shreveport,Chicago -> Shreveport,1
+Chicago,Toledo,Chicago -> Toledo,1
+Cincinnati,Norfolk,Cincinnati -> Norfolk,1
+Columbia,Charlotte,Columbia -> Charlotte,1
+Columbia,Jackson,Columbia -> Jackson,1
+Corpus Christi,Allentown,Corpus Christi -> Allentown,1
+Corpus Christi,Knoxville,Corpus Christi -> Knoxville,1
+Corpus Christi,Norfolk,Corpus Christi -> Norfolk,1
+Corpus Christi,San Diego,Corpus Christi -> San Diego,1
+Dallas,Allentown,Dallas -> Allentown,1
+Dallas,Charlotte,Dallas -> Charlotte,1
+Dallas,Indianapolis,Dallas -> Indianapolis,1
+Dallas,Jackson,Dallas -> Jackson,1
+Dayton,Chicago,Dayton -> Chicago,1
+Dayton,Laredo,Dayton -> Laredo,1
+Dayton,Norfolk,Dayton -> Norfolk,1
+Dayton,San Diego,Dayton -> San Diego,1
+Detroit,Jackson,Detroit -> Jackson,1
+Detroit,Salt Lake City,Detroit -> Salt Lake City,1
+Detroit,San Diego,Detroit -> San Diego,1
+El Paso,Charlotte,El Paso -> Charlotte,1
+El Paso,Knoxville,El Paso -> Knoxville,1
+Fort Wayne,Charlotte,Fort Wayne -> Charlotte,1
+Fresno,Charlotte,Fresno -> Charlotte,1
+Fresno,Jackson,Fresno -> Jackson,1
+Fresno,Laredo,Fresno -> Laredo,1
+Grand Rapids,Allentown,Grand Rapids -> Allentown,1
+Grand Rapids,Chicago,Grand Rapids -> Chicago,1
+Grand Rapids,Jackson,Grand Rapids -> Jackson,1
+Grand Rapids,Laredo,Grand Rapids -> Laredo,1
+Green Bay,Chicago,Green Bay -> Chicago,1
+Green Bay,Jackson,Green Bay -> Jackson,1
+Green Bay,Knoxville,Green Bay -> Knoxville,1
+Green Bay,Laredo,Green Bay -> Laredo,1
+Green Bay,Norfolk,Green Bay -> Norfolk,1
+Greensboro,Chicago,Greensboro -> Chicago,1
+Greensboro,Knoxville,Greensboro -> Knoxville,1
+Harrisburg,Charlotte,Harrisburg -> Charlotte,1
+Harrisburg,Madison,Harrisburg -> Madison,1
+Harrisburg,Norfolk,Harrisburg -> Norfolk,1
+Hartford,Jackson,Hartford -> Jackson,1
+Hartford,Norfolk,Hartford -> Norfolk,1
+Houston,Allentown,Houston -> Allentown,1
+Houston,Charlotte,Houston -> Charlotte,1
+Houston,Knoxville,Houston -> Knoxville,1
+Houston,Norfolk,Houston -> Norfolk,1
+Indianapolis,Chicago,Indianapolis -> Chicago,1
+Indianapolis,Laredo,Indianapolis -> Laredo,1
+Indianapolis,San Diego,Indianapolis -> San Diego,1
+Jackson,Atlanta,Jackson -> Atlanta,1
+Jackson,Birmingham,Jackson -> Birmingham,1
+Jackson,Chattanooga,Jackson -> Chattanooga,1
+Jackson,Columbia,Jackson -> Columbia,1
+Jackson,Dallas,Jackson -> Dallas,1
+Jackson,Dayton,Jackson -> Dayton,1
+Jackson,Detroit,Jackson -> Detroit,1
+Jackson,Greensboro,Jackson -> Greensboro,1
+Jackson,Indianapolis,Jackson -> Indianapolis,1
+Jackson,Los Angeles,Jackson -> Los Angeles,1
+Jackson,Lubbock,Jackson -> Lubbock,1
+Jackson,New Orleans,Jackson -> New Orleans,1
+Jackson,Providence,Jackson -> Providence,1
+Jackson,Richmond,Jackson -> Richmond,1
+Jackson,Tulsa,Jackson -> Tulsa,1
+Jacksonville,Allentown,Jacksonville -> Allentown,1
+Jacksonville,Charlotte,Jacksonville -> Charlotte,1
+Jacksonville,Jackson,Jacksonville -> Jackson,1
+Jacksonville,San Diego,Jacksonville -> San Diego,1
+Kansas City,Allentown,Kansas City -> Allentown,1
+Kansas City,Jackson,Kansas City -> Jackson,1
+Knoxville,Austin,Knoxville -> Austin,1
+Knoxville,Baltimore,Knoxville -> Baltimore,1
+Knoxville,Charleston,Knoxville -> Charleston,1
+Knoxville,Detroit,Knoxville -> Detroit,1
+Knoxville,Fort Wayne,Knoxville -> Fort Wayne,1
+Knoxville,Harrisburg,Knoxville -> Harrisburg,1
+Knoxville,Jacksonville,Knoxville -> Jacksonville,1
+Knoxville,New York,Knoxville -> New York,1
+Knoxville,Philadelphia,Knoxville -> Philadelphia,1
+Knoxville,Phoenix,Knoxville -> Phoenix,1
+Knoxville,Salt Lake City,Knoxville -> Salt Lake City,1
+Knoxville,Shreveport,Knoxville -> Shreveport,1
+Laredo,Austin,Laredo -> Austin,1
+Laredo,Buffalo,Laredo -> Buffalo,1
+Laredo,Cincinnati,Laredo -> Cincinnati,1
+Laredo,Dayton,Laredo -> Dayton,1
+Laredo,El Paso,Laredo -> El Paso,1
+Laredo,Fresno,Laredo -> Fresno,1
+Laredo,Harrisburg,Laredo -> Harrisburg,1
+Laredo,Indianapolis,Laredo -> Indianapolis,1
+Laredo,Jacksonville,Laredo -> Jacksonville,1
+Laredo,Little Rock,Laredo -> Little Rock,1
+Laredo,Louisville,Laredo -> Louisville,1
+Laredo,Madison,Laredo -> Madison,1
+Laredo,Montgomery,Laredo -> Montgomery,1
+Laredo,Nashville,Laredo -> Nashville,1
+Laredo,Philadelphia,Laredo -> Philadelphia,1
+Laredo,Phoenix,Laredo -> Phoenix,1
+Laredo,Richmond,Laredo -> Richmond,1
+Laredo,Salt Lake City,Laredo -> Salt Lake City,1
+Laredo,Shreveport,Laredo -> Shreveport,1
+Laredo,Syracuse,Laredo -> Syracuse,1
+Las Vegas,Laredo,Las Vegas -> Laredo,1
+Las Vegas,New Orleans,Las Vegas -> New Orleans,1
+Las Vegas,Norfolk,Las Vegas -> Norfolk,1
+Las Vegas,Providence,Las Vegas -> Providence,1
+Las Vegas,Savannah,Las Vegas -> Savannah,1
+Las Vegas,Washington,Las Vegas -> Washington,1
+Lexington,Norfolk,Lexington -> Norfolk,1
+Little Rock,Chicago,Little Rock -> Chicago,1
+Little Rock,Laredo,Little Rock -> Laredo,1
+Little Rock,Norfolk,Little Rock -> Norfolk,1
+Little Rock,San Diego,Little Rock -> San Diego,1
+Los Angeles,Allentown,Los Angeles -> Allentown,1
+Los Angeles,Charlotte,Los Angeles -> Charlotte,1
+Los Angeles,Chicago,Los Angeles -> Chicago,1
+Louisville,Chicago,Louisville -> Chicago,1
+Louisville,Jackson,Louisville -> Jackson,1
+Louisville,Knoxville,Louisville -> Knoxville,1
+Lubbock,Allentown,Lubbock -> Allentown,1
+Lubbock,Charlotte,Lubbock -> Charlotte,1
+Lubbock,Norfolk,Lubbock -> Norfolk,1
+Madison,Detroit,Madison -> Detroit,1
+Madison,Norfolk,Madison -> Norfolk,1
+Memphis,Allentown,Memphis -> Allentown,1
+Memphis,Jackson,Memphis -> Jackson,1
+Memphis,Norfolk,Memphis -> Norfolk,1
+Milwaukee,San Diego,Milwaukee -> San Diego,1
+Mobile,Jackson,Mobile -> Jackson,1
+Montgomery,Allentown,Montgomery -> Allentown,1
+Montgomery,Jackson,Montgomery -> Jackson,1
+Montgomery,Knoxville,Montgomery -> Knoxville,1
+Montgomery,San Diego,Montgomery -> San Diego,1
+Nashville,Laredo,Nashville -> Laredo,1
+New Orleans,Allentown,New Orleans -> Allentown,1
+New Orleans,Charlotte,New Orleans -> Charlotte,1
+New Orleans,Laredo,New Orleans -> Laredo,1
+New Orleans,San Diego,New Orleans -> San Diego,1
+New York,Charlotte,New York -> Charlotte,1
+New York,Jackson,New York -> Jackson,1
+New York,Laredo,New York -> Laredo,1
+Norfolk,Birmingham,Norfolk -> Birmingham,1
+Norfolk,Buffalo,Norfolk -> Buffalo,1
+Norfolk,El Paso,Norfolk -> El Paso,1
+Norfolk,Green Bay,Norfolk -> Green Bay,1
+Norfolk,Harrisburg,Norfolk -> Harrisburg,1
+Norfolk,Jacksonville,Norfolk -> Jacksonville,1
+Norfolk,Las Vegas,Norfolk -> Las Vegas,1
+Norfolk,Lexington,Norfolk -> Lexington,1
+Norfolk,Lubbock,Norfolk -> Lubbock,1
+Norfolk,Milwaukee,Norfolk -> Milwaukee,1
+Norfolk,New York,Norfolk -> New York,1
+Norfolk,Philadelphia,Norfolk -> Philadelphia,1
+Norfolk,Providence,Norfolk -> Providence,1
+Norfolk,Raleigh,Norfolk -> Raleigh,1
+Norfolk,Richmond,Norfolk -> Richmond,1
+Norfolk,San Antonio,Norfolk -> San Antonio,1
+Norfolk,Washington,Norfolk -> Washington,1
+Oklahoma City,Allentown,Oklahoma City -> Allentown,1
+Oklahoma City,Charlotte,Oklahoma City -> Charlotte,1
+Oklahoma City,Chicago,Oklahoma City -> Chicago,1
+Oklahoma City,Jackson,Oklahoma City -> Jackson,1
+Oklahoma City,Norfolk,Oklahoma City -> Norfolk,1
+Philadelphia,Jackson,Philadelphia -> Jackson,1
+Philadelphia,Knoxville,Philadelphia -> Knoxville,1
+Philadelphia,San Diego,Philadelphia -> San Diego,1
+Providence,Allentown,Providence -> Allentown,1
+Providence,Chicago,Providence -> Chicago,1
+Providence,Jackson,Providence -> Jackson,1
+Raleigh,Allentown,Raleigh -> Allentown,1
+Raleigh,Charlotte,Raleigh -> Charlotte,1
+Raleigh,Chicago,Raleigh -> Chicago,1
+Raleigh,Knoxville,Raleigh -> Knoxville,1
+Raleigh,Norfolk,Raleigh -> Norfolk,1
+Raleigh,San Diego,Raleigh -> San Diego,1
+Reno,Charlotte,Reno -> Charlotte,1
+Reno,Chicago,Reno -> Chicago,1
+Reno,Knoxville,Reno -> Knoxville,1
+Reno,Laredo,Reno -> Laredo,1
+Reno,San Diego,Reno -> San Diego,1
+Richmond,Charlotte,Richmond -> Charlotte,1
+Salt Lake City,Allentown,Salt Lake City -> Allentown,1
+Salt Lake City,Charlotte,Salt Lake City -> Charlotte,1
+Salt Lake City,San Diego,Salt Lake City -> San Diego,1
+San Antonio,Charlotte,San Antonio -> Charlotte,1
+San Antonio,Norfolk,San Antonio -> Norfolk,1
+San Diego,Atlanta,San Diego -> Atlanta,1
+San Diego,Austin,San Diego -> Austin,1
+San Diego,Birmingham,San Diego -> Birmingham,1
+San Diego,Boston,San Diego -> Boston,1
+San Diego,Buffalo,San Diego -> Buffalo,1
+San Diego,Chattanooga,San Diego -> Chattanooga,1
+San Diego,Greensboro,San Diego -> Greensboro,1
+San Diego,Houston,San Diego -> Houston,1
+San Diego,Montgomery,San Diego -> Montgomery,1
+San Diego,New Orleans,San Diego -> New Orleans,1
+San Diego,Oklahoma City,San Diego -> Oklahoma City,1
+San Diego,Philadelphia,San Diego -> Philadelphia,1
+San Diego,Phoenix,San Diego -> Phoenix,1
+San Diego,Providence,San Diego -> Providence,1
+San Diego,Shreveport,San Diego -> Shreveport,1
+San Diego,Syracuse,San Diego -> Syracuse,1
+San Francisco,Allentown,San Francisco -> Allentown,1
+San Francisco,Chicago,San Francisco -> Chicago,1
+San Francisco,Dallas,San Francisco -> Dallas,1
+San Francisco,San Diego,San Francisco -> San Diego,1
+Savannah,Austin,Savannah -> Austin,1
+Savannah,Norfolk,Savannah -> Norfolk,1
+Savannah,San Diego,Savannah -> San Diego,1
+Shreveport,San Diego,Shreveport -> San Diego,1
+Syracuse,Allentown,Syracuse -> Allentown,1
+Syracuse,Chicago,Syracuse -> Chicago,1
+Tampa,Allentown,Tampa -> Allentown,1
+Tampa,Chicago,Tampa -> Chicago,1
+Tampa,Knoxville,Tampa -> Knoxville,1
+Tampa,Norfolk,Tampa -> Norfolk,1
+Toledo,Jackson,Toledo -> Jackson,1
+Tucson,Allentown,Tucson -> Allentown,1
+Tulsa,San Diego,Tulsa -> San Diego,1
+Washington,Allentown,Washington -> Allentown,1
+Washington,Charlotte,Washington -> Charlotte,1
+Washington,Knoxville,Washington -> Knoxville,1
+Washington,Laredo,Washington -> Laredo,1
+Washington,San Diego,Washington -> San Diego,1

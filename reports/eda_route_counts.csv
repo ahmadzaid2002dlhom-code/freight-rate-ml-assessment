@@ -1,0 +1,4015 @@
+route,loads
+Phoenix -> Shreveport,39
+Lexington -> Atlanta,39
+Columbia -> Oklahoma City,39
+Fort Wayne -> Philadelphia,38
+Lexington -> Kansas City,37
+Richmond -> Phoenix,37
+Fort Wayne -> Hartford,37
+Lexington -> Cincinnati,37
+Shreveport -> Hartford,37
+Richmond -> Oklahoma City,37
+Mobile -> Phoenix,36
+Fort Wayne -> Cincinnati,36
+Oklahoma City -> Nashville,35
+Richmond -> Cincinnati,35
+Syracuse -> Mobile,35
+Columbia -> Montgomery,35
+Nashville -> Baton Rouge,35
+Hartford -> Baton Rouge,35
+Fort Wayne -> Lexington,35
+Oklahoma City -> Columbia,35
+Bakersfield -> Hartford,35
+Philadelphia -> Lexington,35
+Oklahoma City -> Atlanta,35
+Oklahoma City -> Mobile,35
+Grand Rapids -> Mobile,34
+Bakersfield -> Fort Wayne,34
+Bakersfield -> Lexington,34
+Bakersfield -> Kansas City,34
+Shreveport -> Fort Wayne,34
+Nashville -> Bakersfield,34
+Oklahoma City -> Fort Wayne,33
+Nashville -> Cincinnati,33
+Fort Wayne -> Bakersfield,33
+Bakersfield -> Atlanta,33
+Oklahoma City -> Baton Rouge,33
+Fort Wayne -> Tucson,33
+Tucson -> Bakersfield,33
+Atlanta -> Nashville,33
+Phoenix -> Oklahoma City,33
+Mobile -> Cincinnati,33
+Bakersfield -> Cincinnati,32
+Phoenix -> Baton Rouge,32
+Hartford -> Amarillo,32
+Richmond -> Bakersfield,32
+Cincinnati -> Bakersfield,32
+Fort Wayne -> Richmond,32
+Hartford -> Milwaukee,32
+Nashville -> Lexington,32
+San Antonio -> Fort Wayne,32
+Nashville -> Mobile,32
+Nashville -> Tucson,32
+Lexington -> Fort Wayne,32
+Richmond -> Philadelphia,31
+Cincinnati -> Lexington,31
+Phoenix -> Nashville,31
+Phoenix -> Lexington,31
+Shreveport -> Nashville,31
+Phoenix -> Atlanta,31
+Los Angeles -> Baton Rouge,31
+Kansas City -> Los Angeles,31
+Richmond -> San Antonio,31
+Baton Rouge -> Columbia,31
+Oklahoma City -> Cincinnati,31
+Baton Rouge -> Cincinnati,30
+Bakersfield -> Richmond,30
+Cincinnati -> Baton Rouge,30
+Lexington -> Oklahoma City,30
+Atlanta -> Cincinnati,30
+Atlanta -> Phoenix,30
+Lexington -> Nashville,30
+Philadelphia -> Cincinnati,30
+Baton Rouge -> Hartford,30
+Hartford -> Kansas City,30
+Richmond -> Hartford,30
+Memphis -> Richmond,30
+Baton Rouge -> Memphis,30
+Atlanta -> Oklahoma City,30
+Baton Rouge -> Fort Wayne,29
+Baton Rouge -> Oklahoma City,29
+Baton Rouge -> Lexington,29
+Nashville -> Atlanta,29
+Phoenix -> Mobile,29
+Bakersfield -> San Antonio,29
+Oklahoma City -> Phoenix,29
+Shreveport -> Syracuse,29
+Los Angeles -> Phoenix,29
+Oklahoma City -> Hartford,29
+Fort Wayne -> Baton Rouge,29
+Richmond -> Lexington,29
+Amarillo -> Bakersfield,29
+Kansas City -> Tucson,29
+Hartford -> Nashville,29
+El Paso -> Kansas City,29
+Oklahoma City -> Lexington,29
+San Antonio -> Lexington,29
+Atlanta -> Fort Wayne,29
+Kansas City -> Nashville,29
+Mobile -> Columbia,29
+Bakersfield -> Shreveport,29
+Los Angeles -> Lexington,29
+Hartford -> Philadelphia,29
+Lexington -> Mobile,29
+Nashville -> Richmond,29
+Kansas City -> Phoenix,29
+Lexington -> Philadelphia,28
+Fort Wayne -> Atlanta,28
+Hartford -> Atlanta,28
+Syracuse -> Columbia,28
+Richmond -> Fort Wayne,28
+Fort Wayne -> Mobile,28
+Oklahoma City -> Kansas City,28
+Nashville -> Columbia,28
+Columbia -> Hartford,28
+Oklahoma City -> San Antonio,28
+Bakersfield -> Fresno,28
+Syracuse -> Richmond,28
+Oklahoma City -> Lubbock,28
+Oklahoma City -> Richmond,28
+Kansas City -> Lexington,28
+Philadelphia -> Richmond,28
+Columbia -> Kansas City,28
+Lexington -> Los Angeles,28
+Kansas City -> Cincinnati,28
+Phoenix -> Syracuse,28
+Milwaukee -> Mobile,28
+Cincinnati -> Philadelphia,28
+Fort Wayne -> San Antonio,28
+Nashville -> Kansas City,28
+Charleston -> San Antonio,28
+Memphis -> Lexington,28
+Mobile -> Hartford,28
+Kansas City -> Shreveport,28
+San Antonio -> Tucson,28
+Mobile -> Baton Rouge,27
+Nashville -> Philadelphia,27
+Syracuse -> Oklahoma City,27
+Phoenix -> Memphis,27
+Bakersfield -> Tucson,27
+Nashville -> Los Angeles,27
+Baton Rouge -> Richmond,27
+Bakersfield -> Oklahoma City,27
+Phoenix -> Fort Wayne,27
+Cincinnati -> Fort Wayne,27
+Shreveport -> Mobile,27
+Shreveport -> Columbia,27
+Shreveport -> Lexington,27
+Shreveport -> Bakersfield,27
+Bakersfield -> Syracuse,27
+Atlanta -> Montgomery,27
+Fort Wayne -> Phoenix,27
+Hartford -> Mobile,27
+Lexington -> Richmond,27
+Cincinnati -> Kansas City,27
+Mobile -> Nashville,27
+Fresno -> Atlanta,27
+Montgomery -> Lexington,27
+Cincinnati -> Phoenix,27
+Cincinnati -> Hartford,27
+Lexington -> Tucson,27
+Cincinnati -> Oklahoma City,27
+Shreveport -> Atlanta,27
+Hartford -> Grand Rapids,27
+Milwaukee -> Atlanta,27
+San Antonio -> Cincinnati,27
+Milwaukee -> Grand Rapids,27
+Columbia -> Los Angeles,27
+Nashville -> San Antonio,27
+Kansas City -> Baton Rouge,27
+Lexington -> Grand Rapids,26
+Mobile -> Lexington,26
+Hartford -> Phoenix,26
+New York -> Hartford,26
+Nashville -> Montgomery,26
+Bakersfield -> Jacksonville,26
+Richmond -> Atlanta,26
+Mobile -> Greensboro,26
+Hartford -> Richmond,26
+Atlanta -> Bakersfield,26
+Kansas City -> Fort Wayne,26
+Montgomery -> Fort Wayne,26
+Lexington -> Bakersfield,26
+Memphis -> Grand Rapids,26
+Bakersfield -> New York,26
+Baton Rouge -> Phoenix,26
+Hartford -> Oklahoma City,26
+Baton Rouge -> Bakersfield,26
+Richmond -> Kansas City,26
+Shreveport -> Green Bay,26
+Hartford -> Fort Wayne,26
+Shreveport -> Oklahoma City,26
+Baton Rouge -> El Paso,26
+New York -> Bakersfield,26
+Bakersfield -> Phoenix,26
+Greensboro -> Baton Rouge,26
+Lexington -> New York,26
+Kansas City -> Syracuse,26
+Richmond -> El Paso,26
+Lexington -> Milwaukee,26
+Bakersfield -> Philadelphia,26
+Cincinnati -> Columbia,26
+Nashville -> Fort Wayne,26
+Albany -> Fort Wayne,26
+Bakersfield -> Nashville,26
+Cincinnati -> Syracuse,26
+Kansas City -> Montgomery,26
+San Antonio -> Amarillo,25
+Richmond -> Nashville,25
+Lexington -> Fresno,25
+Mobile -> Bakersfield,25
+Montgomery -> Richmond,25
+Columbia -> Fort Wayne,25
+Hartford -> New York,25
+Houston -> Atlanta,25
+Hartford -> Shreveport,25
+Oklahoma City -> New York,25
+El Paso -> Hartford,25
+Atlanta -> Lexington,25
+Richmond -> Mobile,25
+Bakersfield -> Mobile,25
+Nashville -> Hartford,25
+Atlanta -> San Antonio,25
+Grand Rapids -> Hartford,25
+Shreveport -> Montgomery,25
+Philadelphia -> Oklahoma City,25
+Bakersfield -> Los Angeles,25
+Milwaukee -> Kansas City,25
+Milwaukee -> Fort Wayne,25
+Oklahoma City -> Tucson,25
+Charleston -> Baton Rouge,25
+San Antonio -> Richmond,25
+Greensboro -> Fort Wayne,25
+Chattanooga -> Atlanta,25
+Lexington -> Green Bay,25
+Hartford -> Charleston,25
+Mobile -> Memphis,25
+Montgomery -> Oklahoma City,25
+Philadelphia -> Atlanta,25
+Phoenix -> Montgomery,25
+Columbia -> New York,25
+Atlanta -> Columbia,25
+Fort Wayne -> Amarillo,25
+Philadelphia -> Hartford,25
+Fort Wayne -> Syracuse,25
+Houston -> Nashville,25
+Charleston -> Los Angeles,25
+Grand Rapids -> Oklahoma City,25
+Los Angeles -> Oklahoma City,25
+Los Angeles -> Columbia,25
+Oklahoma City -> Charleston,25
+Oklahoma City -> Bakersfield,25
+Phoenix -> Lubbock,25
+Los Angeles -> Richmond,25
+Nashville -> Grand Rapids,25
+Milwaukee -> Lexington,25
+Baton Rouge -> Atlanta,25
+Bakersfield -> Lubbock,25
+Phoenix -> Cincinnati,25
+Hartford -> Lexington,25
+Richmond -> Baton Rouge,25
+Nashville -> Oklahoma City,25
+Charleston -> Syracuse,25
+Lexington -> Phoenix,25
+Milwaukee -> Hartford,25
+Albuquerque -> Bakersfield,25
+Phoenix -> Charleston,25
+Toledo -> Mobile,24
+Raleigh -> Columbia,24
+Fresno -> Fort Wayne,24
+Reno -> Hartford,24
+Fort Wayne -> Shreveport,24
+Tucson -> Lexington,24
+San Antonio -> Atlanta,24
+Lexington -> Baton Rouge,24
+Tucson -> Columbia,24
+Buffalo -> Montgomery,24
+Memphis -> Columbia,24
+Fresno -> Baton Rouge,24
+Bakersfield -> Greensboro,24
+Shreveport -> New York,24
+Mobile -> Oklahoma City,24
+Buffalo -> Columbia,24
+Baton Rouge -> Charleston,24
+San Antonio -> Bakersfield,24
+Columbia -> Lexington,24
+Fort Wayne -> Montgomery,24
+New York -> Memphis,24
+Philadelphia -> Nashville,24
+Cincinnati -> Charleston,24
+Tucson -> Phoenix,24
+Amarillo -> Lexington,24
+Baton Rouge -> Nashville,24
+Mobile -> Fort Wayne,24
+Philadelphia -> Fort Wayne,24
+Mobile -> Milwaukee,24
+Columbia -> Nashville,24
+Atlanta -> Mobile,24
+Greensboro -> Shreveport,24
+San Antonio -> Mobile,24
+Grand Rapids -> Columbia,24
+Memphis -> Syracuse,24
+Memphis -> Phoenix,24
+Shreveport -> Cincinnati,24
+Nashville -> Shreveport,24
+Kansas City -> Hartford,24
+New York -> Milwaukee,24
+Mobile -> Shreveport,24
+San Antonio -> Nashville,24
+Grand Rapids -> Richmond,24
+San Antonio -> Baton Rouge,24
+Harrisburg -> Fort Wayne,24
+Shreveport -> Phoenix,24
+Baton Rouge -> Montgomery,24
+Chattanooga -> Mobile,23
+Greensboro -> Los Angeles,23
+Memphis -> Bakersfield,23
+Atlanta -> Milwaukee,23
+Hartford -> Albany,23
+Bakersfield -> El Paso,23
+Green Bay -> Bakersfield,23
+Richmond -> Columbia,23
+Syracuse -> Phoenix,23
+San Antonio -> Memphis,23
+Tucson -> Hartford,23
+Memphis -> Hartford,23
+Mobile -> New York,23
+Milwaukee -> Oklahoma City,23
+Milwaukee -> Memphis,23
+Cincinnati -> Nashville,23
+Hartford -> Tucson,23
+Baton Rouge -> Lubbock,23
+Cincinnati -> Milwaukee,23
+Richmond -> Dayton,23
+Los Angeles -> Bakersfield,23
+San Antonio -> Hartford,23
+Grand Rapids -> Milwaukee,23
+Hartford -> Chattanooga,23
+Los Angeles -> Buffalo,23
+Columbia -> Green Bay,23
+Montgomery -> Cincinnati,23
+Toledo -> Oklahoma City,23
+Tucson -> Richmond,23
+Corpus Christi -> Lexington,23
+Baton Rouge -> Chattanooga,23
+Albany -> Columbia,23
+Tucson -> Oklahoma City,23
+Oklahoma City -> Montgomery,23
+Montgomery -> Philadelphia,23
+Charleston -> Cincinnati,23
+Columbia -> Lubbock,23
+Fort Wayne -> Oklahoma City,23
+Phoenix -> Philadelphia,23
+Baton Rouge -> Los Angeles,23
+Fort Wayne -> Corpus Christi,23
+Fresno -> Syracuse,23
+Syracuse -> Nashville,23
+Nashville -> New York,23
+Lubbock -> Los Angeles,23
+Shreveport -> Memphis,23
+Oklahoma City -> Fresno,23
+Lubbock -> Baton Rouge,23
+Baton Rouge -> Syracuse,23
+Nashville -> Fresno,23
+Baton Rouge -> San Antonio,23
+Baton Rouge -> Albany,23
+Phoenix -> Bakersfield,23
+Cincinnati -> Amarillo,23
+Fort Wayne -> Columbia,23
+Atlanta -> Hartford,23
+Phoenix -> Hartford,23
+Montgomery -> San Antonio,23
+Nashville -> Greensboro,23
+Amarillo -> Shreveport,23
+Columbia -> Richmond,23
+Richmond -> Albany,23
+Columbia -> Baton Rouge,23
+Columbia -> Cincinnati,23
+Jacksonville -> Oklahoma City,23
+Atlanta -> Richmond,23
+Los Angeles -> Tucson,23
+Nashville -> Phoenix,23
+Lexington -> San Antonio,23
+Fresno -> El Paso,23
+Charleston -> Lubbock,22
+Mobile -> Charleston,22
+Cincinnati -> Jacksonville,22
+Tulsa -> Richmond,22
+Lexington -> Syracuse,22
+Shreveport -> Baton Rouge,22
+Amarillo -> Fort Wayne,22
+Fort Wayne -> Charleston,22
+Milwaukee -> Richmond,22
+Toledo -> Shreveport,22
+Charleston -> Shreveport,22
+San Antonio -> Columbia,22
+Phoenix -> Jacksonville,22
+San Antonio -> Phoenix,22
+El Paso -> Baton Rouge,22
+Albany -> Philadelphia,22
+Tulsa -> Bakersfield,22
+Los Angeles -> Philadelphia,22
+Tulsa -> Baton Rouge,22
+Charleston -> Tucson,22
+Grand Rapids -> Fort Wayne,22
+Oklahoma City -> Los Angeles,22
+Buffalo -> Lexington,22
+Fresno -> Columbia,22
+Kansas City -> San Antonio,22
+Oklahoma City -> Indianapolis,22
+Phoenix -> Kansas City,22
+Mobile -> Montgomery,22
+San Antonio -> Los Angeles,22
+Mobile -> Atlanta,22
+Chattanooga -> Oklahoma City,22
+Fresno -> Richmond,22
+Richmond -> Buffalo,22
+Mobile -> Syracuse,22
+Los Angeles -> Mobile,22
+Lexington -> Memphis,22
+Charleston -> Memphis,22
+Memphis -> Kansas City,22
+Memphis -> Fort Wayne,22
+Nashville -> Milwaukee,22
+Milwaukee -> Phoenix,22
+Phoenix -> San Antonio,22
+Milwaukee -> Bakersfield,22
+Fort Wayne -> Milwaukee,22
+Kansas City -> Richmond,22
+Philadelphia -> Greensboro,22
+El Paso -> Columbia,22
+Greensboro -> Cincinnati,22
+Buffalo -> Hartford,22
+Greensboro -> Richmond,22
+Mobile -> Los Angeles,22
+Lexington -> Columbia,22
+Oklahoma City -> Memphis,22
+Cincinnati -> Greensboro,22
+Philadelphia -> Shreveport,22
+Kansas City -> Buffalo,22
+Shreveport -> Richmond,22
+Cincinnati -> Albany,22
+Shreveport -> Greensboro,22
+Toledo -> Tucson,22
+Memphis -> San Antonio,22
+Richmond -> Shreveport,22
+Cincinnati -> Tucson,22
+Mobile -> San Antonio,22
+Phoenix -> Columbia,22
+Green Bay -> San Antonio,22
+Baton Rouge -> Milwaukee,22
+Milwaukee -> Nashville,22
+Richmond -> Charleston,22
+San Antonio -> Kansas City,22
+Kansas City -> Oklahoma City,22
+Memphis -> Baton Rouge,22
+Grand Rapids -> Shreveport,22
+Grand Rapids -> Nashville,21
+Bakersfield -> Toledo,21
+Albany -> Phoenix,21
+New York -> Richmond,21
+Mobile -> Kansas City,21
+Kansas City -> Grand Rapids,21
+Greensboro -> Mobile,21
+Philadelphia -> Tucson,21
+Syracuse -> Bakersfield,21
+Montgomery -> Shreveport,21
+Richmond -> Syracuse,21
+Amarillo -> Phoenix,21
+Jacksonville -> Phoenix,21
+Grand Rapids -> Chattanooga,21
+Phoenix -> El Paso,21
+Tucson -> San Antonio,21
+Columbia -> Bakersfield,21
+Los Angeles -> Albany,21
+Columbia -> Amarillo,21
+Tucson -> Memphis,21
+Fort Wayne -> Los Angeles,21
+Chattanooga -> Richmond,21
+Montgomery -> Atlanta,21
+Baton Rouge -> Tulsa,21
+Fresno -> Los Angeles,21
+Bakersfield -> Houston,21
+Montgomery -> Tucson,21
+Kansas City -> Mobile,21
+Charleston -> Kansas City,21
+Memphis -> Oklahoma City,21
+Cincinnati -> Buffalo,21
+Dayton -> Baton Rouge,21
+Oklahoma City -> Shreveport,21
+Amarillo -> Hartford,21
+Lubbock -> Lexington,21
+Bakersfield -> Albuquerque,21
+Los Angeles -> Fort Wayne,21
+Columbia -> Houston,21
+Mobile -> Dayton,21
+Albany -> Lexington,21
+Lexington -> Houston,21
+Albany -> Kansas City,21
+Grand Rapids -> Lexington,21
+Cincinnati -> Memphis,21
+New York -> Mobile,21
+Bakersfield -> Buffalo,21
+Montgomery -> Albany,21
+Greensboro -> Columbia,21
+Montgomery -> Houston,21
+Oklahoma City -> Chattanooga,21
+Houston -> Richmond,21
+Phoenix -> Buffalo,21
+Oklahoma City -> Jacksonville,21
+Phoenix -> Albany,21
+Corpus Christi -> Fort Wayne,21
+Lubbock -> Bakersfield,21
+Kansas City -> Atlanta,21
+Shreveport -> Toledo,21
+Fort Wayne -> Albany,21
+Columbia -> Tucson,21
+Tucson -> Amarillo,21
+Cincinnati -> Atlanta,21
+Bakersfield -> Charleston,21
+Memphis -> Nashville,21
+Amarillo -> Milwaukee,21
+New York -> Atlanta,21
+Atlanta -> Philadelphia,21
+Nashville -> Houston,21
+Phoenix -> Los Angeles,21
+Atlanta -> Tucson,21
+Columbia -> Syracuse,21
+Richmond -> Amarillo,21
+Tucson -> Fort Wayne,21
+Lubbock -> Montgomery,21
+Albany -> Baton Rouge,21
+Amarillo -> Montgomery,21
+Shreveport -> Tucson,21
+Philadelphia -> Baton Rouge,21
+Montgomery -> Phoenix,21
+Syracuse -> Hartford,21
+New York -> Lexington,21
+Baton Rouge -> Amarillo,21
+Richmond -> Memphis,21
+Baton Rouge -> Toledo,21
+Los Angeles -> Green Bay,21
+Fort Wayne -> Raleigh,20
+Harrisburg -> Lexington,20
+Indianapolis -> Grand Rapids,20
+Buffalo -> Cincinnati,20
+Amarillo -> Cincinnati,20
+New York -> Kansas City,20
+Syracuse -> Fort Wayne,20
+Shreveport -> Philadelphia,20
+Corpus Christi -> Oklahoma City,20
+Syracuse -> Baton Rouge,20
+Mobile -> Grand Rapids,20
+San Antonio -> Raleigh,20
+Syracuse -> Charleston,20
+El Paso -> San Antonio,20
+Philadelphia -> Raleigh,20
+Houston -> Greensboro,20
+El Paso -> Cincinnati,20
+Amarillo -> Syracuse,20
+Philadelphia -> Grand Rapids,20
+New York -> Raleigh,20
+Baton Rouge -> Shreveport,20
+Columbia -> Buffalo,20
+Albany -> Tucson,20
+Nashville -> Charleston,20
+Hartford -> Bakersfield,20
+Nashville -> Jacksonville,20
+San Antonio -> Syracuse,20
+Atlanta -> Charleston,20
+Syracuse -> Tucson,20
+Lubbock -> Mobile,20
+Los Angeles -> Fresno,20
+Hartford -> Toledo,20
+Reno -> Lexington,20
+Albany -> Richmond,20
+Montgomery -> Syracuse,20
+Atlanta -> Los Angeles,20
+Phoenix -> Tucson,20
+New York -> El Paso,20
+Toledo -> Hartford,20
+Houston -> Hartford,20
+New York -> Columbia,20
+Cincinnati -> Los Angeles,20
+Cincinnati -> Shreveport,20
+Philadelphia -> Bakersfield,20
+Milwaukee -> Los Angeles,20
+Cincinnati -> Raleigh,20
+Philadelphia -> Montgomery,20
+Oklahoma City -> Philadelphia,20
+Nashville -> Buffalo,20
+Mobile -> Tucson,20
+Amarillo -> Atlanta,20
+Baton Rouge -> Mobile,20
+Boston -> Baton Rouge,20
+Columbia -> Greensboro,20
+Kansas City -> El Paso,20
+Amarillo -> Kansas City,20
+Albany -> Los Angeles,20
+Oklahoma City -> Buffalo,20
+Grand Rapids -> Atlanta,20
+Syracuse -> Shreveport,20
+Atlanta -> Albany,20
+Raleigh -> Lexington,20
+Green Bay -> Houston,20
+Fresno -> Nashville,20
+Columbia -> Albany,20
+Fresno -> Bakersfield,20
+Albany -> Hartford,20
+Syracuse -> Kansas City,20
+Charleston -> Phoenix,20
+Chattanooga -> Phoenix,20
+Mobile -> Philadelphia,20
+Grand Rapids -> Phoenix,20
+Buffalo -> Baton Rouge,20
+Lexington -> Albany,20
+Kansas City -> New York,20
+Lexington -> Chattanooga,20
+Milwaukee -> Albany,20
+Atlanta -> Indianapolis,20
+Bakersfield -> Amarillo,20
+Lexington -> Buffalo,20
+Bakersfield -> Baton Rouge,20
+San Antonio -> Montgomery,20
+Indianapolis -> Shreveport,19
+Kansas City -> Columbia,19
+Memphis -> Milwaukee,19
+Tucson -> Dayton,19
+Tucson -> Houston,19
+Amarillo -> Mobile,19
+Columbia -> Charleston,19
+Lexington -> Amarillo,19
+Hartford -> Columbia,19
+Fort Wayne -> Jacksonville,19
+Amarillo -> Baton Rouge,19
+Memphis -> Atlanta,19
+Tucson -> Los Angeles,19
+Atlanta -> Grand Rapids,19
+Greensboro -> Tulsa,19
+Tampa -> Memphis,19
+El Paso -> Montgomery,19
+Montgomery -> Los Angeles,19
+Phoenix -> Fresno,19
+Chattanooga -> Albany,19
+Charleston -> Fort Wayne,19
+Charleston -> Amarillo,19
+Tucson -> Montgomery,19
+Bakersfield -> Tulsa,19
+Oklahoma City -> Houston,19
+Columbia -> Atlanta,19
+San Antonio -> Dayton,19
+Syracuse -> Cincinnati,19
+Mobile -> Savannah,19
+Jacksonville -> Charleston,19
+Atlanta -> Memphis,19
+Lubbock -> Memphis,19
+Cincinnati -> Fresno,19
+Mobile -> Richmond,19
+Houston -> Fort Wayne,19
+Lexington -> Charleston,19
+Kansas City -> Bakersfield,19
+Memphis -> Charleston,19
+Fort Wayne -> Greensboro,19
+Jacksonville -> Atlanta,19
+Jacksonville -> Bakersfield,19
+Greensboro -> Hartford,19
+Richmond -> Green Bay,19
+Richmond -> Los Angeles,19
+Phoenix -> Grand Rapids,19
+Bakersfield -> Reno,19
+Nashville -> Syracuse,19
+Fresno -> Cincinnati,19
+Amarillo -> Oklahoma City,19
+Harrisburg -> Nashville,19
+Columbia -> Dayton,19
+Lexington -> Jacksonville,19
+Fort Wayne -> Reno,19
+Baton Rouge -> Tampa,19
+Syracuse -> Albany,19
+Lubbock -> New York,19
+Tampa -> Nashville,19
+Richmond -> Milwaukee,19
+Shreveport -> Charleston,19
+Memphis -> Philadelphia,19
+Tucson -> Reno,19
+Nashville -> Raleigh,19
+Mobile -> Buffalo,19
+Lexington -> Hartford,19
+Greensboro -> Milwaukee,19
+Kansas City -> Philadelphia,19
+Tucson -> Philadelphia,19
+Milwaukee -> Baton Rouge,19
+Tulsa -> Tucson,19
+Kansas City -> Harrisburg,19
+Chattanooga -> Charleston,19
+Amarillo -> Greensboro,19
+Toledo -> Corpus Christi,19
+Columbia -> Philadelphia,19
+Montgomery -> Baton Rouge,19
+Jacksonville -> Mobile,19
+Cincinnati -> New York,19
+Buffalo -> Fort Wayne,19
+Tucson -> Charleston,19
+Tucson -> Mobile,19
+Oklahoma City -> Syracuse,19
+Hartford -> San Antonio,19
+Bakersfield -> Memphis,19
+Columbia -> San Antonio,19
+Baton Rouge -> Philadelphia,19
+Fresno -> Phoenix,19
+Lexington -> El Paso,19
+Fort Wayne -> Lubbock,19
+San Antonio -> Tampa,19
+Milwaukee -> Shreveport,19
+Greensboro -> Bakersfield,19
+Greensboro -> Lexington,19
+Phoenix -> Milwaukee,19
+New York -> Phoenix,19
+Atlanta -> Tulsa,19
+Lubbock -> Albany,19
+Grand Rapids -> Baton Rouge,19
+Lubbock -> Oklahoma City,19
+Hartford -> Houston,19
+Tucson -> Nashville,19
+Cincinnati -> Grand Rapids,19
+Columbia -> Memphis,19
+Philadelphia -> Albany,19
+Fort Wayne -> Nashville,19
+Syracuse -> Jacksonville,19
+Albany -> Atlanta,19
+Greensboro -> Boston,19
+Hartford -> Buffalo,18
+Oklahoma City -> Green Bay,18
+Los Angeles -> Shreveport,18
+Greensboro -> Raleigh,18
+Kansas City -> Green Bay,18
+Phoenix -> New York,18
+Montgomery -> Columbia,18
+Grand Rapids -> Buffalo,18
+Hartford -> Memphis,18
+Greensboro -> Charleston,18
+Phoenix -> Albuquerque,18
+Los Angeles -> Nashville,18
+Philadelphia -> San Antonio,18
+Corpus Christi -> Cincinnati,18
+Baton Rouge -> Jacksonville,18
+Toledo -> Grand Rapids,18
+Kansas City -> Charleston,18
+Baton Rouge -> Boston,18
+Lexington -> Greensboro,18
+Oklahoma City -> El Paso,18
+Richmond -> Grand Rapids,18
+Lexington -> Raleigh,18
+Cincinnati -> Richmond,18
+Columbia -> Grand Rapids,18
+Kansas City -> Albuquerque,18
+Memphis -> New York,18
+Hartford -> Green Bay,18
+Lubbock -> San Antonio,18
+Chattanooga -> Grand Rapids,18
+Fresno -> Tucson,18
+Kansas City -> Dayton,18
+Tucson -> Lubbock,18
+Buffalo -> Kansas City,18
+Oklahoma City -> Tulsa,18
+Greensboro -> Nashville,18
+Greensboro -> El Paso,18
+Cincinnati -> Lubbock,18
+Tucson -> Atlanta,18
+Tulsa -> Atlanta,18
+Lubbock -> Hartford,18
+Boston -> Oklahoma City,18
+Tucson -> Greensboro,18
+Chattanooga -> Kansas City,18
+Lexington -> Montgomery,18
+Fort Wayne -> El Paso,18
+Oklahoma City -> Little Rock,18
+Fort Wayne -> Grand Rapids,18
+Shreveport -> Buffalo,18
+Los Angeles -> Memphis,18
+Hartford -> El Paso,18
+Syracuse -> Memphis,18
+Houston -> Kansas City,18
+Syracuse -> Grand Rapids,18
+Syracuse -> Greensboro,18
+Green Bay -> Tucson,18
+Amarillo -> Los Angeles,18
+Harrisburg -> Baton Rouge,18
+Buffalo -> Nashville,18
+Milwaukee -> Toledo,18
+Lubbock -> Nashville,18
+Baton Rouge -> Reno,18
+Raleigh -> Fort Wayne,18
+Buffalo -> Syracuse,18
+Reno -> Oklahoma City,18
+Los Angeles -> Atlanta,18
+Lubbock -> Buffalo,18
+Milwaukee -> El Paso,18
+Phoenix -> Greensboro,18
+Cincinnati -> El Paso,18
+Milwaukee -> Amarillo,18
+San Antonio -> Oklahoma City,18
+Reno -> Bakersfield,18
+Atlanta -> Kansas City,18
+Shreveport -> Tampa,18
+Indianapolis -> Columbia,18
+Atlanta -> Jacksonville,18
+Richmond -> New York,18
+Amarillo -> Nashville,18
+Los Angeles -> Jacksonville,18
+Bakersfield -> Milwaukee,18
+Los Angeles -> Reno,18
+Mobile -> Albany,18
+Toledo -> Syracuse,18
+Green Bay -> Baton Rouge,18
+Oklahoma City -> Dayton,18
+Tampa -> Montgomery,18
+Toledo -> Philadelphia,18
+Lexington -> Shreveport,18
+El Paso -> Fort Wayne,18
+Charleston -> Jacksonville,18
+Fort Wayne -> Tulsa,18
+Fresno -> Shreveport,18
+Boston -> Syracuse,18
+Syracuse -> Los Angeles,18
+Philadelphia -> Phoenix,18
+Tucson -> Cincinnati,18
+Toledo -> Richmond,18
+Oklahoma City -> Albany,18
+Baton Rouge -> Kansas City,18
+Houston -> Amarillo,18
+Baltimore -> Amarillo,18
+Grand Rapids -> Charleston,18
+Milwaukee -> Cincinnati,18
+Oklahoma City -> Raleigh,18
+Grand Rapids -> Cincinnati,18
+Chattanooga -> Syracuse,18
+Albany -> Fresno,18
+Reno -> Fort Wayne,18
+San Antonio -> Tulsa,18
+Albany -> Amarillo,18
+Greensboro -> Amarillo,18
+Fort Wayne -> Memphis,18
+Shreveport -> Reno,18
+Philadelphia -> Memphis,18
+Chattanooga -> Shreveport,18
+Shreveport -> Los Angeles,18
+Albany -> Oklahoma City,18
+Hartford -> Corpus Christi,18
+Reno -> Albany,18
+Reno -> Cincinnati,18
+Atlanta -> Raleigh,17
+Montgomery -> Milwaukee,17
+Chattanooga -> Philadelphia,17
+New York -> Jacksonville,17
+Philadelphia -> Mobile,17
+Madison -> Lexington,17
+Syracuse -> Atlanta,17
+Mobile -> Amarillo,17
+Syracuse -> San Antonio,17
+San Antonio -> Albany,17
+Milwaukee -> Tucson,17
+Philadelphia -> Milwaukee,17
+Chattanooga -> Cincinnati,17
+Bakersfield -> Montgomery,17
+Birmingham -> Bakersfield,17
+Hartford -> Madison,17
+Milwaukee -> Greensboro,17
+Columbia -> Tulsa,17
+Jacksonville -> Columbia,17
+Hartford -> Cincinnati,17
+Green Bay -> Fort Wayne,17
+Fresno -> Memphis,17
+Hartford -> Los Angeles,17
+Milwaukee -> Buffalo,17
+Greensboro -> San Antonio,17
+Baton Rouge -> Tucson,17
+Fresno -> Oklahoma City,17
+Bakersfield -> Grand Rapids,17
+Syracuse -> Lubbock,17
+Richmond -> Raleigh,17
+Grand Rapids -> Tucson,17
+Amarillo -> New York,17
+Chattanooga -> Columbia,17
+Toledo -> Baton Rouge,17
+Boston -> Nashville,17
+Syracuse -> Lexington,17
+Fresno -> Milwaukee,17
+El Paso -> Fresno,17
+Tucson -> Salt Lake City,17
+Boston -> Philadelphia,17
+Indianapolis -> Phoenix,17
+Lubbock -> Shreveport,17
+Greensboro -> Fresno,17
+Boston -> Charleston,17
+Mobile -> Corpus Christi,17
+Chattanooga -> Baton Rouge,17
+Hartford -> Lubbock,17
+Milwaukee -> Green Bay,17
+New York -> Philadelphia,17
+Tampa -> Hartford,17
+Lexington -> Tulsa,17
+Albany -> Shreveport,17
+Mobile -> Reno,17
+Fresno -> Jacksonville,17
+Hartford -> Reno,17
+Columbia -> Mobile,17
+Grand Rapids -> Green Bay,17
+Los Angeles -> Albuquerque,17
+Oklahoma City -> Grand Rapids,17
+Raleigh -> Cincinnati,17
+Grand Rapids -> Kansas City,17
+Hartford -> Louisville,17
+Boston -> Milwaukee,17
+Montgomery -> Kansas City,17
+Grand Rapids -> Los Angeles,17
+El Paso -> Amarillo,17
+Kansas City -> Fresno,17
+Corpus Christi -> Nashville,17
+Mobile -> Indianapolis,17
+San Antonio -> Greensboro,17
+Fort Wayne -> Houston,17
+Tucson -> Jacksonville,17
+Green Bay -> New York,17
+New York -> Madison,17
+Philadelphia -> Los Angeles,17
+Fresno -> Amarillo,17
+Los Angeles -> Hartford,17
+Philadelphia -> Little Rock,17
+Buffalo -> Atlanta,17
+Buffalo -> Tucson,17
+Oklahoma City -> Amarillo,17
+Montgomery -> Indianapolis,17
+Montgomery -> El Paso,17
+Shreveport -> Houston,17
+Kansas City -> Lubbock,17
+Los Angeles -> Cincinnati,17
+Grand Rapids -> Syracuse,17
+Raleigh -> Richmond,17
+Richmond -> Fresno,17
+Columbia -> Phoenix,17
+Boston -> Richmond,17
+Bakersfield -> Dayton,17
+New York -> Grand Rapids,17
+Fort Wayne -> Toledo,17
+Buffalo -> Oklahoma City,17
+Mobile -> Toledo,17
+Milwaukee -> Raleigh,17
+San Antonio -> Grand Rapids,17
+Shreveport -> Milwaukee,17
+Richmond -> Reno,17
+Atlanta -> Fresno,17
+Lubbock -> Atlanta,17
+Lubbock -> Fort Wayne,17
+Cincinnati -> San Antonio,17
+Philadelphia -> Charleston,17
+Kansas City -> Milwaukee,17
+El Paso -> Mobile,17
+Los Angeles -> Greensboro,17
+Phoenix -> Houston,17
+Buffalo -> Grand Rapids,17
+Shreveport -> Grand Rapids,17
+New York -> San Antonio,17
+Corpus Christi -> Columbia,17
+Charleston -> Green Bay,17
+Atlanta -> Syracuse,17
+Fort Wayne -> Baltimore,17
+Kansas City -> Reno,17
+Nashville -> Memphis,17
+Lexington -> Boston,17
+Milwaukee -> San Antonio,16
+Baltimore -> Oklahoma City,16
+Columbia -> Fresno,16
+Tulsa -> Milwaukee,16
+Baton Rouge -> Houston,16
+Buffalo -> Chattanooga,16
+Shreveport -> El Paso,16
+Toledo -> Charleston,16
+Lubbock -> Phoenix,16
+Indianapolis -> Atlanta,16
+Charleston -> New York,16
+Reno -> Grand Rapids,16
+Corpus Christi -> Richmond,16
+Tucson -> Chattanooga,16
+Lexington -> Albuquerque,16
+Nashville -> Amarillo,16
+Philadelphia -> Columbia,16
+Lexington -> Dayton,16
+Los Angeles -> Charleston,16
+Philadelphia -> Lubbock,16
+Lubbock -> Richmond,16
+Chattanooga -> Fort Wayne,16
+Nashville -> Lubbock,16
+Madison -> Baltimore,16
+Montgomery -> Nashville,16
+Dayton -> Columbia,16
+Chattanooga -> Bakersfield,16
+Phoenix -> Chattanooga,16
+Toledo -> Bakersfield,16
+Hartford -> Dayton,16
+Fresno -> Buffalo,16
+Chattanooga -> Montgomery,16
+Mobile -> Lubbock,16
+Kansas City -> Tulsa,16
+Buffalo -> Milwaukee,16
+Richmond -> Tulsa,16
+Philadelphia -> Syracuse,16
+Montgomery -> Chattanooga,16
+Cincinnati -> Savannah,16
+Providence -> Bakersfield,16
+Houston -> Oklahoma City,16
+Kansas City -> Jacksonville,16
+Houston -> Bakersfield,16
+Memphis -> Tulsa,16
+Lubbock -> Kansas City,16
+Charleston -> Bakersfield,16
+Green Bay -> Nashville,16
+Chattanooga -> Memphis,16
+New York -> Lubbock,16
+Buffalo -> Los Angeles,16
+Memphis -> Reno,16
+Indianapolis -> Mobile,16
+Jacksonville -> Lexington,16
+Charleston -> Tulsa,16
+Hartford -> Syracuse,16
+Toledo -> Kansas City,16
+Chattanooga -> Fresno,16
+Green Bay -> Mobile,16
+El Paso -> Oklahoma City,16
+Syracuse -> Toledo,16
+Albany -> Corpus Christi,16
+El Paso -> Indianapolis,16
+Fort Wayne -> New York,16
+San Antonio -> Charleston,16
+Corpus Christi -> New York,16
+Bakersfield -> Green Bay,16
+Phoenix -> Toledo,16
+Hartford -> Greensboro,16
+Greensboro -> Buffalo,16
+Columbia -> Toledo,16
+Montgomery -> Charleston,16
+Toledo -> Lexington,16
+Greensboro -> New York,16
+Green Bay -> Philadelphia,16
+Amarillo -> Memphis,16
+Fort Wayne -> Tampa,16
+Toledo -> Montgomery,16
+El Paso -> Philadelphia,16
+Greensboro -> Oklahoma City,16
+Charleston -> Hartford,16
+Atlanta -> Dayton,16
+San Antonio -> Savannah,16
+Birmingham -> Fort Wayne,16
+Raleigh -> Tucson,16
+Greensboro -> Kansas City,16
+New York -> Shreveport,16
+New York -> Oklahoma City,16
+Albany -> Memphis,16
+Reno -> Memphis,16
+Charleston -> Lexington,16
+Houston -> Reno,16
+Tulsa -> Nashville,16
+Tucson -> Buffalo,16
+Green Bay -> Milwaukee,16
+Green Bay -> Cincinnati,16
+New York -> Fort Wayne,16
+San Antonio -> Fresno,16
+Corpus Christi -> Baton Rouge,16
+Kansas City -> Memphis,16
+Oklahoma City -> Reno,16
+Boston -> Fort Wayne,16
+El Paso -> Albany,16
+Houston -> Syracuse,16
+Grand Rapids -> Bakersfield,16
+El Paso -> Corpus Christi,16
+Cincinnati -> Montgomery,16
+Lubbock -> Tucson,16
+Raleigh -> Chattanooga,16
+New York -> Tucson,16
+Montgomery -> Raleigh,16
+Richmond -> Tucson,16
+Los Angeles -> New York,16
+Amarillo -> Columbia,16
+Fort Wayne -> Boston,16
+Buffalo -> Shreveport,16
+Harrisburg -> Philadelphia,16
+Grand Rapids -> Fresno,16
+Philadelphia -> Albuquerque,16
+Boston -> Lexington,16
+Kansas City -> Boston,16
+Amarillo -> Richmond,16
+Hartford -> Baltimore,16
+Columbia -> Shreveport,16
+Phoenix -> Green Bay,16
+Oklahoma City -> Corpus Christi,16
+Chattanooga -> Lubbock,16
+Houston -> Baton Rouge,16
+Houston -> Memphis,16
+Memphis -> El Paso,16
+Hartford -> Jacksonville,16
+Phoenix -> San Francisco,16
+Charleston -> Houston,16
+Los Angeles -> Kansas City,16
+Hartford -> Albuquerque,16
+Houston -> Milwaukee,16
+Charleston -> Reno,16
+Atlanta -> Savannah,16
+Montgomery -> Bakersfield,16
+Harrisburg -> Fresno,16
+Toledo -> Atlanta,16
+Boston -> Bakersfield,16
+Charleston -> Atlanta,16
+New York -> Chattanooga,16
+Amarillo -> San Antonio,16
+Syracuse -> Houston,16
+Mobile -> Houston,16
+Charleston -> Philadelphia,16
+Madison -> Baton Rouge,16
+Mobile -> Fresno,16
+Fresno -> San Antonio,16
+Toledo -> Chattanooga,16
+Buffalo -> New York,16
+Washington -> Hartford,15
+Greensboro -> Philadelphia,15
+Los Angeles -> San Antonio,15
+Savannah -> Atlanta,15
+Montgomery -> Lubbock,15
+Hartford -> Tulsa,15
+Houston -> Grand Rapids,15
+Columbia -> El Paso,15
+Tucson -> New York,15
+Boston -> Phoenix,15
+Reno -> Amarillo,15
+Baton Rouge -> Baltimore,15
+Albany -> Chattanooga,15
+Jacksonville -> Tulsa,15
+Tucson -> Baton Rouge,15
+El Paso -> Baltimore,15
+Bakersfield -> Salt Lake City,15
+Richmond -> Greensboro,15
+Los Angeles -> Corpus Christi,15
+Reno -> Baton Rouge,15
+Oklahoma City -> Toledo,15
+Charleston -> El Paso,15
+Buffalo -> San Antonio,15
+Richmond -> Baltimore,15
+Memphis -> Montgomery,15
+Baton Rouge -> Fresno,15
+Philadelphia -> New York,15
+Milwaukee -> Syracuse,15
+Milwaukee -> Albuquerque,15
+El Paso -> Grand Rapids,15
+Little Rock -> Buffalo,15
+Baton Rouge -> Raleigh,15
+Shreveport -> Tulsa,15
+Albuquerque -> Baton Rouge,15
+Houston -> San Antonio,15
+New York -> Syracuse,15
+Kansas City -> Chattanooga,15
+Philadelphia -> Toledo,15
+Memphis -> Cincinnati,15
+Madison -> Kansas City,15
+Richmond -> Little Rock,15
+Tampa -> Baton Rouge,15
+El Paso -> Richmond,15
+Lexington -> San Francisco,15
+Albuquerque -> Fort Wayne,15
+Milwaukee -> New York,15
+Providence -> Oklahoma City,15
+Nashville -> Tulsa,15
+Richmond -> Corpus Christi,15
+Shreveport -> Dayton,15
+Tulsa -> Chattanooga,15
+Toledo -> Harrisburg,15
+Tulsa -> Toledo,15
+Kansas City -> Raleigh,15
+Oklahoma City -> Louisville,15
+Philadelphia -> Tampa,15
+Amarillo -> Philadelphia,15
+Dayton -> Milwaukee,15
+Oklahoma City -> Baltimore,15
+Tulsa -> El Paso,15
+Richmond -> Madison,15
+Baton Rouge -> Greensboro,15
+Green Bay -> Hartford,15
+Buffalo -> Mobile,15
+Shreveport -> Raleigh,15
+Tucson -> Syracuse,15
+Houston -> Montgomery,15
+Memphis -> Mobile,15
+Shreveport -> San Antonio,15
+Nashville -> El Paso,15
+Philadelphia -> El Paso,15
+Columbia -> Tampa,15
+Reno -> Philadelphia,15
+Tampa -> Mobile,15
+Jacksonville -> Shreveport,15
+Nashville -> Corpus Christi,15
+Corpus Christi -> Montgomery,15
+Harrisburg -> Tucson,15
+Bakersfield -> Albany,15
+Charleston -> Buffalo,15
+San Antonio -> Austin,15
+Tulsa -> Phoenix,15
+Fort Wayne -> Buffalo,15
+Fresno -> Mobile,15
+Toledo -> Phoenix,15
+Kansas City -> Toledo,15
+Raleigh -> Syracuse,15
+Los Angeles -> Houston,15
+Atlanta -> Boston,15
+Syracuse -> Chattanooga,15
+New York -> Baton Rouge,15
+Tucson -> Toledo,15
+Tucson -> Green Bay,15
+Philadelphia -> Amarillo,15
+Fort Wayne -> Fresno,15
+Charleston -> Milwaukee,15
+Buffalo -> Richmond,15
+Boston -> Grand Rapids,15
+Syracuse -> Amarillo,15
+Indianapolis -> Tucson,15
+Corpus Christi -> Philadelphia,15
+Los Angeles -> Grand Rapids,15
+Montgomery -> Amarillo,15
+Albuquerque -> Richmond,15
+Richmond -> Montgomery,15
+Albany -> Mobile,15
+Oklahoma City -> Harrisburg,15
+Baton Rouge -> Grand Rapids,15
+El Paso -> Lubbock,15
+Phoenix -> Dayton,15
+Green Bay -> Shreveport,15
+Oklahoma City -> St. Louis,15
+Greensboro -> Atlanta,15
+Bakersfield -> Columbia,15
+Lubbock -> Greensboro,15
+Lubbock -> Columbia,15
+Tampa -> San Antonio,15
+Savannah -> Bakersfield,15
+Los Angeles -> El Paso,15
+Fresno -> Greensboro,15
+Memphis -> Amarillo,15
+Indianapolis -> Amarillo,15
+Lexington -> Toledo,15
+Baton Rouge -> Albuquerque,15
+Chattanooga -> Lexington,15
+Baltimore -> Hartford,15
+Atlanta -> Toledo,15
+Richmond -> Lubbock,15
+Indianapolis -> Baton Rouge,15
+Corpus Christi -> Phoenix,15
+Albany -> Green Bay,15
+Kansas City -> Houston,15
+Montgomery -> Grand Rapids,15
+El Paso -> Bakersfield,15
+Grand Rapids -> Toledo,15
+Tucson -> Fresno,15
+New York -> Montgomery,15
+Fresno -> Montgomery,15
+Toledo -> Dayton,15
+Tulsa -> Fort Wayne,15
+Boston -> Columbia,15
+Memphis -> Shreveport,15
+Jacksonville -> Los Angeles,15
+Toledo -> Houston,15
+Fort Wayne -> Kansas City,15
+Toledo -> Amarillo,15
+Cincinnati -> Little Rock,15
+Nashville -> Boston,15
+Madison -> San Antonio,15
+Atlanta -> Baton Rouge,15
+Lexington -> Lubbock,15
+Richmond -> Jacksonville,15
+Buffalo -> Bakersfield,15
+Corpus Christi -> Greensboro,15
+Cincinnati -> Mobile,15
+Tucson -> Kansas City,15
+Amarillo -> Tucson,15
+Lexington -> Corpus Christi,15
+New Orleans -> Baton Rouge,14
+Albany -> Nashville,14
+Tampa -> Shreveport,14
+Charleston -> Albany,14
+Shreveport -> Jacksonville,14
+Phoenix -> Harrisburg,14
+Chattanooga -> Nashville,14
+Jacksonville -> Baton Rouge,14
+Baltimore -> Baton Rouge,14
+Green Bay -> Greensboro,14
+Albany -> Reno,14
+Phoenix -> Boston,14
+Greensboro -> Indianapolis,14
+Milwaukee -> Reno,14
+Columbia -> Raleigh,14
+Shreveport -> Albany,14
+Baltimore -> Lexington,14
+Philadelphia -> Jacksonville,14
+Milwaukee -> San Francisco,14
+Lubbock -> Jacksonville,14
+Buffalo -> Phoenix,14
+Birmingham -> Grand Rapids,14
+Memphis -> Corpus Christi,14
+Los Angeles -> Amarillo,14
+San Francisco -> Memphis,14
+Lubbock -> Grand Rapids,14
+Philadelphia -> Buffalo,14
+Jacksonville -> Reno,14
+Tulsa -> Lexington,14
+Amarillo -> Chattanooga,14
+Madison -> Richmond,14
+Tucson -> Milwaukee,14
+Harrisburg -> Richmond,14
+Dayton -> Philadelphia,14
+Dayton -> Charleston,14
+Shreveport -> Albuquerque,14
+Charleston -> Dayton,14
+Fresno -> Lubbock,14
+Harrisburg -> Albany,14
+Corpus Christi -> Toledo,14
+Green Bay -> Los Angeles,14
+Little Rock -> Oklahoma City,14
+Hartford -> Tampa,14
+Boston -> Hartford,14
+Tucson -> Indianapolis,14
+Savannah -> Reno,14
+Jacksonville -> Memphis,14
+Fresno -> Tulsa,14
+Dayton -> San Antonio,14
+New York -> Greensboro,14
+Cincinnati -> Boston,14
+Chattanooga -> Amarillo,14
+Jacksonville -> Amarillo,14
+Fresno -> New York,14
+Cincinnati -> Green Bay,14
+Fresno -> Raleigh,14
+Houston -> Mobile,14
+Bakersfield -> Chattanooga,14
+Tulsa -> Cincinnati,14
+El Paso -> Charleston,14
+Greensboro -> Tucson,14
+Savannah -> Columbia,14
+Toledo -> Reno,14
+Baltimore -> Los Angeles,14
+Greensboro -> Chattanooga,14
+El Paso -> Memphis,14
+Milwaukee -> Philadelphia,14
+Columbia -> Boston,14
+Baltimore -> Richmond,14
+Reno -> Buffalo,14
+Richmond -> Toledo,14
+Charleston -> Oklahoma City,14
+Hartford -> Fresno,14
+Albany -> Bakersfield,14
+Dayton -> New York,14
+Raleigh -> Mobile,14
+Syracuse -> Montgomery,14
+Albany -> Toledo,14
+Jacksonville -> New York,14
+Tampa -> Phoenix,14
+Grand Rapids -> Philadelphia,14
+Atlanta -> New York,14
+Little Rock -> Nashville,14
+Los Angeles -> Austin,14
+San Antonio -> Shreveport,14
+Milwaukee -> Columbia,14
+Albany -> Cincinnati,14
+Raleigh -> Baton Rouge,14
+Grand Rapids -> Lubbock,14
+Baton Rouge -> Harrisburg,14
+El Paso -> Los Angeles,14
+Phoenix -> Little Rock,14
+Dayton -> Grand Rapids,14
+Hartford -> Indianapolis,14
+Lexington -> Salt Lake City,14
+Hartford -> Savannah,14
+Albany -> New York,14
+Baltimore -> Phoenix,14
+Hartford -> Raleigh,14
+Savannah -> Boston,14
+Reno -> San Antonio,14
+Raleigh -> Phoenix,14
+New York -> Amarillo,14
+Shreveport -> Baltimore,14
+Montgomery -> Hartford,14
+Albany -> Albuquerque,14
+Atlanta -> Houston,14
+Albuquerque -> Lexington,14
+Raleigh -> El Paso,14
+Raleigh -> Atlanta,14
+Houston -> Jacksonville,14
+Chattanooga -> Raleigh,14
+Green Bay -> Grand Rapids,14
+Oklahoma City -> Austin,14
+Houston -> Shreveport,14
+Shreveport -> Boston,14
+San Antonio -> Albuquerque,14
+Charleston -> Boston,14
+Amarillo -> Toledo,14
+Lexington -> Little Rock,14
+Lubbock -> Amarillo,14
+Bakersfield -> Harrisburg,14
+New York -> Los Angeles,14
+Shreveport -> Chattanooga,14
+El Paso -> Tucson,14
+Tampa -> Tucson,14
+El Paso -> Nashville,14
+New Orleans -> Hartford,14
+Milwaukee -> Fresno,14
+Tulsa -> Memphis,14
+Amarillo -> Fresno,14
+Atlanta -> Amarillo,14
+Jacksonville -> Lubbock,14
+Indianapolis -> Bakersfield,14
+Savannah -> Syracuse,14
+Memphis -> Greensboro,14
+Fresno -> Kansas City,14
+Toledo -> Fort Wayne,14
+Albany -> Dayton,14
+Los Angeles -> Toledo,14
+Richmond -> Tampa,14
+Savannah -> Cincinnati,14
+Fresno -> Houston,14
+Buffalo -> Charleston,14
+Reno -> Richmond,14
+Los Angeles -> Little Rock,14
+Cincinnati -> Harrisburg,14
+Amarillo -> Jacksonville,14
+Raleigh -> Oklahoma City,14
+Indianapolis -> San Antonio,14
+Austin -> Columbia,14
+Charleston -> Albuquerque,14
+Lexington -> Dallas,14
+Savannah -> Lexington,14
+Atlanta -> Lubbock,14
+Lexington -> Tampa,14
+Grand Rapids -> Dayton,14
+El Paso -> Atlanta,14
+Tampa -> Lexington,14
+Reno -> Atlanta,14
+New Orleans -> San Antonio,14
+Lexington -> Providence,14
+Toledo -> Los Angeles,14
+El Paso -> Savannah,14
+Raleigh -> Philadelphia,14
+Albuquerque -> Phoenix,14
+Albuquerque -> Mobile,14
+Buffalo -> Greensboro,14
+Atlanta -> Shreveport,14
+Shreveport -> Savannah,14
+Greensboro -> Albany,13
+Fresno -> Tampa,13
+Houston -> Columbia,13
+Nashville -> Chattanooga,13
+Bakersfield -> San Francisco,13
+Tampa -> Columbia,13
+Atlanta -> Chattanooga,13
+Savannah -> Hartford,13
+Mobile -> Jacksonville,13
+Lubbock -> Milwaukee,13
+San Antonio -> Providence,13
+Houston -> Chattanooga,13
+Albany -> Tulsa,13
+Richmond -> Louisville,13
+Dayton -> Hartford,13
+Austin -> Bakersfield,13
+San Francisco -> Mobile,13
+Lubbock -> Houston,13
+Chattanooga -> Hartford,13
+Milwaukee -> Corpus Christi,13
+Mobile -> Boston,13
+Salt Lake City -> Richmond,13
+Nashville -> Dallas,13
+Grand Rapids -> San Antonio,13
+Amarillo -> Boston,13
+Dayton -> Kansas City,13
+Atlanta -> Tampa,13
+Corpus Christi -> Mobile,13
+Albuquerque -> Lubbock,13
+Fresno -> Corpus Christi,13
+Greensboro -> Toledo,13
+Phoenix -> Amarillo,13
+Houston -> Cincinnati,13
+Albuquerque -> Albany,13
+Mobile -> Little Rock,13
+Columbia -> Reno,13
+Atlanta -> Corpus Christi,13
+Albany -> Harrisburg,13
+Chattanooga -> Greensboro,13
+Montgomery -> Providence,13
+San Antonio -> Boston,13
+Greensboro -> Syracuse,13
+Houston -> Lexington,13
+Milwaukee -> Montgomery,13
+Greensboro -> Dayton,13
+Albuquerque -> Amarillo,13
+Charleston -> Montgomery,13
+Albuquerque -> Fresno,13
+Phoenix -> Richmond,13
+Mobile -> Chattanooga,13
+Buffalo -> Lubbock,13
+Albuquerque -> Tucson,13
+Kansas City -> Indianapolis,13
+San Antonio -> Milwaukee,13
+Cincinnati -> Baltimore,13
+Tampa -> Albany,13
+Albuquerque -> Montgomery,13
+El Paso -> Syracuse,13
+Los Angeles -> Montgomery,13
+Lexington -> Reno,13
+Syracuse -> Reno,13
+Raleigh -> Toledo,13
+Mobile -> Tulsa,13
+Boston -> Tucson,13
+Houston -> Charleston,13
+Kansas City -> Greensboro,13
+Little Rock -> Lexington,13
+Grand Rapids -> Memphis,13
+Reno -> Phoenix,13
+Green Bay -> Albany,13
+Savannah -> Baton Rouge,13
+Los Angeles -> Chattanooga,13
+Syracuse -> Little Rock,13
+Reno -> Shreveport,13
+Albany -> Houston,13
+Atlanta -> Madison,13
+Richmond -> Houston,13
+Boston -> Montgomery,13
+Kansas City -> Albany,13
+Syracuse -> Philadelphia,13
+Cincinnati -> Toledo,13
+Tulsa -> Los Angeles,13
+Charleston -> Mobile,13
+Tucson -> El Paso,13
+Phoenix -> Tampa,13
+Baton Rouge -> Salt Lake City,13
+Madison -> New York,13
+Shreveport -> Kansas City,13
+Baltimore -> Grand Rapids,13
+Oklahoma City -> Albuquerque,13
+Tucson -> Grand Rapids,13
+Jacksonville -> Kansas City,13
+Philadelphia -> Madison,13
+Dayton -> Tucson,13
+Fresno -> Harrisburg,13
+Greensboro -> Montgomery,13
+Greensboro -> Grand Rapids,13
+El Paso -> Jacksonville,13
+Tulsa -> Columbia,13
+Greensboro -> Memphis,13
+Houston -> Indianapolis,13
+Greensboro -> Salt Lake City,13
+Tulsa -> Hartford,13
+Jacksonville -> San Antonio,13
+Chattanooga -> Milwaukee,13
+Hartford -> Salt Lake City,13
+Reno -> Nashville,13
+Corpus Christi -> Atlanta,13
+Lubbock -> Philadelphia,13
+Madison -> Oklahoma City,13
+Toledo -> Jacksonville,13
+Bakersfield -> Tampa,13
+Nashville -> Savannah,13
+Columbia -> Indianapolis,13
+Harrisburg -> Hartford,13
+Montgomery -> Buffalo,13
+Greensboro -> Lubbock,13
+Fort Wayne -> Austin,13
+Albuquerque -> Syracuse,13
+Baton Rouge -> Buffalo,13
+Providence -> Grand Rapids,13
+Madison -> Bakersfield,13
+Milwaukee -> Lubbock,13
+Albany -> Boston,13
+Harrisburg -> San Antonio,13
+Charleston -> Richmond,13
+San Francisco -> Grand Rapids,13
+Buffalo -> Philadelphia,13
+Tucson -> Boston,13
+Columbia -> Milwaukee,13
+Nashville -> Dayton,13
+Raleigh -> Greensboro,13
+New York -> Dayton,13
+Charleston -> Savannah,13
+Hartford -> Harrisburg,13
+Lubbock -> Syracuse,13
+Tampa -> Atlanta,13
+Phoenix -> Providence,13
+Savannah -> New York,13
+Oklahoma City -> Milwaukee,13
+Oklahoma City -> Boston,13
+Baton Rouge -> New York,13
+Montgomery -> Greensboro,13
+Kansas City -> Austin,13
+Harrisburg -> Atlanta,13
+Amarillo -> Albany,13
+Toledo -> Columbia,13
+Tulsa -> Oklahoma City,13
+Fresno -> Hartford,13
+Cincinnati -> Houston,13
+Montgomery -> Toledo,13
+Indianapolis -> Greensboro,13
+Reno -> Toledo,13
+Boston -> Shreveport,13
+Kansas City -> Corpus Christi,13
+Amarillo -> Grand Rapids,13
+Syracuse -> El Paso,13
+Green Bay -> Toledo,13
+New York -> Cincinnati,13
+Oklahoma City -> Savannah,13
+New Orleans -> Bakersfield,13
+Little Rock -> Richmond,13
+Syracuse -> Dayton,13
+Oklahoma City -> New Orleans,13
+San Antonio -> New York,13
+Nashville -> Albany,13
+Tucson -> Baltimore,13
+Dayton -> Richmond,13
+Albany -> San Antonio,13
+New York -> Houston,13
+Indianapolis -> Memphis,13
+Providence -> El Paso,13
+San Francisco -> Kansas City,13
+Milwaukee -> Baltimore,12
+Grand Rapids -> El Paso,12
+Austin -> San Antonio,12
+San Antonio -> Chattanooga,12
+El Paso -> Madison,12
+Toledo -> Milwaukee,12
+Albany -> Dallas,12
+Greensboro -> Reno,12
+Greensboro -> Phoenix,12
+New York -> Fresno,12
+Albuquerque -> Green Bay,12
+Austin -> Nashville,12
+Hartford -> Montgomery,12
+San Antonio -> Reno,12
+Los Angeles -> Indianapolis,12
+Reno -> Boston,12
+Buffalo -> San Francisco,12
+El Paso -> Shreveport,12
+Fresno -> Philadelphia,12
+Milwaukee -> Charleston,12
+Phoenix -> Reno,12
+Jacksonville -> Richmond,12
+Tucson -> Shreveport,12
+Mobile -> Baltimore,12
+Baton Rouge -> Green Bay,12
+Baton Rouge -> Louisville,12
+Reno -> Jacksonville,12
+Jacksonville -> Tampa,12
+Detroit -> Greensboro,12
+Richmond -> Harrisburg,12
+Fort Wayne -> Chattanooga,12
+Tucson -> Albany,12
+Albany -> Montgomery,12
+Las Vegas -> Lexington,12
+Atlanta -> Birmingham,12
+New Orleans -> Phoenix,12
+Raleigh -> Bakersfield,12
+Atlanta -> San Francisco,12
+Charleston -> Columbia,12
+Raleigh -> Montgomery,12
+Madison -> Lubbock,12
+Tulsa -> Grand Rapids,12
+Cincinnati -> Tulsa,12
+Amarillo -> Lubbock,12
+Philadelphia -> Houston,12
+Savannah -> Mobile,12
+San Francisco -> Fort Wayne,12
+New York -> Tampa,12
+Harrisburg -> Dayton,12
+Albuquerque -> Philadelphia,12
+Oklahoma City -> Washington,12
+Indianapolis -> Richmond,12
+Memphis -> Fresno,12
+Baltimore -> Nashville,12
+San Antonio -> Philadelphia,12
+Montgomery -> Jacksonville,12
+Little Rock -> Bakersfield,12
+Richmond -> New Orleans,12
+Milwaukee -> Houston,12
+Harrisburg -> Columbia,12
+Mobile -> St. Louis,12
+Savannah -> St. Louis,12
+Cincinnati -> Madison,12
+Tucson -> New Orleans,12
+Amarillo -> Little Rock,12
+Baton Rouge -> Corpus Christi,12
+Little Rock -> El Paso,12
+Grand Rapids -> Tampa,12
+Corpus Christi -> Tucson,12
+Savannah -> Los Angeles,12
+Toledo -> Cincinnati,12
+Washington -> Bakersfield,12
+Philadelphia -> Fresno,12
+Little Rock -> Syracuse,12
+Mobile -> Green Bay,12
+Reno -> Los Angeles,12
+Houston -> Raleigh,12
+Fort Wayne -> Washington,12
+Los Angeles -> Boston,12
+Milwaukee -> Dayton,12
+Lexington -> Baltimore,12
+Atlanta -> Reno,12
+Oklahoma City -> Tampa,12
+Savannah -> Nashville,12
+Raleigh -> Memphis,12
+Indianapolis -> Nashville,12
+Tampa -> Dayton,12
+Fresno -> Green Bay,12
+Syracuse -> Milwaukee,12
+Corpus Christi -> Bakersfield,12
+Dayton -> Oklahoma City,12
+New Orleans -> Harrisburg,12
+Providence -> Phoenix,12
+Montgomery -> Austin,12
+Dallas -> Bakersfield,12
+Harrisburg -> New York,12
+Madison -> Columbia,12
+Dayton -> Fresno,12
+Bakersfield -> Washington,12
+Baltimore -> Mobile,12
+Philadelphia -> Boston,12
+Tulsa -> Greensboro,12
+Lubbock -> Cincinnati,12
+Tulsa -> Shreveport,12
+Shreveport -> Amarillo,12
+Green Bay -> Amarillo,12
+Providence -> Richmond,12
+Tulsa -> Fresno,12
+Memphis -> Albany,12
+Columbia -> Harrisburg,12
+Cincinnati -> Austin,12
+El Paso -> Tulsa,12
+Jacksonville -> Providence,12
+Albuquerque -> Hartford,12
+Green Bay -> Columbia,12
+Shreveport -> Corpus Christi,12
+Phoenix -> Dallas,12
+Oklahoma City -> San Francisco,12
+Corpus Christi -> Syracuse,12
+Indianapolis -> Lexington,12
+Albuquerque -> Reno,12
+Tulsa -> Austin,12
+Chattanooga -> Houston,12
+San Francisco -> Shreveport,12
+Los Angeles -> Lubbock,12
+Memphis -> Savannah,12
+San Francisco -> Baton Rouge,12
+Green Bay -> Memphis,12
+Syracuse -> Fresno,12
+Richmond -> Savannah,12
+Providence -> Cincinnati,12
+San Francisco -> Nashville,12
+Madison -> Hartford,12
+Baltimore -> Shreveport,12
+Montgomery -> Green Bay,12
+Harrisburg -> Kansas City,12
+Salt Lake City -> Fort Wayne,12
+Amarillo -> El Paso,12
+Buffalo -> Memphis,12
+Boston -> Buffalo,12
+New York -> Tulsa,12
+Syracuse -> Albuquerque,12
+Fort Wayne -> Albuquerque,12
+Columbia -> San Francisco,12
+Milwaukee -> Harrisburg,12
+Lubbock -> El Paso,12
+Atlanta -> Buffalo,12
+Albany -> Savannah,12
+Albuquerque -> Columbia,12
+Savannah -> Kansas City,12
+Greensboro -> Houston,12
+Syracuse -> Green Bay,12
+Nashville -> Baltimore,12
+Tampa -> Philadelphia,12
+Amarillo -> Raleigh,12
+Indianapolis -> Hartford,12
+Harrisburg -> Los Angeles,12
+Nashville -> Toledo,12
+Fort Wayne -> Green Bay,12
+Los Angeles -> Syracuse,12
+Tucson -> Washington,12
+Harrisburg -> Shreveport,12
+Madison -> Atlanta,12
+Tulsa -> Lubbock,12
+Little Rock -> Mobile,12
+Harrisburg -> Milwaukee,12
+Dayton -> Memphis,12
+Baton Rouge -> Providence,12
+Fresno -> Toledo,12
+Green Bay -> Reno,12
+San Francisco -> Syracuse,12
+Baltimore -> Green Bay,12
+Richmond -> Chattanooga,12
+Corpus Christi -> San Antonio,12
+Charleston -> Tampa,11
+Oklahoma City -> Dallas,11
+Harrisburg -> Montgomery,11
+Montgomery -> Washington,11
+New Orleans -> Fort Wayne,11
+Los Angeles -> Madison,11
+Mobile -> El Paso,11
+Hartford -> Austin,11
+San Francisco -> Columbia,11
+Birmingham -> Los Angeles,11
+Lubbock -> Boston,11
+Milwaukee -> Savannah,11
+Dayton -> Jacksonville,11
+Houston -> Lubbock,11
+Raleigh -> Kansas City,11
+Columbia -> Little Rock,11
+El Paso -> Toledo,11
+Fresno -> Savannah,11
+Savannah -> Phoenix,11
+Charleston -> Fresno,11
+Las Vegas -> Tucson,11
+Atlanta -> Greensboro,11
+Fresno -> Lexington,11
+Albuquerque -> Chattanooga,11
+Albany -> Jacksonville,11
+Boston -> Lubbock,11
+Jacksonville -> Fort Wayne,11
+Phoenix -> Madison,11
+Amarillo -> Charleston,11
+Los Angeles -> Milwaukee,11
+Syracuse -> Boston,11
+Raleigh -> Buffalo,11
+Amarillo -> Buffalo,11
+Philadelphia -> Harrisburg,11
+Baltimore -> Tucson,11
+Tulsa -> Albany,11
+Nashville -> Austin,11
+Montgomery -> Corpus Christi,11
+New Orleans -> Oklahoma City,11
+Baltimore -> Fort Wayne,11
+Providence -> Philadelphia,11
+Tampa -> San Francisco,11
+Jacksonville -> Hartford,11
+Cincinnati -> New Orleans,11
+Green Bay -> Lexington,11
+Raleigh -> Hartford,11
+Milwaukee -> Jacksonville,11
+Montgomery -> Reno,11
+Buffalo -> Reno,11
+Houston -> Harrisburg,11
+Madison -> Philadelphia,11
+Tucson -> Albuquerque,11
+Albuquerque -> Greensboro,11
+Kansas City -> Washington,11
+San Francisco -> Amarillo,11
+El Paso -> Raleigh,11
+Savannah -> Milwaukee,11
+Albuquerque -> Shreveport,11
+San Antonio -> St. Louis,11
+Bakersfield -> Austin,11
+New Orleans -> Cincinnati,11
+Bakersfield -> Boston,11
+Phoenix -> Washington,11
+Jacksonville -> Corpus Christi,11
+Austin -> El Paso,11
+Tampa -> Los Angeles,11
+Raleigh -> Amarillo,11
+Milwaukee -> Boston,11
+Savannah -> Richmond,11
+Grand Rapids -> Indianapolis,11
+Harrisburg -> Mobile,11
+Toledo -> Madison,11
+New York -> Buffalo,11
+Reno -> Columbia,11
+Madison -> Chattanooga,11
+Houston -> Fresno,11
+Shreveport -> Louisville,11
+Grand Rapids -> Baltimore,11
+Montgomery -> Mobile,11
+Baton Rouge -> Detroit,11
+Chattanooga -> Los Angeles,11
+Baltimore -> Albany,11
+Reno -> Greensboro,11
+Albany -> Salt Lake City,11
+Philadelphia -> Savannah,11
+Green Bay -> El Paso,11
+Washington -> Mobile,11
+Philadelphia -> Tulsa,11
+Indianapolis -> Fort Wayne,11
+Dallas -> Syracuse,11
+Reno -> Kansas City,11
+Baton Rouge -> Austin,11
+Lubbock -> Baltimore,11
+Fort Wayne -> Madison,11
+Washington -> Richmond,11
+Greensboro -> Jacksonville,11
+Cincinnati -> Indianapolis,11
+Lubbock -> Charleston,11
+Mobile -> Raleigh,11
+Memphis -> Indianapolis,11
+Toledo -> Providence,11
+Charleston -> Harrisburg,11
+Salt Lake City -> Green Bay,11
+San Antonio -> Corpus Christi,11
+Nashville -> Indianapolis,11
+Grand Rapids -> Harrisburg,11
+Salt Lake City -> Phoenix,11
+Fresno -> Louisville,11
+Houston -> Los Angeles,11
+Tucson -> Austin,11
+Richmond -> Indianapolis,11
+Salt Lake City -> Mobile,11
+Milwaukee -> Tampa,11
+Grand Rapids -> Montgomery,11
+Toledo -> Fresno,11
+Montgomery -> Harrisburg,11
+Amarillo -> Savannah,11
+Providence -> Atlanta,11
+Lexington -> Harrisburg,11
+Baltimore -> El Paso,11
+Baton Rouge -> Indianapolis,11
+Dayton -> Fort Wayne,11
+New York -> Corpus Christi,11
+Austin -> New York,11
+Tulsa -> Houston,11
+Louisville -> Richmond,11
+Houston -> Philadelphia,11
+Boston -> Atlanta,11
+Dayton -> Atlanta,11
+Columbia -> Las Vegas,11
+Birmingham -> Shreveport,11
+New York -> Albuquerque,11
+Milwaukee -> Tulsa,11
+Syracuse -> Buffalo,11
+Reno -> Milwaukee,11
+Columbia -> Chattanooga,11
+Jacksonville -> Cincinnati,11
+Indianapolis -> Oklahoma City,11
+Birmingham -> Columbia,11
+Charleston -> Nashville,11
+Syracuse -> Tampa,11
+Tucson -> Harrisburg,11
+St. Louis -> Phoenix,11
+Fort Wayne -> Indianapolis,11
+Cincinnati -> Albuquerque,11
+Dayton -> Harrisburg,11
+Houston -> Toledo,11
+Montgomery -> Fresno,11
+Bakersfield -> Providence,11
+Mobile -> Albuquerque,11
+Shreveport -> Indianapolis,11
+Chattanooga -> Jacksonville,11
+Memphis -> Buffalo,11
+Toledo -> New York,11
+Houston -> Tucson,11
+Atlanta -> El Paso,11
+Cincinnati -> Tampa,11
+Albuquerque -> New York,11
+Tucson -> Corpus Christi,11
+Louisville -> Amarillo,11
+Lexington -> Indianapolis,11
+Lexington -> Birmingham,11
+Milwaukee -> Chattanooga,11
+Houston -> Tulsa,11
+Salt Lake City -> Syracuse,11
+Shreveport -> Lubbock,11
+Tucson -> Tulsa,11
+Lubbock -> Tulsa,11
+Little Rock -> Boston,11
+Corpus Christi -> Amarillo,11
+Albuquerque -> Memphis,11
+Green Bay -> Atlanta,11
+Albany -> Madison,11
+San Francisco -> Cincinnati,11
+Tulsa -> San Antonio,11
+Raleigh -> Jacksonville,11
+Dayton -> Los Angeles,11
+Green Bay -> Dayton,11
+San Antonio -> Jacksonville,11
+Green Bay -> Tulsa,11
+Atlanta -> Little Rock,11
+Cincinnati -> Dayton,11
+Raleigh -> Tulsa,11
+New York -> Charleston,11
+Little Rock -> Baton Rouge,11
+Madison -> Mobile,11
+Los Angeles -> Salt Lake City,11
+Memphis -> Toledo,11
+El Paso -> Greensboro,11
+Cincinnati -> Chattanooga,11
+Dayton -> Toledo,11
+Montgomery -> New York,11
+Austin -> Phoenix,11
+Reno -> Mobile,11
+Grand Rapids -> Jacksonville,11
+Lubbock -> Fresno,11
+Boston -> Jacksonville,11
+Grand Rapids -> Amarillo,11
+Cincinnati -> Reno,11
+Green Bay -> Chattanooga,11
+Fresno -> Indianapolis,11
+Indianapolis -> Buffalo,11
+Madison -> Cincinnati,11
+Little Rock -> Philadelphia,11
+Reno -> New York,11
+Shreveport -> Austin,11
+Harrisburg -> Lubbock,11
+Milwaukee -> Birmingham,11
+Memphis -> Chattanooga,11
+Milwaukee -> Las Vegas,10
+Atlanta -> Baltimore,10
+Tulsa -> Dayton,10
+Corpus Christi -> Milwaukee,10
+Phoenix -> Corpus Christi,10
+Tulsa -> Mobile,10
+Buffalo -> Boston,10
+Dayton -> Shreveport,10
+Tampa -> Charleston,10
+Boston -> Cincinnati,10
+Madison -> Shreveport,10
+Albuquerque -> Cincinnati,10
+Houston -> Phoenix,10
+Greensboro -> Albuquerque,10
+Albuquerque -> Savannah,10
+Fresno -> Boston,10
+Savannah -> Memphis,10
+Mobile -> New Orleans,10
+Bakersfield -> Little Rock,10
+Columbia -> Corpus Christi,10
+Little Rock -> Montgomery,10
+Albuquerque -> Kansas City,10
+Providence -> Lexington,10
+Jacksonville -> Milwaukee,10
+Fort Wayne -> Savannah,10
+Salt Lake City -> Lexington,10
+Amarillo -> Corpus Christi,10
+Albany -> Charleston,10
+Little Rock -> Phoenix,10
+Albany -> Buffalo,10
+Memphis -> Houston,10
+Buffalo -> Albany,10
+Oklahoma City -> Salt Lake City,10
+Jacksonville -> Grand Rapids,10
+Albuquerque -> Atlanta,10
+Reno -> Harrisburg,10
+Harrisburg -> Oklahoma City,10
+Montgomery -> Boston,10
+Nashville -> Little Rock,10
+Chattanooga -> Tucson,10
+Fort Wayne -> Louisville,10
+Chattanooga -> San Antonio,10
+Oklahoma City -> Greensboro,10
+Boston -> Houston,10
+Green Bay -> Charleston,10
+New York -> Albany,10
+Atlanta -> Green Bay,10
+Syracuse -> San Francisco,10
+Atlanta -> Albuquerque,10
+Charleston -> Raleigh,10
+Baltimore -> Montgomery,10
+Tulsa -> Jacksonville,10
+Dayton -> El Paso,10
+Memphis -> Boston,10
+Salt Lake City -> Baton Rouge,10
+Albuquerque -> Raleigh,10
+Columbia -> Jacksonville,10
+Toledo -> Albany,10
+Boston -> Chattanooga,10
+Savannah -> Fresno,10
+Louisville -> Hartford,10
+Albany -> Washington,10
+Jacksonville -> Madison,10
+Amarillo -> Albuquerque,10
+Houston -> Dayton,10
+Baltimore -> Syracuse,10
+Detroit -> Houston,10
+Fort Wayne -> Dayton,10
+Albuquerque -> Houston,10
+Tampa -> El Paso,10
+Albuquerque -> San Antonio,10
+Syracuse -> Raleigh,10
+San Antonio -> Houston,10
+San Francisco -> Albany,10
+Lexington -> Washington,10
+Grand Rapids -> Little Rock,10
+Madison -> Indianapolis,10
+Detroit -> Cincinnati,10
+Houston -> Albuquerque,10
+Tulsa -> Philadelphia,10
+Amarillo -> Tampa,10
+Phoenix -> Raleigh,10
+Montgomery -> Dayton,10
+Birmingham -> Reno,10
+Mobile -> Tampa,10
+Lubbock -> Raleigh,10
+Columbia -> Austin,10
+Jacksonville -> Detroit,10
+Corpus Christi -> Chattanooga,10
+Harrisburg -> Grand Rapids,10
+Indianapolis -> Milwaukee,10
+Albuquerque -> Los Angeles,10
+New Orleans -> Lexington,10
+Little Rock -> Toledo,10
+Kansas City -> Amarillo,10
+Albuquerque -> Milwaukee,10
+Houston -> New York,10
+Little Rock -> Houston,10
+Syracuse -> Savannah,10
+Reno -> Dayton,10
+San Antonio -> Indianapolis,10
+Tampa -> Syracuse,10
+Indianapolis -> Philadelphia,10
+Boston -> Toledo,10
+Albuquerque -> Oklahoma City,10
+Grand Rapids -> New York,10
+Madison -> Tucson,10
+Savannah -> Shreveport,10
+Austin -> Oklahoma City,10
+Lubbock -> Albuquerque,10
+Dayton -> Greensboro,10
+Washington -> Nashville,10
+Jacksonville -> Syracuse,10
+Madison -> Boston,10
+Corpus Christi -> Grand Rapids,10
+Toledo -> Tulsa,10
+Hartford -> San Francisco,10
+New York -> Boston,10
+Toledo -> Baltimore,10
+Mobile -> Austin,10
+Charleston -> Providence,10
+Providence -> Milwaukee,10
+Tampa -> Grand Rapids,10
+San Francisco -> Phoenix,10
+Detroit -> Philadelphia,10
+Greensboro -> Detroit,10
+St. Louis -> El Paso,10
+Atlanta -> St. Louis,10
+Greensboro -> Savannah,10
+Chattanooga -> Reno,10
+Lubbock -> Green Bay,10
+Green Bay -> Providence,10
+Greensboro -> Green Bay,10
+Chattanooga -> Tulsa,10
+Salt Lake City -> Chattanooga,10
+Shreveport -> San Francisco,10
+Syracuse -> Corpus Christi,10
+Syracuse -> Tulsa,10
+Raleigh -> Savannah,10
+Memphis -> Madison,10
+Louisville -> Boston,10
+Savannah -> Charleston,10
+Columbia -> Madison,10
+New York -> Salt Lake City,10
+Richmond -> Boston,10
+Syracuse -> New York,10
+Albany -> Grand Rapids,10
+Columbia -> Birmingham,10
+Hartford -> Boston,10
+Buffalo -> Green Bay,10
+New York -> Nashville,10
+Louisville -> Nashville,10
+Mobile -> Madison,10
+Raleigh -> Houston,10
+Raleigh -> New York,10
+Shreveport -> Providence,10
+Albuquerque -> Tulsa,10
+El Paso -> Tampa,10
+Buffalo -> Amarillo,10
+Jacksonville -> Houston,10
+Salt Lake City -> Milwaukee,10
+Jacksonville -> Boston,10
+Cincinnati -> San Francisco,10
+Jacksonville -> Montgomery,10
+Madison -> Tulsa,10
+Raleigh -> Los Angeles,10
+Madison -> Jacksonville,10
+Philadelphia -> Reno,10
+Houston -> Boston,10
+Hartford -> New Orleans,10
+Richmond -> Austin,10
+St. Louis -> Mobile,10
+Montgomery -> Memphis,10
+Louisville -> Mobile,10
+Nashville -> Reno,10
+Madison -> Harrisburg,10
+Corpus Christi -> Tampa,10
+Lexington -> St. Louis,10
+Corpus Christi -> Hartford,10
+Buffalo -> St. Louis,10
+Little Rock -> Cincinnati,10
+Chattanooga -> Buffalo,10
+Dayton -> Albany,10
+Memphis -> St. Louis,10
+Los Angeles -> New Orleans,10
+Lubbock -> Chattanooga,10
+Boston -> Corpus Christi,10
+Fresno -> Charleston,10
+Tucson -> Tampa,10
+Corpus Christi -> Fresno,10
+St. Louis -> Bakersfield,10
+Memphis -> Green Bay,10
+Tulsa -> Reno,10
+Mobile -> Providence,10
+Lubbock -> Dayton,10
+Providence -> Albany,10
+Los Angeles -> Tampa,10
+Baton Rouge -> Birmingham,10
+Albuquerque -> El Paso,10
+Providence -> Greensboro,10
+Amarillo -> Louisville,10
+Austin -> Indianapolis,10
+Montgomery -> Tulsa,10
+Dayton -> Mobile,10
+Washington -> El Paso,10
+Toledo -> San Francisco,10
+Green Bay -> Corpus Christi,10
+Corpus Christi -> Lubbock,10
+Oklahoma City -> Madison,10
+Las Vegas -> Bakersfield,10
+Buffalo -> Corpus Christi,10
+Salt Lake City -> Hartford,10
+Reno -> Charleston,10
+Green Bay -> Oklahoma City,10
+Toledo -> Greensboro,10
+Dayton -> Bakersfield,10
+Bakersfield -> Savannah,10
+New Orleans -> Tucson,10
+Boston -> Green Bay,10
+Bakersfield -> Madison,10
+El Paso -> Green Bay,10
+Memphis -> Providence,10
+Dayton -> Green Bay,10
+Austin -> Mobile,10
+Shreveport -> Fresno,10
+San Antonio -> El Paso,10
+Washington -> Fort Wayne,10
+Green Bay -> Phoenix,10
+Boston -> Fresno,10
+Fresno -> Albany,10
+Tucson -> Madison,10
+Charleston -> Grand Rapids,10
+Providence -> Shreveport,10
+Nashville -> Green Bay,10
+Lexington -> Louisville,10
+El Paso -> Buffalo,10
+Montgomery -> Albuquerque,10
+Albuquerque -> Toledo,10
+Houston -> Baltimore,10
+Cincinnati -> Providence,10
+Chattanooga -> Madison,10
+Fresno -> San Francisco,10
+Corpus Christi -> Jacksonville,10
+Washington -> Atlanta,10
+Grand Rapids -> Greensboro,10
+San Antonio -> Buffalo,10
+Savannah -> Montgomery,10
+San Francisco -> San Antonio,10
+Harrisburg -> Albuquerque,10
+Kansas City -> St. Louis,10
+Providence -> Columbia,9
+Memphis -> Little Rock,9
+Albuquerque -> Indianapolis,9
+Albany -> Tampa,9
+Tulsa -> Kansas City,9
+Fresno -> Grand Rapids,9
+Austin -> Tucson,9
+Little Rock -> San Antonio,9
+Grand Rapids -> Boston,9
+Fort Wayne -> San Francisco,9
+Tampa -> New York,9
+Tucson -> Savannah,9
+Amarillo -> Tulsa,9
+Fort Wayne -> Providence,9
+Green Bay -> Little Rock,9
+Boston -> Amarillo,9
+Harrisburg -> Cincinnati,9
+Birmingham -> Jacksonville,9
+Los Angeles -> Birmingham,9
+Providence -> Charleston,9
+Dallas -> Buffalo,9
+Lexington -> Austin,9
+Columbia -> Savannah,9
+Detroit -> Fresno,9
+Nashville -> Albuquerque,9
+El Paso -> Reno,9
+Jacksonville -> Philadelphia,9
+Greensboro -> Louisville,9
+Tampa -> Fort Wayne,9
+Dayton -> Lexington,9
+Buffalo -> Dallas,9
+New York -> Savannah,9
+Savannah -> New Orleans,9
+Indianapolis -> Baltimore,9
+Birmingham -> Baton Rouge,9
+Grand Rapids -> Austin,9
+Salt Lake City -> Buffalo,9
+Philadelphia -> Dayton,9
+Toledo -> Memphis,9
+Syracuse -> Harrisburg,9
+Fort Wayne -> Little Rock,9
+Washington -> Oklahoma City,9
+Albany -> Raleigh,9
+Detroit -> Tucson,9
+Tulsa -> Raleigh,9
+San Francisco -> Toledo,9
+Boston -> Los Angeles,9
+Albany -> Little Rock,9
+Reno -> Fresno,9
+San Francisco -> Montgomery,9
+Indianapolis -> Toledo,9
+New Orleans -> Nashville,9
+Green Bay -> Kansas City,9
+Dayton -> Nashville,9
+Lubbock -> Toledo,9
+New York -> Toledo,9
+Harrisburg -> Amarillo,9
+Louisville -> Columbia,9
+Bakersfield -> Raleigh,9
+Tulsa -> Boston,9
+Dayton -> Phoenix,9
+San Antonio -> Green Bay,9
+Savannah -> Philadelphia,9
+Kansas City -> Dallas,9
+Jacksonville -> Fresno,9
+Lubbock -> Harrisburg,9
+Memphis -> Harrisburg,9
+Fort Wayne -> Salt Lake City,9
+Salt Lake City -> Amarillo,9
+Philadelphia -> Kansas City,9
+El Paso -> Washington,9
+Salt Lake City -> Bakersfield,9
+Hartford -> Detroit,9
+Los Angeles -> Harrisburg,9
+Montgomery -> San Francisco,9
+Philadelphia -> Indianapolis,9
+Harrisburg -> Memphis,9
+Little Rock -> Milwaukee,9
+San Antonio -> Louisville,9
+Memphis -> San Francisco,9
+New Orleans -> Grand Rapids,9
+Jacksonville -> San Francisco,9
+Fort Wayne -> Birmingham,9
+New York -> New Orleans,9
+Phoenix -> Tulsa,9
+Indianapolis -> Tampa,9
+Buffalo -> Washington,9
+Richmond -> San Francisco,9
+Toledo -> Boston,9
+Salt Lake City -> Fresno,9
+Hartford -> St. Louis,9
+Fresno -> Reno,9
+Amarillo -> Harrisburg,9
+Salt Lake City -> Lubbock,9
+Tampa -> Kansas City,9
+San Francisco -> Lexington,9
+St. Louis -> Greensboro,9
+Chattanooga -> El Paso,9
+San Francisco -> Hartford,9
+Austin -> Kansas City,9
+Reno -> Little Rock,9
+Little Rock -> Memphis,9
+Atlanta -> Harrisburg,9
+Charleston -> Chattanooga,9
+Los Angeles -> Baltimore,9
+San Antonio -> Lubbock,9
+Detroit -> Baton Rouge,9
+Little Rock -> Hartford,9
+Tampa -> Harrisburg,9
+Chattanooga -> Dayton,9
+Boston -> Greensboro,9
+San Antonio -> San Francisco,9
+Green Bay -> Buffalo,9
+Dallas -> Atlanta,9
+New Orleans -> Albany,9
+Detroit -> Grand Rapids,9
+Green Bay -> Syracuse,9
+Fresno -> Washington,9
+Charleston -> San Francisco,9
+Birmingham -> Toledo,9
+Detroit -> Mobile,9
+Los Angeles -> Savannah,9
+Bakersfield -> Baltimore,9
+Louisville -> Baton Rouge,9
+Mobile -> San Francisco,9
+Harrisburg -> Syracuse,9
+Austin -> Lexington,9
+Shreveport -> Madison,9
+Harrisburg -> Charleston,9
+San Francisco -> Los Angeles,9
+Philadelphia -> Baltimore,9
+Reno -> Raleigh,9
+Bakersfield -> New Orleans,9
+Louisville -> New York,9
+Buffalo -> Jacksonville,9
+Houston -> Green Bay,9
+Louisville -> Montgomery,9
+Amarillo -> Reno,9
+Baltimore -> Savannah,9
+Raleigh -> Charleston,9
+Birmingham -> Charleston,9
+Raleigh -> Albuquerque,9
+Philadelphia -> Corpus Christi,9
+Lubbock -> Detroit,9
+Harrisburg -> Chattanooga,9
+Oklahoma City -> Birmingham,9
+Phoenix -> Birmingham,9
+Lubbock -> Indianapolis,9
+Greensboro -> Madison,9
+Providence -> Mobile,9
+Houston -> New Orleans,9
+Green Bay -> Indianapolis,9
+Las Vegas -> Kansas City,9
+Jacksonville -> Salt Lake City,9
+Cincinnati -> Detroit,9
+Jacksonville -> Chattanooga,9
+Harrisburg -> Green Bay,9
+Corpus Christi -> Raleigh,9
+Chattanooga -> Green Bay,9
+Cincinnati -> Washington,9
+Syracuse -> Indianapolis,9
+Birmingham -> Hartford,9
+San Antonio -> Toledo,9
+Grand Rapids -> Savannah,9
+Madison -> Nashville,9
+Birmingham -> Memphis,9
+Amarillo -> Dayton,9
+Charleston -> Greensboro,9
+Toledo -> Little Rock,9
+Toledo -> San Antonio,9
+Raleigh -> Lubbock,9
+Mobile -> Birmingham,9
+Tampa -> Lubbock,9
+Indianapolis -> Cincinnati,9
+Indianapolis -> Kansas City,9
+Raleigh -> New Orleans,9
+Salt Lake City -> Kansas City,9
+Dayton -> Raleigh,9
+Little Rock -> Grand Rapids,9
+Memphis -> Los Angeles,9
+Chattanooga -> Austin,9
+Austin -> Shreveport,9
+El Paso -> Dayton,9
+Shreveport -> Detroit,9
+St. Louis -> Memphis,9
+Harrisburg -> San Francisco,9
+Memphis -> Jacksonville,9
+Charleston -> Austin,9
+Washington -> Cincinnati,9
+Fort Wayne -> Dallas,9
+Tampa -> Greensboro,9
+Providence -> Los Angeles,9
+Providence -> Amarillo,9
+Little Rock -> Harrisburg,9
+Memphis -> Tucson,9
+Buffalo -> Salt Lake City,9
+Jacksonville -> Dayton,9
+Tulsa -> Green Bay,9
+Jacksonville -> Tucson,9
+Albany -> Milwaukee,9
+Dallas -> Columbia,9
+Boston -> New York,9
+Amarillo -> Houston,9
+Birmingham -> Mobile,9
+San Francisco -> Charleston,9
+Chattanooga -> Corpus Christi,9
+Madison -> El Paso,9
+Hartford -> Washington,9
+Indianapolis -> Madison,9
+Savannah -> Tucson,9
+Boston -> Memphis,9
+Philadelphia -> Chattanooga,9
+Albany -> Indianapolis,9
+Jacksonville -> Harrisburg,9
+Providence -> Hartford,9
+Cincinnati -> Corpus Christi,9
+Austin -> Grand Rapids,9
+Columbia -> Providence,9
+Mobile -> Detroit,9
+San Antonio -> Harrisburg,9
+Tulsa -> Salt Lake City,9
+Tulsa -> Syracuse,9
+Birmingham -> Lexington,9
+Columbia -> Albuquerque,9
+Green Bay -> Baltimore,9
+Los Angeles -> Louisville,9
+Corpus Christi -> Shreveport,9
+Raleigh -> Shreveport,9
+Corpus Christi -> Charleston,9
+Madison -> Savannah,9
+Los Angeles -> Raleigh,9
+Atlanta -> Washington,9
+Las Vegas -> Shreveport,9
+Green Bay -> Richmond,9
+Tulsa -> Indianapolis,9
+Detroit -> Montgomery,9
+Jacksonville -> Nashville,9
+Bakersfield -> Las Vegas,9
+Richmond -> Albuquerque,9
+San Francisco -> Raleigh,8
+Detroit -> El Paso,8
+Salt Lake City -> Oklahoma City,8
+Detroit -> Tulsa,8
+Salt Lake City -> Jacksonville,8
+Savannah -> Oklahoma City,8
+Dallas -> Oklahoma City,8
+Greensboro -> Baltimore,8
+Albany -> Baltimore,8
+St. Louis -> Houston,8
+Green Bay -> Fresno,8
+Mobile -> Harrisburg,8
+Chattanooga -> Albuquerque,8
+Kansas City -> Tampa,8
+Tampa -> Jacksonville,8
+Harrisburg -> Bakersfield,8
+El Paso -> Phoenix,8
+Jacksonville -> Buffalo,8
+Tampa -> Toledo,8
+Birmingham -> Raleigh,8
+Baltimore -> Washington,8
+Harrisburg -> Phoenix,8
+Las Vegas -> Amarillo,8
+Harrisburg -> Austin,8
+Cincinnati -> Salt Lake City,8
+Austin -> Montgomery,8
+Corpus Christi -> Kansas City,8
+Houston -> Austin,8
+El Paso -> Albuquerque,8
+Las Vegas -> Oklahoma City,8
+Mobile -> Salt Lake City,8
+Corpus Christi -> Los Angeles,8
+Jacksonville -> Toledo,8
+Boston -> Reno,8
+Columbia -> Washington,8
+Fresno -> Baltimore,8
+Richmond -> Salt Lake City,8
+New Orleans -> Charleston,8
+Lubbock -> Salt Lake City,8
+Indianapolis -> Jacksonville,8
+Montgomery -> Baltimore,8
+Los Angeles -> Dallas,8
+Charleston -> Indianapolis,8
+San Francisco -> Tampa,8
+San Francisco -> Richmond,8
+Nashville -> Madison,8
+Detroit -> Lexington,8
+New York -> Green Bay,8
+St. Louis -> Tucson,8
+Syracuse -> Providence,8
+Atlanta -> Austin,8
+Washington -> Toledo,8
+Grand Rapids -> Tulsa,8
+Tulsa -> Charleston,8
+Detroit -> Los Angeles,8
+Little Rock -> Los Angeles,8
+San Antonio -> Little Rock,8
+Buffalo -> El Paso,8
+Louisville -> Tucson,8
+Philadelphia -> Washington,8
+Detroit -> Kansas City,8
+Lubbock -> New Orleans,8
+New York -> San Francisco,8
+Dallas -> Greensboro,8
+Providence -> San Antonio,8
+Albuquerque -> Madison,8
+St. Louis -> Columbia,8
+Raleigh -> Corpus Christi,8
+El Paso -> Harrisburg,8
+Madison -> Albany,8
+Greensboro -> Harrisburg,8
+Grand Rapids -> Reno,8
+San Francisco -> Indianapolis,8
+New York -> Little Rock,8
+Lubbock -> Tampa,8
+Philadelphia -> St. Louis,8
+Columbia -> New Orleans,8
+Reno -> Lubbock,8
+Baton Rouge -> San Francisco,8
+Grand Rapids -> Corpus Christi,8
+Fresno -> Dayton,8
+Nashville -> San Francisco,8
+Amarillo -> Las Vegas,8
+Nashville -> Louisville,8
+Tulsa -> Buffalo,8
+Syracuse -> Detroit,8
+New Orleans -> Milwaukee,8
+Shreveport -> Salt Lake City,8
+Salt Lake City -> Columbia,8
+St. Louis -> Indianapolis,8
+Fort Wayne -> Detroit,8
+Chattanooga -> San Francisco,8
+Providence -> Montgomery,8
+Syracuse -> Dallas,8
+Little Rock -> New York,8
+Boston -> Kansas City,8
+Amarillo -> Providence,8
+San Francisco -> Atlanta,8
+Grand Rapids -> San Francisco,8
+Corpus Christi -> Memphis,8
+San Francisco -> Bakersfield,8
+San Francisco -> Greensboro,8
+Tucson -> Las Vegas,8
+Milwaukee -> Detroit,8
+Amarillo -> Madison,8
+Washington -> Grand Rapids,8
+Philadelphia -> Las Vegas,8
+Dallas -> Richmond,8
+Reno -> Baltimore,8
+Madison -> Austin,8
+Harrisburg -> Greensboro,8
+Louisville -> Lexington,8
+Milwaukee -> St. Louis,8
+Hartford -> Las Vegas,8
+Tampa -> Albuquerque,8
+Fort Wayne -> Harrisburg,8
+Charleston -> Madison,8
+Salt Lake City -> Albany,8
+Dayton -> Amarillo,8
+Buffalo -> Albuquerque,8
+Tampa -> Indianapolis,8
+Richmond -> Detroit,8
+Memphis -> Raleigh,8
+Kansas City -> Little Rock,8
+Greensboro -> Little Rock,8
+Chattanooga -> Providence,8
+Milwaukee -> Louisville,8
+Phoenix -> Savannah,8
+Toledo -> Buffalo,8
+New Orleans -> Amarillo,8
+Tampa -> Chattanooga,8
+Greensboro -> San Francisco,8
+Providence -> Memphis,8
+Philadelphia -> New Orleans,8
+Louisville -> Raleigh,8
+Louisville -> Atlanta,8
+New Orleans -> New York,8
+Chattanooga -> Birmingham,8
+Reno -> Tampa,8
+Harrisburg -> Tulsa,8
+Little Rock -> Fort Wayne,8
+Austin -> Baton Rouge,8
+Providence -> Fort Wayne,8
+Lubbock -> San Francisco,8
+Little Rock -> Albany,8
+Louisville -> Charleston,8
+Madison -> Grand Rapids,8
+Houston -> Tampa,8
+Albuquerque -> San Francisco,8
+St. Louis -> Albany,8
+Detroit -> Phoenix,8
+Little Rock -> Indianapolis,8
+Greensboro -> Austin,8
+Indianapolis -> El Paso,8
+Tucson -> Raleigh,8
+Savannah -> Green Bay,8
+Amarillo -> Indianapolis,8
+Phoenix -> Salt Lake City,8
+El Paso -> New Orleans,8
+Toledo -> Austin,8
+Lubbock -> Reno,8
+Austin -> Greensboro,8
+Albuquerque -> Jacksonville,8
+Albany -> El Paso,8
+Chattanooga -> Indianapolis,8
+Salt Lake City -> Los Angeles,8
+Boston -> Tampa,8
+Baltimore -> Bakersfield,8
+Albany -> Lubbock,8
+Louisville -> Fort Wayne,8
+Dayton -> Montgomery,8
+Madison -> Houston,8
+Tampa -> Richmond,8
+Nashville -> Salt Lake City,8
+Las Vegas -> Albany,8
+Austin -> Corpus Christi,8
+Madison -> Syracuse,8
+Bakersfield -> Corpus Christi,8
+Louisville -> San Antonio,8
+Salt Lake City -> Tucson,8
+Houston -> Corpus Christi,8
+Lexington -> New Orleans,8
+Milwaukee -> New Orleans,8
+Tulsa -> New York,8
+Columbia -> Salt Lake City,8
+Charleston -> Toledo,8
+Green Bay -> Montgomery,8
+Birmingham -> Philadelphia,8
+Oklahoma City -> Providence,8
+Washington -> Los Angeles,8
+Raleigh -> Reno,8
+Baton Rouge -> New Orleans,8
+Washington -> Memphis,8
+Fresno -> Chattanooga,8
+St. Louis -> Oklahoma City,8
+Phoenix -> St. Louis,8
+Hartford -> Dallas,8
+Baltimore -> Albuquerque,8
+Grand Rapids -> Madison,8
+Jacksonville -> Albany,8
+Jacksonville -> Green Bay,8
+Salt Lake City -> Little Rock,8
+El Paso -> Chattanooga,8
+Austin -> Philadelphia,8
+San Francisco -> Fresno,8
+Albany -> Syracuse,8
+Chattanooga -> Toledo,8
+Mobile -> Louisville,8
+Harrisburg -> Raleigh,8
+Jacksonville -> Albuquerque,8
+Hartford -> Little Rock,8
+San Antonio -> Baltimore,8
+Kansas City -> San Francisco,8
+Grand Rapids -> Albany,8
+Lubbock -> Dallas,8
+Jacksonville -> Greensboro,8
+Dayton -> Syracuse,8
+Tampa -> Savannah,8
+Toledo -> St. Louis,8
+Dayton -> Savannah,8
+Raleigh -> Milwaukee,8
+Dallas -> Chattanooga,8
+Raleigh -> San Antonio,8
+Tampa -> Houston,8
+Cincinnati -> Las Vegas,8
+Memphis -> Albuquerque,8
+Baltimore -> Atlanta,8
+El Paso -> Lexington,8
+Austin -> Albany,8
+Austin -> Cincinnati,8
+Corpus Christi -> Buffalo,8
+St. Louis -> Atlanta,8
+Toledo -> Nashville,8
+Jacksonville -> Little Rock,8
+Houston -> Dallas,8
+Kansas City -> Birmingham,8
+Fresno -> Albuquerque,8
+Philadelphia -> Green Bay,8
+Dallas -> Nashville,8
+Nashville -> Harrisburg,8
+Nashville -> New Orleans,8
+Montgomery -> Savannah,8
+Tampa -> Buffalo,7
+Reno -> El Paso,7
+Detroit -> Hartford,7
+St. Louis -> Fresno,7
+Providence -> Tulsa,7
+Amarillo -> Green Bay,7
+El Paso -> New York,7
+Buffalo -> Toledo,7
+Birmingham -> Richmond,7
+Milwaukee -> Washington,7
+Louisville -> Kansas City,7
+Las Vegas -> Nashville,7
+New Orleans -> Richmond,7
+Detroit -> Shreveport,7
+Indianapolis -> Montgomery,7
+Houston -> Buffalo,7
+Reno -> Detroit,7
+Birmingham -> Corpus Christi,7
+Raleigh -> Salt Lake City,7
+Green Bay -> New Orleans,7
+Chattanooga -> New York,7
+Atlanta -> Las Vegas,7
+Harrisburg -> El Paso,7
+Grand Rapids -> Raleigh,7
+Baltimore -> Raleigh,7
+Syracuse -> Madison,7
+Green Bay -> Savannah,7
+San Francisco -> St. Louis,7
+Tulsa -> Detroit,7
+Austin -> Houston,7
+Montgomery -> Louisville,7
+Lubbock -> Louisville,7
+Jacksonville -> Austin,7
+Buffalo -> Savannah,7
+Bakersfield -> St. Louis,7
+Montgomery -> Salt Lake City,7
+Salt Lake City -> El Paso,7
+Syracuse -> Las Vegas,7
+Grand Rapids -> Detroit,7
+San Francisco -> Boston,7
+Tampa -> Cincinnati,7
+Lubbock -> Las Vegas,7
+Atlanta -> Louisville,7
+Tampa -> Amarillo,7
+Reno -> Indianapolis,7
+El Paso -> Salt Lake City,7
+Kansas City -> Salt Lake City,7
+St. Louis -> Tulsa,7
+Philadelphia -> Birmingham,7
+Fort Wayne -> Las Vegas,7
+Corpus Christi -> Providence,7
+Detroit -> Albany,7
+New York -> Austin,7
+Little Rock -> Charleston,7
+Memphis -> Baltimore,7
+Philadelphia -> Detroit,7
+Buffalo -> Houston,7
+Salt Lake City -> Charleston,7
+Shreveport -> St. Louis,7
+Charleston -> Little Rock,7
+Louisville -> Albuquerque,7
+Baton Rouge -> Dayton,7
+San Francisco -> Oklahoma City,7
+El Paso -> Providence,7
+Montgomery -> Madison,7
+Washington -> Chattanooga,7
+Green Bay -> Albuquerque,7
+Houston -> Providence,7
+Buffalo -> Harrisburg,7
+Toledo -> Savannah,7
+Nashville -> Detroit,7
+Tucson -> Little Rock,7
+Toledo -> Raleigh,7
+Chattanooga -> Tampa,7
+Reno -> Savannah,7
+Corpus Christi -> Salt Lake City,7
+Philadelphia -> Louisville,7
+Detroit -> Richmond,7
+Tucson -> Dallas,7
+Little Rock -> Tucson,7
+Albuquerque -> Little Rock,7
+Reno -> Corpus Christi,7
+Baltimore -> Fresno,7
+Dallas -> Lexington,7
+Reno -> Chattanooga,7
+Birmingham -> Tucson,7
+Raleigh -> Austin,7
+New Orleans -> Tampa,7
+Dallas -> Montgomery,7
+Nashville -> Tampa,7
+St. Louis -> Fort Wayne,7
+Madison -> Phoenix,7
+Houston -> Madison,7
+New Orleans -> Los Angeles,7
+Corpus Christi -> Houston,7
+Las Vegas -> Fort Wayne,7
+Las Vegas -> Hartford,7
+Green Bay -> Boston,7
+St. Louis -> Los Angeles,7
+Kansas City -> Madison,7
+Reno -> Tucson,7
+Memphis -> Detroit,7
+Savannah -> Madison,7
+Lexington -> Las Vegas,7
+Boston -> San Antonio,7
+Atlanta -> Providence,7
+Grand Rapids -> St. Louis,7
+Toledo -> El Paso,7
+Richmond -> Dallas,7
+Washington -> Milwaukee,7
+Green Bay -> Jacksonville,7
+Lubbock -> Washington,7
+Baltimore -> Reno,7
+Boston -> St. Louis,7
+Grand Rapids -> Houston,7
+Shreveport -> New Orleans,7
+Salt Lake City -> Reno,7
+Indianapolis -> Salt Lake City,7
+Albuquerque -> Charleston,7
+Milwaukee -> Salt Lake City,7
+Mobile -> Washington,7
+Austin -> Fort Wayne,7
+Madison -> Fresno,7
+New Orleans -> Mobile,7
+Green Bay -> Raleigh,7
+Detroit -> Bakersfield,7
+Savannah -> Greensboro,7
+Buffalo -> Madison,7
+Reno -> Salt Lake City,7
+Indianapolis -> Albuquerque,7
+San Francisco -> Lubbock,7
+Tampa -> Oklahoma City,7
+Providence -> Tucson,7
+New Orleans -> Jacksonville,7
+San Antonio -> Birmingham,7
+Washington -> Lubbock,7
+Greensboro -> Providence,7
+Baltimore -> San Francisco,7
+Albuquerque -> Buffalo,7
+Philadelphia -> Providence,7
+Louisville -> Cincinnati,7
+Detroit -> Charleston,7
+Syracuse -> Birmingham,7
+Milwaukee -> Providence,7
+Syracuse -> Austin,7
+Fresno -> Little Rock,7
+Providence -> Baton Rouge,7
+Grand Rapids -> Salt Lake City,7
+Charleston -> Salt Lake City,7
+Little Rock -> Corpus Christi,7
+Jacksonville -> Baltimore,7
+Austin -> Atlanta,7
+Salt Lake City -> Memphis,7
+Boston -> Little Rock,7
+Las Vegas -> Chattanooga,7
+Boston -> Savannah,7
+Tampa -> Boston,7
+Harrisburg -> Little Rock,7
+Philadelphia -> San Francisco,7
+Dayton -> New Orleans,7
+Kansas City -> Savannah,7
+El Paso -> Milwaukee,7
+Las Vegas -> Baton Rouge,7
+Little Rock -> Columbia,7
+Providence -> Fresno,7
+Providence -> Indianapolis,7
+Tampa -> Corpus Christi,7
+Green Bay -> Lubbock,7
+Tucson -> Birmingham,7
+Baltimore -> Chattanooga,7
+Raleigh -> Boston,7
+Birmingham -> Montgomery,7
+Buffalo -> Indianapolis,7
+Baton Rouge -> Dallas,7
+Corpus Christi -> Madison,7
+Corpus Christi -> El Paso,7
+El Paso -> Little Rock,7
+St. Louis -> Buffalo,7
+Washington -> Montgomery,7
+Washington -> San Francisco,7
+El Paso -> San Francisco,7
+Dayton -> Buffalo,7
+Louisville -> Houston,7
+Savannah -> Houston,7
+Savannah -> Grand Rapids,7
+Lubbock -> Providence,7
+Dayton -> Dallas,7
+Raleigh -> Fresno,7
+Fort Wayne -> New Orleans,7
+Charleston -> Birmingham,7
+Indianapolis -> San Francisco,7
+Raleigh -> Grand Rapids,7
+Washington -> Lexington,7
+Tampa -> Dallas,7
+Detroit -> Dayton,7
+Dallas -> Kansas City,7
+Richmond -> Providence,7
+Greensboro -> Birmingham,7
+Cincinnati -> St. Louis,7
+New Orleans -> Lubbock,7
+Savannah -> San Antonio,7
+Philadelphia -> Austin,7
+Amarillo -> Salt Lake City,7
+Boston -> San Francisco,7
+Austin -> Green Bay,7
+Madison -> Albuquerque,7
+Dallas -> Fort Wayne,7
+Tampa -> Milwaukee,7
+Little Rock -> Tampa,7
+Madison -> San Francisco,7
+Oklahoma City -> Las Vegas,7
+Austin -> Chattanooga,7
+Las Vegas -> Harrisburg,7
+Phoenix -> Detroit,7
+Albuquerque -> Providence,7
+Green Bay -> Tampa,7
+Little Rock -> Fresno,7
+Dayton -> Madison,7
+Corpus Christi -> Savannah,7
+Raleigh -> Harrisburg,7
+Dayton -> Lubbock,7
+Madison -> Fort Wayne,7
+Memphis -> Lubbock,7
+Columbia -> Louisville,7
+Salt Lake City -> Nashville,7
+Lubbock -> Corpus Christi,7
+Dallas -> Los Angeles,7
+Baltimore -> Milwaukee,7
+Kansas City -> Providence,7
+Chattanooga -> New Orleans,7
+Washington -> Providence,7
+Tampa -> Bakersfield,7
+Kansas City -> Baltimore,7
+Buffalo -> Louisville,7
+Atlanta -> New Orleans,7
+Buffalo -> Fresno,7
+Little Rock -> Atlanta,7
+El Paso -> Birmingham,7
+Albuquerque -> Boston,7
+Salt Lake City -> Boston,7
+San Antonio -> Madison,7
+Salt Lake City -> Shreveport,7
+Baltimore -> Houston,7
+Savannah -> Albany,7
+Bakersfield -> Indianapolis,7
+Baltimore -> New York,7
+Madison -> Tampa,7
+Indianapolis -> Savannah,7
+Detroit -> Oklahoma City,7
+Toledo -> Albuquerque,7
+Dayton -> Salt Lake City,7
+Montgomery -> St. Louis,7
+Toledo -> Salt Lake City,7
+Baltimore -> Columbia,7
+Baton Rouge -> Washington,7
+Phoenix -> Baltimore,7
+Washington -> Phoenix,7
+Memphis -> Las Vegas,7
+Phoenix -> Indianapolis,7
+Albany -> Birmingham,7
+Boston -> Indianapolis,7
+Austin -> Jacksonville,7
+Austin -> San Francisco,7
+Grand Rapids -> Louisville,7
+Little Rock -> Dayton,7
+Toledo -> Washington,7
+Birmingham -> Oklahoma City,7
+Baton Rouge -> Savannah,7
+Corpus Christi -> Austin,7
+Reno -> Albuquerque,7
+Grand Rapids -> New Orleans,7
+Buffalo -> Tampa,7
+Columbia -> Baltimore,6
+Reno -> Las Vegas,6
+Dayton -> Baltimore,6
+Birmingham -> Houston,6
+Washington -> Greensboro,6
+Houston -> Albany,6
+Lubbock -> Savannah,6
+Harrisburg -> Reno,6
+Los Angeles -> Tulsa,6
+Austin -> Madison,6
+Dallas -> Mobile,6
+Washington -> Tampa,6
+Harrisburg -> Toledo,6
+Nashville -> Providence,6
+Raleigh -> Green Bay,6
+San Antonio -> Detroit,6
+Charleston -> Baltimore,6
+Austin -> Boston,6
+Lubbock -> Little Rock,6
+Detroit -> San Antonio,6
+Savannah -> Amarillo,6
+Kansas City -> New Orleans,6
+Corpus Christi -> Albuquerque,6
+Houston -> Savannah,6
+Boston -> Raleigh,6
+Louisville -> Philadelphia,6
+Montgomery -> Tampa,6
+Austin -> Richmond,6
+Indianapolis -> Los Angeles,6
+Washington -> Syracuse,6
+Green Bay -> Washington,6
+Austin -> Reno,6
+San Francisco -> Madison,6
+Las Vegas -> Cincinnati,6
+Grand Rapids -> Albuquerque,6
+Las Vegas -> Phoenix,6
+Birmingham -> Nashville,6
+Charleston -> Detroit,6
+San Francisco -> Little Rock,6
+Madison -> Memphis,6
+Reno -> St. Louis,6
+Detroit -> Buffalo,6
+Raleigh -> Louisville,6
+Dayton -> Indianapolis,6
+Grand Rapids -> Providence,6
+Detroit -> New York,6
+Bakersfield -> Dallas,6
+Louisville -> Syracuse,6
+Boston -> Providence,6
+Boston -> Mobile,6
+Atlanta -> Detroit,6
+Corpus Christi -> Boston,6
+Los Angeles -> Washington,6
+Reno -> Montgomery,6
+San Francisco -> Savannah,6
+New Orleans -> Savannah,6
+Syracuse -> Louisville,6
+Richmond -> Birmingham,6
+Las Vegas -> Dayton,6
+Lexington -> Madison,6
+Providence -> Chattanooga,6
+Jacksonville -> El Paso,6
+New Orleans -> Reno,6
+Las Vegas -> Richmond,6
+Fresno -> New Orleans,6
+St. Louis -> Reno,6
+El Paso -> Austin,6
+Indianapolis -> Syracuse,6
+Reno -> Birmingham,6
+Birmingham -> Buffalo,6
+Washington -> Buffalo,6
+Little Rock -> Reno,6
+Philadelphia -> Salt Lake City,6
+Providence -> Austin,6
+Amarillo -> Austin,6
+Green Bay -> Harrisburg,6
+Austin -> Hartford,6
+Albuquerque -> Grand Rapids,6
+San Francisco -> Milwaukee,6
+Oklahoma City -> Detroit,6
+St. Louis -> Syracuse,6
+Lexington -> Detroit,6
+St. Louis -> Philadelphia,6
+Harrisburg -> Dallas,6
+Baltimore -> Boston,6
+Savannah -> Buffalo,6
+Shreveport -> Little Rock,6
+Boston -> Harrisburg,6
+Corpus Christi -> Harrisburg,6
+Little Rock -> Amarillo,6
+Chattanooga -> Washington,6
+Las Vegas -> Mobile,6
+Baltimore -> Tampa,6
+Louisville -> Phoenix,6
+Syracuse -> Baltimore,6
+Boston -> Tulsa,6
+El Paso -> Louisville,6
+Baltimore -> Toledo,6
+Tampa -> Fresno,6
+Tucson -> Louisville,6
+Phoenix -> New Orleans,6
+Baltimore -> Jacksonville,6
+Louisville -> Grand Rapids,6
+Las Vegas -> Los Angeles,6
+Raleigh -> Nashville,6
+Las Vegas -> Albuquerque,6
+Louisville -> Los Angeles,6
+Birmingham -> Lubbock,6
+Savannah -> El Paso,6
+Greensboro -> Washington,6
+Madison -> Corpus Christi,6
+Baton Rouge -> Las Vegas,6
+Chattanooga -> Savannah,6
+Green Bay -> Las Vegas,6
+Montgomery -> New Orleans,6
+Birmingham -> Tampa,6
+San Francisco -> Harrisburg,6
+Dallas -> Charleston,6
+Atlanta -> Salt Lake City,6
+Tulsa -> Montgomery,6
+Tulsa -> Amarillo,6
+Columbia -> St. Louis,6
+Indianapolis -> Albany,6
+Baton Rouge -> St. Louis,6
+Bakersfield -> Detroit,6
+Detroit -> Milwaukee,6
+St. Louis -> Baton Rouge,6
+Albany -> Austin,6
+Shreveport -> Harrisburg,6
+Buffalo -> Las Vegas,6
+Little Rock -> Lubbock,6
+Birmingham -> Greensboro,6
+Dayton -> Tulsa,6
+El Paso -> Detroit,6
+San Antonio -> Washington,6
+Houston -> El Paso,6
+Reno -> Tulsa,6
+Austin -> Los Angeles,6
+Green Bay -> Austin,6
+Phoenix -> Louisville,6
+Louisville -> Toledo,6
+Albuquerque -> Nashville,6
+St. Louis -> New York,6
+Milwaukee -> Little Rock,6
+Harrisburg -> Buffalo,6
+Jacksonville -> Savannah,6
+Providence -> Lubbock,6
+San Francisco -> Green Bay,6
+Madison -> Louisville,6
+Tulsa -> Corpus Christi,6
+Bakersfield -> Birmingham,6
+Birmingham -> Fresno,6
+Little Rock -> Shreveport,6
+Albuquerque -> Louisville,6
+Louisville -> Shreveport,6
+Savannah -> Little Rock,6
+St. Louis -> Corpus Christi,6
+Shreveport -> Dallas,6
+Indianapolis -> Chattanooga,6
+Madison -> Greensboro,6
+Dayton -> Houston,6
+Amarillo -> San Francisco,6
+Little Rock -> Kansas City,6
+Montgomery -> Little Rock,6
+New Orleans -> Montgomery,6
+Dallas -> Cincinnati,6
+Austin -> Syracuse,6
+San Antonio -> Dallas,6
+Toledo -> Louisville,6
+Syracuse -> New Orleans,6
+Madison -> Los Angeles,6
+Baltimore -> Buffalo,6
+Providence -> Baltimore,6
+Greensboro -> New Orleans,6
+Toledo -> Green Bay,6
+Corpus Christi -> San Francisco,6
+Los Angeles -> Detroit,6
+Baltimore -> Cincinnati,6
+Boston -> Albany,6
+Harrisburg -> St. Louis,6
+Jacksonville -> Raleigh,6
+New Orleans -> Buffalo,6
+Baltimore -> Birmingham,6
+Harrisburg -> Corpus Christi,6
+Birmingham -> Kansas City,6
+Albuquerque -> Tampa,6
+Memphis -> Tampa,6
+Corpus Christi -> Green Bay,6
+Indianapolis -> Raleigh,6
+Baltimore -> Tulsa,6
+Las Vegas -> Grand Rapids,6
+Providence -> Jacksonville,6
+Raleigh -> Providence,6
+St. Louis -> Amarillo,6
+Tampa -> Las Vegas,6
+New Orleans -> Atlanta,6
+Albany -> Providence,6
+Harrisburg -> Indianapolis,6
+Chattanooga -> Louisville,6
+Louisville -> Tulsa,6
+Amarillo -> St. Louis,6
+Fresno -> Providence,6
+Little Rock -> Jacksonville,6
+New Orleans -> Houston,6
+Reno -> Houston,6
+Syracuse -> Washington,6
+Indianapolis -> Providence,6
+Detroit -> Little Rock,6
+Corpus Christi -> Little Rock,6
+Boston -> Dayton,6
+New York -> Baltimore,6
+Detroit -> Jacksonville,6
+Albuquerque -> New Orleans,6
+Fresno -> St. Louis,6
+New Orleans -> Boston,6
+Tulsa -> Dallas,6
+Albuquerque -> Corpus Christi,6
+Chattanooga -> Harrisburg,6
+Austin -> Memphis,6
+Birmingham -> San Antonio,6
+Salt Lake City -> Houston,6
+Indianapolis -> Fresno,6
+Dallas -> Albany,6
+Reno -> Louisville,6
+Richmond -> Las Vegas,6
+Cincinnati -> Louisville,6
+Nashville -> St. Louis,6
+Little Rock -> Greensboro,6
+St. Louis -> Nashville,6
+Raleigh -> Tampa,6
+Indianapolis -> Louisville,6
+Salt Lake City -> Montgomery,6
+Kansas City -> Las Vegas,6
+Baltimore -> Kansas City,6
+Greensboro -> Corpus Christi,6
+Indianapolis -> Corpus Christi,6
+San Francisco -> Jacksonville,6
+Salt Lake City -> Savannah,6
+Washington -> San Antonio,6
+Dallas -> Milwaukee,6
+Salt Lake City -> Philadelphia,6
+San Francisco -> New York,6
+Richmond -> St. Louis,6
+San Francisco -> Tucson,6
+Savannah -> Fort Wayne,6
+Baltimore -> Lubbock,6
+Louisville -> Lubbock,6
+Savannah -> Chattanooga,6
+Little Rock -> Washington,6
+Little Rock -> Raleigh,5
+Salt Lake City -> Atlanta,5
+Jacksonville -> Birmingham,5
+Greensboro -> Tampa,5
+New York -> Detroit,5
+Corpus Christi -> Detroit,5
+Little Rock -> Madison,5
+Dayton -> Boston,5
+St. Louis -> Kansas City,5
+Providence -> Green Bay,5
+Salt Lake City -> Raleigh,5
+Madison -> Milwaukee,5
+Dallas -> San Antonio,5
+Albuquerque -> Harrisburg,5
+Columbia -> Detroit,5
+Indianapolis -> Charleston,5
+El Paso -> St. Louis,5
+Salt Lake City -> Providence,5
+Tampa -> Little Rock,5
+St. Louis -> Baltimore,5
+Austin -> Tulsa,5
+Washington -> Baltimore,5
+Washington -> Green Bay,5
+New York -> St. Louis,5
+Shreveport -> Birmingham,5
+Little Rock -> Savannah,5
+Detroit -> Fort Wayne,5
+Harrisburg -> New Orleans,5
+Detroit -> Raleigh,5
+Toledo -> New Orleans,5
+Las Vegas -> Memphis,5
+Detroit -> Toledo,5
+New Orleans -> Baltimore,5
+Toledo -> Tampa,5
+Salt Lake City -> Harrisburg,5
+El Paso -> Houston,5
+Dallas -> Hartford,5
+Birmingham -> Syracuse,5
+Boston -> Albuquerque,5
+Charleston -> Corpus Christi,5
+Grand Rapids -> Washington,5
+Dallas -> Shreveport,5
+Indianapolis -> Green Bay,5
+Los Angeles -> Dayton,5
+Lexington -> Savannah,5
+Baltimore -> Austin,5
+San Francisco -> El Paso,5
+Little Rock -> Tulsa,5
+San Francisco -> Providence,5
+Indianapolis -> Tulsa,5
+Montgomery -> Dallas,5
+Baton Rouge -> Little Rock,5
+Detroit -> Lubbock,5
+Boston -> Salt Lake City,5
+Indianapolis -> New York,5
+Dayton -> Chattanooga,5
+Baltimore -> Corpus Christi,5
+Louisville -> Bakersfield,5
+Charleston -> New Orleans,5
+Buffalo -> Providence,5
+Detroit -> Harrisburg,5
+Los Angeles -> Las Vegas,5
+Bakersfield -> Louisville,5
+Salt Lake City -> Madison,5
+San Francisco -> New Orleans,5
+Buffalo -> Baltimore,5
+Louisville -> Corpus Christi,5
+Phoenix -> Las Vegas,5
+Washington -> New York,5
+Raleigh -> Washington,5
+Tulsa -> Washington,5
+Madison -> Buffalo,5
+Salt Lake City -> Tulsa,5
+Baltimore -> Greensboro,5
+Chattanooga -> Baltimore,5
+Las Vegas -> Toledo,5
+San Francisco -> Houston,5
+Louisville -> Fresno,5
+Jacksonville -> Washington,5
+Austin -> Lubbock,5
+Buffalo -> Birmingham,5
+Madison -> Raleigh,5
+Birmingham -> Albuquerque,5
+Louisville -> Greensboro,5
+Washington -> Corpus Christi,5
+Tucson -> St. Louis,5
+Amarillo -> New Orleans,5
+Savannah -> Toledo,5
+Philadelphia -> Dallas,5
+Tulsa -> Albuquerque,5
+Los Angeles -> Providence,5
+Providence -> Nashville,5
+Savannah -> Tulsa,5
+New Orleans -> Shreveport,5
+Harrisburg -> Savannah,5
+New Orleans -> Fresno,5
+Albany -> Louisville,5
+Fresno -> Madison,5
+Louisville -> Chattanooga,5
+Phoenix -> Austin,5
+Indianapolis -> Harrisburg,5
+Baltimore -> Memphis,5
+Birmingham -> Phoenix,5
+Houston -> Washington,5
+Tampa -> Tulsa,5
+Tulsa -> Savannah,5
+Memphis -> Washington,5
+Baltimore -> San Antonio,5
+Milwaukee -> Dallas,5
+Milwaukee -> Madison,5
+Boston -> New Orleans,5
+Lubbock -> Birmingham,5
+Harrisburg -> Baltimore,5
+Albany -> San Francisco,5
+Harrisburg -> Las Vegas,5
+New Orleans -> Birmingham,5
+Providence -> Corpus Christi,5
+Fort Wayne -> St. Louis,5
+Las Vegas -> Atlanta,5
+Boston -> Madison,5
+Tulsa -> Harrisburg,5
+Mobile -> Las Vegas,5
+Greensboro -> Dallas,5
+Dallas -> Boston,5
+Harrisburg -> Houston,5
+Dallas -> New York,5
+Providence -> Harrisburg,5
+Louisville -> Albany,5
+Buffalo -> Little Rock,5
+Fresno -> Las Vegas,5
+Louisville -> Providence,5
+Kansas City -> Detroit,5
+Madison -> Amarillo,5
+Green Bay -> Detroit,5
+Raleigh -> Dayton,5
+Corpus Christi -> Reno,5
+St. Louis -> Dayton,5
+Boston -> El Paso,5
+Savannah -> Las Vegas,5
+Lubbock -> St. Louis,5
+Birmingham -> Cincinnati,5
+Salt Lake City -> New York,5
+New York -> Washington,5
+New Orleans -> Washington,5
+San Francisco -> Salt Lake City,5
+Dayton -> Cincinnati,5
+Salt Lake City -> Cincinnati,5
+Dallas -> St. Louis,5
+Amarillo -> Birmingham,5
+Baltimore -> Providence,5
+St. Louis -> Austin,5
+Green Bay -> San Francisco,5
+Raleigh -> Little Rock,5
+Las Vegas -> San Antonio,5
+Baltimore -> Little Rock,5
+Tampa -> Providence,5
+San Francisco -> Detroit,5
+Dallas -> Austin,5
+Indianapolis -> St. Louis,5
+Corpus Christi -> Baltimore,5
+Indianapolis -> Dayton,5
+Birmingham -> Atlanta,5
+Nashville -> Washington,5
+Corpus Christi -> Indianapolis,5
+Dallas -> Philadelphia,5
+Providence -> Reno,5
+Buffalo -> Raleigh,5
+Salt Lake City -> Greensboro,5
+Harrisburg -> Jacksonville,5
+New Orleans -> Corpus Christi,5
+El Paso -> Boston,5
+Lubbock -> Austin,5
+Reno -> Washington,5
+Providence -> Madison,5
+St. Louis -> San Francisco,5
+Dayton -> Providence,5
+Dallas -> Baton Rouge,5
+Louisville -> Savannah,5
+St. Louis -> Chattanooga,5
+San Francisco -> Buffalo,5
+Reno -> San Francisco,5
+St. Louis -> Cincinnati,5
+Las Vegas -> Columbia,5
+Madison -> Toledo,5
+Louisville -> Baltimore,5
+Indianapolis -> New Orleans,5
+Providence -> Houston,5
+Birmingham -> Little Rock,5
+Birmingham -> Boston,5
+Austin -> Albuquerque,5
+San Antonio -> Salt Lake City,5
+Nashville -> Birmingham,5
+Toledo -> Indianapolis,5
+St. Louis -> Raleigh,5
+Harrisburg -> Washington,5
+Birmingham -> Green Bay,5
+Savannah -> Raleigh,5
+Las Vegas -> Indianapolis,5
+Memphis -> Birmingham,5
+New Orleans -> Greensboro,5
+El Paso -> Dallas,5
+Savannah -> Jacksonville,5
+Little Rock -> Green Bay,5
+New York -> Birmingham,5
+San Antonio -> Las Vegas,5
+New Orleans -> Raleigh,5
+Washington -> Amarillo,5
+Chattanooga -> Detroit,5
+Tulsa -> Louisville,5
+New Orleans -> Philadelphia,5
+Las Vegas -> Philadelphia,5
+Albuquerque -> Dayton,5
+Syracuse -> Salt Lake City,5
+Toledo -> Detroit,5
+Lubbock -> Madison,5
+Las Vegas -> Raleigh,5
+Harrisburg -> Louisville,5
+Little Rock -> Chattanooga,5
+Washington -> Albany,5
+Reno -> Syracuse,5
+Detroit -> Indianapolis,5
+Baltimore -> Philadelphia,4
+Savannah -> Salt Lake City,4
+Providence -> Kansas City,4
+New Orleans -> Indianapolis,4
+Savannah -> Albuquerque,4
+Dallas -> Tampa,4
+Salt Lake City -> Dayton,4
+Albany -> New Orleans,4
+Chattanooga -> Boston,4
+St. Louis -> Lubbock,4
+Raleigh -> Dallas,4
+Albuquerque -> St. Louis,4
+New Orleans -> Austin,4
+Detroit -> Amarillo,4
+Buffalo -> Tulsa,4
+Providence -> Dallas,4
+Las Vegas -> Baltimore,4
+Dallas -> Houston,4
+St. Louis -> Harrisburg,4
+Madison -> Providence,4
+Detroit -> Nashville,4
+Jacksonville -> Las Vegas,4
+Green Bay -> Madison,4
+Charleston -> Louisville,4
+Austin -> Amarillo,4
+Las Vegas -> Boston,4
+New Orleans -> Kansas City,4
+Dallas -> Tucson,4
+Tulsa -> Baltimore,4
+Washington -> Tulsa,4
+Baltimore -> Charleston,4
+Las Vegas -> Syracuse,4
+Chattanooga -> Salt Lake City,4
+Providence -> Birmingham,4
+Baton Rouge -> Madison,4
+Washington -> Dayton,4
+Chattanooga -> St. Louis,4
+Charleston -> Washington,4
+Louisville -> Tampa,4
+Dayton -> Las Vegas,4
+Birmingham -> Indianapolis,4
+Amarillo -> Dallas,4
+Dayton -> Corpus Christi,4
+Madison -> Birmingham,4
+Detroit -> Syracuse,4
+San Francisco -> Corpus Christi,4
+Louisville -> San Francisco,4
+Memphis -> Louisville,4
+Tampa -> Birmingham,4
+Birmingham -> Baltimore,4
+Dayton -> Reno,4
+Amarillo -> Washington,4
+Atlanta -> Dallas,4
+Houston -> Salt Lake City,4
+Raleigh -> Indianapolis,4
+Montgomery -> Birmingham,4
+Austin -> Dayton,4
+Detroit -> Atlanta,4
+Washington -> Raleigh,4
+Austin -> Dallas,4
+Cincinnati -> Birmingham,4
+Providence -> Toledo,4
+St. Louis -> Louisville,4
+Richmond -> Washington,4
+Corpus Christi -> New Orleans,4
+Chattanooga -> Dallas,4
+Louisville -> El Paso,4
+New Orleans -> Dayton,4
+Reno -> Green Bay,4
+Madison -> New Orleans,4
+Raleigh -> San Francisco,4
+St. Louis -> Madison,4
+Houston -> Louisville,4
+Raleigh -> Albany,4
+Dayton -> Washington,4
+Las Vegas -> Tampa,4
+Memphis -> Dayton,4
+Las Vegas -> Greensboro,4
+Fresno -> Birmingham,4
+Savannah -> Dayton,4
+San Francisco -> Louisville,4
+Washington -> Fresno,4
+Corpus Christi -> Las Vegas,4
+Cincinnati -> Dallas,4
+Washington -> Columbia,4
+Montgomery -> Detroit,4
+Dayton -> Albuquerque,4
+Dallas -> Toledo,4
+Providence -> Boston,4
+Boston -> Baltimore,4
+Salt Lake City -> Grand Rapids,4
+Houston -> Detroit,4
+Harrisburg -> Boston,4
+Dayton -> Tampa,4
+Grand Rapids -> Birmingham,4
+Grand Rapids -> Las Vegas,4
+Madison -> Montgomery,4
+Indianapolis -> Reno,4
+St. Louis -> Grand Rapids,4
+Tulsa -> San Francisco,4
+Madison -> Little Rock,4
+Boston -> Las Vegas,4
+Hartford -> Birmingham,4
+San Francisco -> Austin,4
+Savannah -> Providence,4
+Austin -> Tampa,4
+St. Louis -> Lexington,4
+Indianapolis -> Houston,4
+New Orleans -> Toledo,4
+Buffalo -> Detroit,4
+Amarillo -> Detroit,4
+Dayton -> Austin,4
+Reno -> Madison,4
+Los Angeles -> St. Louis,4
+Providence -> St. Louis,4
+Louisville -> Washington,4
+Dallas -> Baltimore,4
+Baltimore -> Harrisburg,4
+Albuquerque -> Austin,4
+Baltimore -> Dayton,4
+Albany -> St. Louis,4
+St. Louis -> Charleston,4
+Louisville -> Jacksonville,4
+Tampa -> Austin,4
+San Francisco -> Reno,4
+Washington -> Tucson,4
+Providence -> Louisville,4
+Austin -> Salt Lake City,4
+Tampa -> Raleigh,4
+Salt Lake City -> Toledo,4
+Indianapolis -> Washington,4
+Madison -> Dayton,4
+New York -> Louisville,4
+Indianapolis -> Boston,4
+Salt Lake City -> Corpus Christi,4
+Louisville -> Reno,4
+Providence -> Albuquerque,4
+Mobile -> Dallas,4
+Austin -> Raleigh,4
+Tulsa -> Madison,4
+Louisville -> Memphis,4
+Birmingham -> Amarillo,4
+Jacksonville -> New Orleans,4
+Baltimore -> St. Louis,4
+Milwaukee -> Austin,4
+Providence -> San Francisco,4
+Los Angeles -> San Francisco,4
+Madison -> Green Bay,4
+Charleston -> Las Vegas,4
+Tucson -> Providence,4
+Dallas -> Phoenix,4
+Charleston -> Dallas,4
+Toledo -> Las Vegas,4
+Austin -> Little Rock,4
+Columbia -> Dallas,4
+Austin -> Toledo,4
+Providence -> New York,4
+Washington -> Shreveport,4
+Dayton -> Detroit,4
+Montgomery -> Las Vegas,4
+Washington -> Salt Lake City,4
+Amarillo -> Baltimore,4
+Washington -> St. Louis,4
+St. Louis -> Hartford,4
+New York -> Las Vegas,4
+Providence -> Salt Lake City,4
+Providence -> Tampa,4
+Tampa -> Reno,4
+Dallas -> El Paso,4
+Raleigh -> Las Vegas,4
+Reno -> New Orleans,4
+Charleston -> St. Louis,4
+Austin -> Buffalo,4
+Raleigh -> Baltimore,4
+Salt Lake City -> San Antonio,4
+Birmingham -> Albany,4
+Nashville -> Las Vegas,4
+Providence -> Raleigh,4
+Louisville -> Green Bay,4
+Baltimore -> Madison,4
+Dallas -> Little Rock,4
+Little Rock -> Austin,4
+Tampa -> Green Bay,4
+Detroit -> Columbia,4
+Shreveport -> Washington,4
+Tulsa -> New Orleans,4
+Detroit -> New Orleans,4
+Tucson -> Detroit,4
+New Orleans -> Chattanooga,4
+Tucson -> San Francisco,4
+Dallas -> Dayton,4
+Corpus Christi -> Tulsa,4
+New York -> Indianapolis,4
+New Orleans -> Green Bay,4
+Hartford -> Providence,4
+Memphis -> New Orleans,4
+Louisville -> Indianapolis,4
+New Orleans -> Albuquerque,4
+San Francisco -> Chattanooga,4
+Providence -> Syracuse,4
+Albany -> Las Vegas,3
+Syracuse -> St. Louis,3
+Austin -> Milwaukee,3
+Fresno -> Austin,3
+Houston -> Little Rock,3
+St. Louis -> Washington,3
+Detroit -> Tampa,3
+Green Bay -> Salt Lake City,3
+Indianapolis -> Little Rock,3
+New Orleans -> Syracuse,3
+San Francisco -> Philadelphia,3
+Memphis -> Austin,3
+St. Louis -> Montgomery,3
+Savannah -> Birmingham,3
+Reno -> Dallas,3
+Detroit -> Austin,3
+Salt Lake City -> Louisville,3
+San Antonio -> New Orleans,3
+Savannah -> Harrisburg,3
+Washington -> Louisville,3
+Washington -> Kansas City,3
+Corpus Christi -> St. Louis,3
+St. Louis -> Jacksonville,3
+Las Vegas -> El Paso,3
+Providence -> Las Vegas,3
+Savannah -> Tampa,3
+Fresno -> Salt Lake City,3
+Detroit -> Providence,3
+Detroit -> St. Louis,3
+Madison -> Charleston,3
+Savannah -> Baltimore,3
+Dallas -> Lubbock,3
+Harrisburg -> Salt Lake City,3
+Austin -> Charleston,3
+Harrisburg -> Providence,3
+Louisville -> Milwaukee,3
+Jacksonville -> Indianapolis,3
+Boston -> Dallas,3
+Jacksonville -> Dallas,3
+Detroit -> Memphis,3
+Tampa -> New Orleans,3
+San Francisco -> Albuquerque,3
+Corpus Christi -> Birmingham,3
+Detroit -> Corpus Christi,3
+Las Vegas -> Fresno,3
+Austin -> Birmingham,3
+Fresno -> Detroit,3
+Buffalo -> New Orleans,3
+Baltimore -> Detroit,3
+Corpus Christi -> Washington,3
+Las Vegas -> Milwaukee,3
+Little Rock -> Salt Lake City,3
+St. Louis -> Albuquerque,3
+Savannah -> Washington,3
+Providence -> Washington,3
+St. Louis -> Richmond,3
+Milwaukee -> Indianapolis,3
+Birmingham -> Tulsa,3
+Washington -> Jacksonville,3
+St. Louis -> Las Vegas,3
+Las Vegas -> Lubbock,3
+Green Bay -> Birmingham,3
+Salt Lake City -> Las Vegas,3
+Washington -> Indianapolis,3
+Savannah -> Lubbock,3
+Las Vegas -> Buffalo,3
+Birmingham -> Dayton,3
+Detroit -> Madison,3
+Little Rock -> Louisville,3
+Louisville -> Buffalo,3
+Indianapolis -> Birmingham,3
+Albany -> Detroit,3
+New Orleans -> San Francisco,3
+Jacksonville -> St. Louis,3
+Houston -> San Francisco,3
+Detroit -> San Francisco,3
+Indianapolis -> Austin,3
+Austin -> Savannah,3
+Little Rock -> New Orleans,3
+San Francisco -> Dayton,3
+Houston -> Birmingham,3
+Raleigh -> Madison,3
+Tulsa -> Tampa,3
+Providence -> Detroit,3
+Memphis -> Salt Lake City,3
+Austin -> Harrisburg,3
+St. Louis -> San Antonio,3
+New Orleans -> Las Vegas,3
+Detroit -> Birmingham,3
+Washington -> Houston,3
+Indianapolis -> Dallas,3
+New Orleans -> El Paso,3
+Louisville -> Austin,3
+Tulsa -> Little Rock,3
+Dayton -> San Francisco,3
+Washington -> Boston,3
+Tulsa -> Las Vegas,3
+Salt Lake City -> New Orleans,3
+Albuquerque -> Salt Lake City,3
+Boston -> Washington,3
+Little Rock -> Dallas,3
+New York -> Providence,3
+Washington -> Reno,3
+Raleigh -> Detroit,3
+Little Rock -> Las Vegas,3
+Las Vegas -> Charleston,3
+Savannah -> San Francisco,3
+New Orleans -> Memphis,3
+Las Vegas -> Dallas,3
+Salt Lake City -> Albuquerque,3
+San Francisco -> Birmingham,3
+Madison -> Reno,3
+Birmingham -> Chattanooga,3
+Las Vegas -> Montgomery,3
+Albany -> Greensboro,3
+Toledo -> Lubbock,3
+St. Louis -> Savannah,3
+St. Louis -> Detroit,3
+Memphis -> Dallas,3
+Buffalo -> Dayton,3
+Washington -> Little Rock,3
+Tulsa -> Providence,3
+Birmingham -> New York,3
+Baltimore -> Indianapolis,3
+Dallas -> Jacksonville,3
+Tampa -> Louisville,3
+Tulsa -> St. Louis,3
+San Francisco -> Washington,3
+Savannah -> Dallas,3
+Corpus Christi -> Dayton,3
+Las Vegas -> San Francisco,3
+Boston -> Austin,3
+Houston -> Las Vegas,3
+Birmingham -> Dallas,3
+Dallas -> Green Bay,3
+San Francisco -> Las Vegas,3
+Detroit -> Albuquerque,3
+Reno -> Austin,3
+Chattanooga -> Little Rock,3
+Birmingham -> Providence,3
+New York -> Reno,3
+Louisville -> Harrisburg,3
+Las Vegas -> New York,3
+Birmingham -> San Francisco,3
+Albuquerque -> Las Vegas,3
+Las Vegas -> Jacksonville,3
+Harrisburg -> Tampa,3
+St. Louis -> Milwaukee,3
+Boston -> Birmingham,3
+Chattanooga -> Las Vegas,3
+Dayton -> Little Rock,2
+Dallas -> Louisville,2
+San Francisco -> Baltimore,2
+Detroit -> Boston,2
+Corpus Christi -> Dallas,2
+Little Rock -> Birmingham,2
+Salt Lake City -> Austin,2
+Austin -> Washington,2
+Providence -> Buffalo,2
+Washington -> Savannah,2
+Raleigh -> St. Louis,2
+Detroit -> Las Vegas,2
+Dallas -> Amarillo,2
+Providence -> Little Rock,2
+Houston -> St. Louis,2
+Birmingham -> Austin,2
+Las Vegas -> Austin,2
+Albuquerque -> Baltimore,2
+Dallas -> Providence,2
+New Orleans -> Tulsa,2
+Shreveport -> Las Vegas,2
+Dallas -> Birmingham,2
+Detroit -> Louisville,2
+Dallas -> Washington,2
+Toledo -> Dallas,2
+Indianapolis -> Las Vegas,2
+Birmingham -> Harrisburg,2
+St. Louis -> Little Rock,2
+New Orleans -> Columbia,2
+Harrisburg -> Birmingham,2
+Salt Lake City -> San Francisco,2
+Indianapolis -> Lubbock,2
+San Francisco -> Tulsa,2
+Las Vegas -> Green Bay,2
+Las Vegas -> Louisville,2
+Washington -> Austin,2
+Dallas -> Madison,2
+Green Bay -> Dallas,2
+Birmingham -> Milwaukee,2
+New Orleans -> Detroit,2
+Toledo -> Birmingham,2
+Louisville -> Oklahoma City,2
+Washington -> Baton Rouge,2
+Fresno -> Dallas,2
+Dallas -> Fresno,2
+Detroit -> Chattanooga,2
+Dayton -> Louisville,2
+St. Louis -> Shreveport,2
+New York -> Dallas,2
+Tampa -> St. Louis,2
+Birmingham -> New Orleans,2
+Austin -> New Orleans,2
+Kansas City -> Louisville,2
+Albuquerque -> Detroit,2
+Austin -> Louisville,2
+Washington -> Madison,2
+Louisville -> Las Vegas,2
+Las Vegas -> Salt Lake City,2
+Louisville -> Dayton,2
+Birmingham -> Savannah,2
+El Paso -> Las Vegas,2
+Washington -> Philadelphia,2
+St. Louis -> Providence,2
+Washington -> Las Vegas,2
+St. Louis -> Green Bay,2
+Boston -> Louisville,2
+Providence -> Savannah,2
+New Orleans -> Louisville,2
+Las Vegas -> St. Louis,2
+Green Bay -> St. Louis,2
+Dayton -> Birmingham,2
+Salt Lake City -> St. Louis,2
+New Orleans -> St. Louis,2
+Reno -> Providence,2
+Washington -> Charleston,2
+Austin -> Fresno,2
+Indianapolis -> Detroit,2
+Green Bay -> Louisville,2
+Greensboro -> Las Vegas,2
+New Orleans -> Little Rock,2
+Detroit -> Reno,2
+Las Vegas -> Corpus Christi,2
+Little Rock -> St. Louis,2
+Tampa -> Baltimore,2
+Austin -> St. Louis,2
+New Orleans -> Madison,2
+St. Louis -> Boston,2
+Tampa -> Madison,2
+Raleigh -> Birmingham,2
+Providence -> Dayton,2
+Baltimore -> Salt Lake City,2
+Savannah -> Detroit,2
+Buffalo -> Austin,2
+Dallas -> Memphis,2
+St. Louis -> Salt Lake City,2
+Salt Lake City -> Indianapolis,2
+Jacksonville -> Louisville,2
+Madison -> Dallas,2
+Madison -> Washington,2
+Detroit -> Baltimore,2
+Austin -> Detroit,2
+New York -> Harrisburg,2
+Dallas -> New Orleans,2
+Dallas -> Tulsa,2
+Dallas -> Grand Rapids,2
+Dayton -> St. Louis,2
+Detroit -> Savannah,2
+Little Rock -> Albuquerque,2
+Birmingham -> Las Vegas,2
+Washington -> New Orleans,2
+Louisville -> New Orleans,2
+Savannah -> Louisville,2
+Tampa -> Salt Lake City,2
+Louisville -> Dallas,2
+Salt Lake City -> Birmingham,2
+Washington -> Albuquerque,2
+St. Louis -> Toledo,2
+Corpus Christi -> Louisville,2
+Birmingham -> Louisville,2
+New Orleans -> Salt Lake City,2
+Little Rock -> Baltimore,1
+Louisville -> Salt Lake City,1
+Madison -> Las Vegas,1
+Dallas -> Raleigh,1
+Detroit -> Washington,1
+Savannah -> Corpus Christi,1
+Boston -> Detroit,1
+Dallas -> Albuquerque,1
+Salt Lake City -> Dallas,1
+Austin -> Las Vegas,1
+Washington -> Birmingham,1
+Washington -> Harrisburg,1
+Salt Lake City -> Washington,1
+Salt Lake City -> Tampa,1
+Austin -> Providence,1
+Birmingham -> Detroit,1
+Las Vegas -> Little Rock,1
+Baltimore -> New Orleans,1
+St. Louis -> Tampa,1
+Las Vegas -> Detroit,1
+Detroit -> Green Bay,1
+Dallas -> Harrisburg,1
+Louisville -> Detroit,1
+Las Vegas -> Houston,1
+Providence -> New Orleans,1
+Dallas -> Salt Lake City,1
+Detroit -> Dallas,1
+Harrisburg -> Detroit,1
+Louisville -> Birmingham,1
+Washington -> Dallas,1
+Madison -> Salt Lake City,1
+Corpus Christi -> Albany,1
+Las Vegas -> Madison,1
+Dallas -> Corpus Christi,1
+Greensboro -> St. Louis,1
+Dallas -> Reno,1
+Las Vegas -> Tulsa,1
+Little Rock -> Providence,1
+Washington -> Detroit,1
+St. Louis -> Birmingham,1
+New Orleans -> Dallas,1
+Salt Lake City -> Detroit,1
+Birmingham -> Salt Lake City,1
+Salt Lake City -> Baltimore,1
+Dallas -> Detroit,1
+St. Louis -> Dallas,1
+Austin -> Baltimore,1
+Louisville -> Little Rock,1
+Birmingham -> St. Louis,1
+Birmingham -> El Paso,1
+Baltimore -> Dallas,1
+Dallas -> Savannah,1
+Dallas -> San Francisco,1
+Birmingham -> Madison,1
+Tampa -> Detroit,1
+St. Louis -> New Orleans,1
+New Orleans -> Providence,1
+Little Rock -> San Francisco,1
+Louisville -> St. Louis,1
+Madison -> St. Louis,1
+Las Vegas -> Reno,1
+Las Vegas -> Birmingham,1
+Little Rock -> Detroit,1
+Savannah -> Indianapolis,1
+Albuquerque -> Birmingham,1
+Baltimore -> Las Vegas,1
+Birmingham -> Washington,1

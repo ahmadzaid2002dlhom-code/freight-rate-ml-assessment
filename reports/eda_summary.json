@@ -1,0 +1,212 @@
+{
+  "seed": 42,
+  "training_rows": 48000,
+  "final_input_rows": 12000,
+  "training_date_range": [
+    "2025-01-01",
+    "2025-10-31"
+  ],
+  "final_date_range": [
+    "2025-11-01",
+    "2025-12-31"
+  ],
+  "model_training_performed": false,
+  "target": {
+    "count": 48000.0,
+    "mean": 2373.9806822916667,
+    "std": 1486.4932447622946,
+    "min": 57.22,
+    "1%": 327.16880000000003,
+    "5%": 599.7385,
+    "25%": 1251.5549999999998,
+    "50%": 2030.76,
+    "75%": 3330.75,
+    "95%": 4953.7665,
+    "99%": 5972.834000000003,
+    "max": 25533.0
+  },
+  "rate_per_mile": {
+    "count": 48000.0,
+    "mean": 2.21534716750207,
+    "std": 0.5838870842426047,
+    "min": 0.33370919413341743,
+    "1%": 1.6735214945063572,
+    "5%": 1.80753289863116,
+    "25%": 1.9869742539000856,
+    "50%": 2.1453480823707856,
+    "75%": 2.342696485436716,
+    "95%": 2.735924866645637,
+    "99%": 3.1769396299902666,
+    "max": 14.125293930727675
+  },
+  "distance_target_pearson": 0.908519151830077,
+  "distance_target_spearman": 0.9759685089531235,
+  "distance_rpm_spearman": -0.7356588480961573,
+  "monthly": {
+    "2025-01": {
+      "rows": 4918.0,
+      "mean_rate": 2255.9670475803173,
+      "median_rate": 1915.2,
+      "median_rpm": 2.0291576557165607,
+      "median_distance": 950.8499999999999,
+      "market_mean": 0.9266961122490783
+    },
+    "2025-02": {
+      "rows": 4337.0,
+      "mean_rate": 2273.804800553378,
+      "median_rate": 1994.25,
+      "median_rpm": 2.061142796226214,
+      "median_distance": 966.3,
+      "market_mean": 0.9959967193675889
+    },
+    "2025-03": {
+      "rows": 5036.0,
+      "mean_rate": 2372.2680917394755,
+      "median_rate": 2022.92,
+      "median_rpm": 2.1392786400606116,
+      "median_distance": 954.5999999999999,
+      "market_mean": 1.072879765625
+    },
+    "2025-04": {
+      "rows": 4819.0,
+      "mean_rate": 2372.1623075326834,
+      "median_rate": 2044.24,
+      "median_rpm": 2.1466988540515386,
+      "median_distance": 956.6,
+      "market_mean": 1.2076491478696743
+    },
+    "2025-05": {
+      "rows": 4913.0,
+      "mean_rate": 2421.776342357012,
+      "median_rate": 2065.51,
+      "median_rpm": 2.1901941557168074,
+      "median_distance": 953.0,
+      "market_mean": 1.3014521519507187
+    },
+    "2025-06": {
+      "rows": 4783.0,
+      "mean_rate": 2497.0301149905913,
+      "median_rate": 2120.22,
+      "median_rpm": 2.2478847651180898,
+      "median_distance": 950.7,
+      "market_mean": 1.280315676017718
+    },
+    "2025-07": {
+      "rows": 4912.0,
+      "mean_rate": 2415.162029723127,
+      "median_rate": 2059.145,
+      "median_rpm": 2.1874218297132746,
+      "median_distance": 955.7,
+      "market_mean": 1.2008926579163248
+    },
+    "2025-08": {
+      "rows": 4759.0,
+      "mean_rate": 2338.407661273377,
+      "median_rate": 2015.73,
+      "median_rpm": 2.120525234741784,
+      "median_distance": 957.1,
+      "market_mean": 0.9814802052475666
+    },
+    "2025-09": {
+      "rows": 4670.0,
+      "mean_rate": 2406.374012847966,
+      "median_rate": 2057.13,
+      "median_rpm": 2.1596216424733026,
+      "median_distance": 954.4,
+      "market_mean": 0.8930385794352231
+    },
+    "2025-10": {
+      "rows": 4853.0,
+      "mean_rate": 2379.051374407583,
+      "median_rate": 2035.9,
+      "median_rpm": 2.1638275204665245,
+      "median_distance": 937.3,
+      "market_mean": 0.9575017418416129
+    }
+  },
+  "equipment": {
+    "Dry Van": {
+      "rows": 27202.0,
+      "mean_rate": 2271.54868612602,
+      "median_rate": 1953.035,
+      "median_rpm": 2.046203197542817,
+      "median_distance": 957.55
+    },
+    "Reefer": {
+      "rows": 12045.0,
+      "mean_rate": 2553.636938978829,
+      "median_rate": 2196.67,
+      "median_rpm": 2.3115399480978414,
+      "median_distance": 950.2
+    },
+    "Flatbed": {
+      "rows": 8753.0,
+      "mean_rate": 2445.0872226665147,
+      "median_rate": 2076.81,
+      "median_rpm": 2.219683448391985,
+      "median_distance": 940.0
+    }
+  },
+  "weight_target_pearson": 0.03483986417760006,
+  "clean_weight_target_pearson": 0.04134253525590217,
+  "pickup_categories": 64,
+  "delivery_categories": 64,
+  "train_routes": 4014,
+  "final_routes": 4214,
+  "unseen_route_rows": 1461,
+  "unseen_routes": 736,
+  "train_singleton_routes": 67,
+  "market_index_target_pearson": 0.034165098295577595,
+  "market_index_target_spearman": 0.03150461220427704,
+  "market_index_rpm_spearman": 0.17975533764110566,
+  "quote_signal_target_pearson": -0.03985797823788124,
+  "quote_signal_target_spearman": -0.03991221653078987,
+  "quote_signal_rpm_spearman": 0.09106444418063603,
+  "unseen_city_rows": 1447,
+  "missing_weight_train": 300,
+  "missing_weight_final": 165,
+  "negative_weight_train": 292,
+  "negative_weight_final": 145,
+  "missing_market_train": 374,
+  "missing_market_final": 249,
+  "target_lower_iqr_fence": -1867.2375000000006,
+  "target_upper_iqr_fence": 6449.5425000000005,
+  "target_iqr_flags": 260,
+  "target_over_10000": 103,
+  "market_mean_train": 1.0833867156595136,
+  "market_mean_final": 0.9269130491022041,
+  "findings": [
+    "Distance is the strongest observed marginal driver of total rate: Pearson 0.909, Spearman 0.976. A distance baseline is essential; these are correlations, not model metrics.",
+    "Rates are right-tailed: median $2,030.76, mean $2,373.98, maximum $25,533.00. Retain the 103 rates above $10,000 and investigate provenance; compare direct/log targets and examine MAE/RMSE later.",
+    "Equipment changes the observed rate-per-mile distribution: median Dry Van $2.05, Flatbed $2.22, Reefer $2.31. Lane and distance confounding prevents a causal premium claim.",
+    "Calendar and freight mix matter: monthly median $/mile moves from 2.029 in January to 2.248 in June. No November\u2013December labels exist, so validation must respect chronology and cannot establish full-year seasonality.",
+    "Handle quality problems explicitly: development/final inputs have 300/165 missing weights, 292/145 negative weights, and 374/249 missing market indices. Preserve rows; compare raw weight against absolute weight plus flags using training-fold preprocessing only.",
+    "Unseen categories are a real inference requirement: 1,447 final rows contain new cities and 1,461 contain new routes. Keep numeric geography as a candidate and test unknown-category handling. Route-only categories are brittle.",
+    "Market index shifts from a pooled mean of 1.083 to 0.927, but monthly values contextualize the difference. Short-haul/long-haul and calendar mix also affect rate per mile; descriptive shifts must not become final-data tuning.",
+    "Quote signal has weak marginal associations (target Pearson -0.040, $/mile Spearman 0.091). Do not assume usefulness or leakage without provenance and chronological ablation. December omits both quote and market signals; use legitimately available features or explicit missing handling."
+  ],
+  "figure_files": [
+    "eda_calendar.png",
+    "eda_delivery_markets.png",
+    "eda_distance.png",
+    "eda_distribution_shifts.png",
+    "eda_equipment.png",
+    "eda_geography.png",
+    "eda_market_index.png",
+    "eda_missingness.png",
+    "eda_numeric_correlations.png",
+    "eda_pickup_markets.png",
+    "eda_quote_signal.png",
+    "eda_rate_per_mile.png",
+    "eda_routes.png",
+    "eda_target_distribution.png",
+    "eda_target_outliers.png",
+    "eda_weight_quality.png",
+    "eda_weight_relationship.png"
+  ],
+  "supplied_files_unchanged": true,
+  "retained_rows": {
+    "development": 48000,
+    "final_inputs": 12000
+  }
+}
