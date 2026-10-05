@@ -1,0 +1,6 @@
+case,rows,finite_positive
+unseen_cities_routes_equipment,128,True
+missing_weight,128,True
+negative_weight,128,True
+unavailable_market_and_quote,128,True
+missing_categories_and_coordinates,128,True
