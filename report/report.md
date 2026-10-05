@@ -1,6 +1,6 @@
 # Freight Rate ML Assessment
 
-Technical report · Executed repository results · 04 October 2026
+Technical report · Executed repository results · 06 October 2026
 
 ## 1. Executive Summary
 
@@ -118,7 +118,7 @@ The saved primary predicts every final-inference load. Predictions join to templ
 | Final inference | 12,000 | 205.35 | 6,690.05 | 2,353.47 | 2,036.72 |
 | December | 31 | 823.46 | 848.20 | 834.94 | 834.04 |
 
-Native-model round trips reproduce predictions exactly. The executed production rerun reproduced both CSV hashes exactly. Output summaries are not accuracy metrics.
+Saved-model inference after the production run reproduced both CSV hashes exactly. Output summaries are not accuracy metrics.
 
 <!-- page-break -->
 
@@ -142,17 +142,19 @@ The original `score.py` validated 12,000 final predictions and 31 fixed December
 
 ## 12. Reproducibility
 
-Use Python 3.12.14 and the pinned tested versions in `constraints.txt`, alongside compatible requirements. From the repository root:
+Verified with Windows Python 3.12.5 and the pinned versions in `constraints.txt`. From the repository root in PowerShell (macOS/Linux commands are in README):
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt -c constraints.txt
-python run_pipeline.py
-pytest -q
-python score.py --predictions validation_predictions.csv \
+```powershell
+py -3.12 -m venv .venv
+$env:PYTHONUTF8 = "1"
+$env:MPLCONFIGDIR = ".cache/matplotlib"
+$python = ".\.venv\Scripts\python.exe"
+& $python -m pip install -r requirements.txt -c constraints.txt
+& $python run_pipeline.py
+& $python -m pytest -q
+& $python score.py --predictions validation_predictions.csv `
   --december-predictions data/december_chart_inputs.csv
-python scripts/build_report.py
+& $python scripts/build_report.py
 ```
 
-The pipeline validates, trains, saves, predicts, and checks integrity without rerunning research. Recorded verification: **109 tests plus 4 subtests passed**, pipeline passed, original scorer passed. Protected inputs remain unchanged. `README.md`, `docs/worklog.md`, and metadata provide the audit trail. Publication and an actual Loom recording are separate submission steps.
+The pipeline validates, trains, saves, predicts, and checks integrity without rerunning research. Recorded verification: **110 tests plus 4 subtests passed**, pipeline passed, original scorer passed. Protected inputs remain unchanged. `README.md`, `docs/worklog.md`, and metadata provide the audit trail. Publication and an actual Loom recording are separate submission steps.

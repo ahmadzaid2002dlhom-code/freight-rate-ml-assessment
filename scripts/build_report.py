@@ -206,7 +206,7 @@ The saved primary predicts every final-inference load. Predictions join to templ
 | Final inference | {summary['validation']['rows']:,} | {summary['validation']['minimum']:,.2f} | {summary['validation']['maximum']:,.2f} | {summary['validation']['mean']:,.2f} | {summary['validation']['median']:,.2f} |
 | December | {summary['december']['rows']} | {summary['december']['minimum']:,.2f} | {summary['december']['maximum']:,.2f} | {summary['december']['mean']:,.2f} | {summary['december']['median']:,.2f} |
 
-Native-model round trips reproduce predictions exactly. The executed production rerun reproduced both CSV hashes exactly. Output summaries are not accuracy metrics.
+Saved-model inference after the production run reproduced both CSV hashes exactly. Output summaries are not accuracy metrics.
 
 <!-- page-break -->
 
@@ -230,17 +230,19 @@ The original `score.py` validated 12,000 final predictions and 31 fixed December
 
 ## 12. Reproducibility
 
-Use Python {metadata['package_versions']['python']} and the pinned tested versions in `constraints.txt`, alongside compatible requirements. From the repository root:
+Verified with Windows Python {metadata['package_versions']['python']} and the pinned versions in `constraints.txt`. From the repository root in PowerShell (macOS/Linux commands are in README):
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt -c constraints.txt
-python run_pipeline.py
-pytest -q
-python score.py --predictions validation_predictions.csv \\
+```powershell
+py -3.12 -m venv .venv
+$env:PYTHONUTF8 = "1"
+$env:MPLCONFIGDIR = ".cache/matplotlib"
+$python = ".\\.venv\\Scripts\\python.exe"
+& $python -m pip install -r requirements.txt -c constraints.txt
+& $python run_pipeline.py
+& $python -m pytest -q
+& $python score.py --predictions validation_predictions.csv `
   --december-predictions data/december_chart_inputs.csv
-python scripts/build_report.py
+& $python scripts/build_report.py
 ```
 
 The pipeline validates, trains, saves, predicts, and checks integrity without rerunning research. Recorded verification: **{tests[0]} tests plus {tests[1]} subtests passed**, pipeline passed, original scorer passed. Protected inputs remain unchanged. `README.md`, `docs/worklog.md`, and metadata provide the audit trail. Publication and an actual Loom recording are separate submission steps.
@@ -262,7 +264,7 @@ def add_inline(paragraph, value):
             paragraph.add_run(piece[2:-2]).bold = True
         elif piece.startswith("`"):
             run = paragraph.add_run(piece[1:-1])
-            run.font.name = "DejaVu Sans Mono"
+            run.font.name = "Consolas"
             run.font.size = Pt(9)
         else:
             paragraph.add_run(piece)
@@ -326,21 +328,27 @@ def create_docx(markdown):
     section.left_margin, section.right_margin = Inches(.75), Inches(.75)
     section.header_distance, section.footer_distance = Inches(.25), Inches(.25)
     normal = document.styles["Normal"]
-    normal.font.name = "DejaVu Sans"
+    normal.font.name = "Calibri"
     normal.font.size = Pt(10)
     normal.font.color.rgb = RGBColor.from_string("24313A")
     normal.paragraph_format.space_after = Pt(5)
     normal.paragraph_format.line_spacing = 1.08
     heading = document.styles["Heading 1"]
-    heading.font.name, heading.font.size = "DejaVu Sans", Pt(12)
+    heading.font.name, heading.font.size = "Calibri", Pt(12)
     heading.font.color.rgb = RGBColor.from_string("17384A")
     heading.paragraph_format.space_before = Pt(9)
     heading.paragraph_format.space_after = Pt(4)
     heading.paragraph_format.keep_with_next = True
     title = document.styles["Title"]
-    title.font.name, title.font.size = "DejaVu Sans", Pt(22)
+    title.font.name, title.font.size = "Calibri", Pt(22)
     title.font.color.rgb = RGBColor.from_string("17384A")
     title.paragraph_format.space_after = Pt(4)
+    borders = OxmlElement("w:pBdr")
+    for side in ("top", "left", "bottom", "right", "between", "bar"):
+        border = OxmlElement(f"w:{side}")
+        border.set(qn("w:val"), "nil")
+        borders.append(border)
+    title.element.get_or_add_pPr().append(borders)
     header = section.header.paragraphs[0]
     header.add_run("FREIGHT RATE ML ASSESSMENT  |  TECHNICAL REPORT").font.size = Pt(8)
     footer = section.footer.paragraphs[0]
@@ -379,7 +387,7 @@ def create_docx(markdown):
             paragraph = document.add_paragraph()
             while index < len(lines) and not lines[index].startswith("```"):
                 run = paragraph.add_run(lines[index] + "\n")
-                run.font.name, run.font.size = "DejaVu Sans Mono", Pt(8.2)
+                run.font.name, run.font.size = "Consolas", Pt(8.2)
                 index += 1
             index += 1
             paragraph.paragraph_format.space_after = Pt(4)
