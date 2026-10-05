@@ -1,0 +1,46 @@
+{
+  "algorithm": "sha256",
+  "description": "Original supplied bytes; policies specify permitted later changes.",
+  "files": {
+    "data/train_test.csv": {
+      "sha256": "892980fd20bac7ac0ca4ec31d3981fca48d52dec88e4f02642ab955f1efb40fe",
+      "size_bytes": 5962834,
+      "policy": "immutable"
+    },
+    "data/validation.csv": {
+      "sha256": "f6cdc7c367b397b90b319fc7ad30fd0e1893fd6a714816dda54c303b0fe71151",
+      "size_bytes": 1393399,
+      "policy": "immutable"
+    },
+    "data/validation_predictions_template.csv": {
+      "sha256": "79de15adabcf807b8636b9b47ebe964d451fbcb343056c44a2c4b54a219891c6",
+      "size_bytes": 132023,
+      "policy": "immutable"
+    },
+    "data/december_chart_inputs.csv": {
+      "sha256": "d4a0cba969e315eae3c967268914960547dc6589568e07bf6182551bdc267e6e",
+      "size_bytes": 1643,
+      "policy": "only-predicted_rate-may-change"
+    },
+    "score.py": {
+      "sha256": "f73af4f34acf0c43cdd6e2cd6b2c0ec8b9da4420fd6fdcd69bd86e14d4868634",
+      "size_bytes": 6331,
+      "policy": "immutable"
+    },
+    "requirements.txt": {
+      "sha256": "20b3d894a5d6bb280bf8419b45023d64eb9ea86f9b6cadbf0232e619c1ab055c",
+      "size_bytes": 49,
+      "policy": "may-update"
+    },
+    "README.md": {
+      "sha256": "1cc7e17fd82cb4b59937a45dc1cbc4baf07f6a7f8124068d8d88290bfd5d62bb",
+      "size_bytes": 1037,
+      "policy": "may-update"
+    },
+    "Freight_Rate_ML_Assessment.pdf": {
+      "sha256": "26c30f73c44fa6306c7bd2b8aa1dfc04b34ab044f6d122b2e6ccd634184ffd69",
+      "size_bytes": 118109,
+      "policy": "immutable"
+    }
+  }
+}
