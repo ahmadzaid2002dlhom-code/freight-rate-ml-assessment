@@ -12,7 +12,7 @@ from src.predict import load_artifacts
 from src.production import (
     ROOT, DECEMBER_COLUMNS, add_december_coordinates, align_predictions,
     check_immutable_inputs, city_coordinate_lookup, rate_summary,
-    validate_december, validate_submission,
+    validate_december, validate_submission, write_csv,
 )
 
 
@@ -147,3 +147,13 @@ def test_coordinate_lookup_rejects_conflicting_locations():
 
 def test_immutable_supplied_files_unchanged():
     check_immutable_inputs()
+
+
+def test_submission_csv_has_portable_newlines(tmp_path):
+    path = tmp_path / "predictions.csv"
+    frame = pd.DataFrame({"load_id": ["TE-000001", "TE-000002"], "predicted_rate": [100.25, 200.5]})
+    write_csv(path, frame)
+    content = path.read_bytes()
+    assert b"\r" not in content
+    assert content.count(b"\n") == len(frame) + 1
+    assert_frame_equal(pd.read_csv(path), frame)

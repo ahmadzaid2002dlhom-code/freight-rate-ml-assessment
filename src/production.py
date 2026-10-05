@@ -129,5 +129,5 @@ def rate_summary(values):
 def write_csv(path, frame):
     path = Path(path)
     temporary = path.with_name(path.name + ".tmp")
-    frame.to_csv(temporary, index=False)
+    frame.to_csv(temporary, index=False, lineterminator="\n")
     temporary.replace(path)

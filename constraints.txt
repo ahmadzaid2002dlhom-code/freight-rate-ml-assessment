@@ -1,7 +1,9 @@
 # Exact installed direct/transitive versions used for the executed assessment.
-# Tested with Python 3.12.14. Install with -r requirements.txt -c constraints.txt.
+# Tested with Python 3.12.14 and Windows Python 3.12.5.
+# Install with -r requirements.txt -c constraints.txt.
 catboost==1.2.10
 cloudpickle==3.1.2
+colorama==0.4.6; sys_platform == "win32"
 contourpy==1.4.0
 cycler==0.12.1
 fonttools==4.66.1
