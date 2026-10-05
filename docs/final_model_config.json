@@ -1,0 +1,163 @@
+{
+  "status": "frozen_before_production_training",
+  "primary": {
+    "model_type": "CatBoostRegressor",
+    "source_experiment": "catboost_ablation_F_clean_log1p",
+    "feature_group": "F",
+    "weight_representation": "clean",
+    "target_strategy": "log1p",
+    "feature_columns": [
+      "distance",
+      "equipment",
+      "weight_clean",
+      "weight_missing",
+      "weight_negative",
+      "pickup",
+      "delivery",
+      "pickup_lat",
+      "pickup_lon",
+      "delivery_lat",
+      "delivery_lon",
+      "route",
+      "month",
+      "day",
+      "day_of_week",
+      "day_of_year",
+      "iso_week",
+      "weekend",
+      "days_since_reference_date",
+      "sin_day_of_week",
+      "cos_day_of_week",
+      "sin_day_of_year",
+      "cos_day_of_year",
+      "market_index",
+      "market_index_missing",
+      "quote_signal"
+    ],
+    "categorical_features": [
+      "equipment",
+      "pickup",
+      "delivery",
+      "route"
+    ],
+    "reference_date": "2025-01-01",
+    "parameters": {
+      "loss_function": "MAE",
+      "iterations": 399,
+      "random_seed": 42,
+      "verbose": false,
+      "thread_count": 4,
+      "allow_writing_files": false,
+      "nan_mode": "Min",
+      "depth": 6,
+      "learning_rate": 0.05,
+      "l2_leaf_reg": 5
+    },
+    "iteration_rule": "median retained tree count across three selected-model chronological folds",
+    "prediction_floor": 0.01,
+    "confirmation_model": "catboost_fixed_F_clean_log1p",
+    "local_metrics_mean": {
+      "MAE": 129.40858623092876,
+      "RMSE": 634.9637144414849,
+      "R2": 0.8257671230796398
+    },
+    "local_metrics_primary_holdout": {
+      "MAE": 116.70764912764066,
+      "RMSE": 636.5045051112918,
+      "R2": 0.8260341164044548
+    },
+    "robustness_checks": [
+      {
+        "case": "unseen_cities_routes_equipment",
+        "rows": 128,
+        "finite_positive": true
+      },
+      {
+        "case": "missing_weight",
+        "rows": 128,
+        "finite_positive": true
+      },
+      {
+        "case": "negative_weight",
+        "rows": 128,
+        "finite_positive": true
+      },
+      {
+        "case": "unavailable_market_and_quote",
+        "rows": 128,
+        "finite_positive": true
+      },
+      {
+        "case": "missing_categories_and_coordinates",
+        "rows": 128,
+        "finite_positive": true
+      }
+    ]
+  },
+  "december": {
+    "model_type": "CatBoostRegressor",
+    "source_experiment": "catboost_ablation_C_clean_direct",
+    "feature_group": "C",
+    "weight_representation": "clean",
+    "target_strategy": "direct",
+    "feature_columns": [
+      "distance",
+      "equipment",
+      "weight_clean",
+      "weight_missing",
+      "weight_negative",
+      "pickup",
+      "delivery",
+      "pickup_lat",
+      "pickup_lon",
+      "delivery_lat",
+      "delivery_lon",
+      "month",
+      "day",
+      "day_of_week",
+      "day_of_year",
+      "iso_week",
+      "weekend",
+      "days_since_reference_date",
+      "sin_day_of_week",
+      "cos_day_of_week",
+      "sin_day_of_year",
+      "cos_day_of_year"
+    ],
+    "categorical_features": [
+      "equipment",
+      "pickup",
+      "delivery"
+    ],
+    "reference_date": "2025-01-01",
+    "parameters": {
+      "loss_function": "MAE",
+      "iterations": 541,
+      "random_seed": 42,
+      "verbose": false,
+      "thread_count": 4,
+      "allow_writing_files": false,
+      "nan_mode": "Min",
+      "depth": 6,
+      "learning_rate": 0.05,
+      "l2_leaf_reg": 5
+    },
+    "iteration_rule": "median retained tree count across three selected-model chronological folds",
+    "prediction_floor": 0.01,
+    "confirmation_model": "catboost_fixed_C_clean_direct",
+    "local_metrics_mean": {
+      "MAE": 143.84995494505307,
+      "RMSE": 637.1409844270054,
+      "R2": 0.8245340184463194
+    },
+    "local_metrics_primary_holdout": {
+      "MAE": 113.66471948293021,
+      "RMSE": 635.3121531442441,
+      "R2": 0.8266852799887463
+    },
+    "robustness_checks": []
+  },
+  "selection_data": "data/train_test.csv only",
+  "selection_rule": "adaptive mean-MAE contenders within 3% confirmed at fixed median budgets; fixed mean-MAE shortlist within 1%, prioritize Sep-Oct MAE, then mean MAE, RMSE, MAE variability",
+  "validation_limit": "Chronological folds reused for stopping and selection; not an independent test"
+}
