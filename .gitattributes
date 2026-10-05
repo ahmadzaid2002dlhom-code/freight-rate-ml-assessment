@@ -1,0 +1,8 @@
+# Keep immutable CSV/scorer bytes and native artifacts unchanged across clones.
+*.py text eol=lf
+*.json text eol=lf
+score.py -text
+*.csv -text
+*.cbm -text
+*.png -text
+*.pdf -text
